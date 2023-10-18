@@ -921,3 +921,6 @@ Netherese Ring of Protection	https://www.dndbeyond.com/magic-items/7247085-nethe
 Potion of Psionic Fortitude	https://www.dndbeyond.com/magic-items/7247086-potion-of-psionic-fortitude
 Ring of the Orator	https://www.dndbeyond.com/magic-items/7247087-ring-of-the-orator
 Statuette of Augury	https://www.dndbeyond.com/magic-items/7247090-statuette-of-augury
+Mimir	https://www.dndbeyond.com/magic-items/7393974-mimir
+Portal Compass	https://www.dndbeyond.com/magic-items/7393975-portal-compass
+Sensory Stone	https://www.dndbeyond.com/magic-items/7393976-sensory-stone
