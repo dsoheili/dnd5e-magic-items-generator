@@ -924,3 +924,62 @@ Statuette of Augury	https://www.dndbeyond.com/magic-items/7247090-statuette-of-a
 Mimir	https://www.dndbeyond.com/magic-items/7393974-mimir
 Portal Compass	https://www.dndbeyond.com/magic-items/7393975-portal-compass
 Sensory Stone	https://www.dndbeyond.com/magic-items/7393976-sensory-stone
+Antimagic Armor	https://www.dndbeyond.com/magic-items/7526578-antimagic-armor
+Armor of Fungal Spores	https://www.dndbeyond.com/magic-items/7526586-armor-of-fungal-spores
+Armor of the Fallen	https://www.dndbeyond.com/magic-items/7526597-armor-of-the-fallen
+Armor of Weightlessness	https://www.dndbeyond.com/magic-items/7526611-armor-of-weightlessness
+Baleful Talon	https://www.dndbeyond.com/magic-items/7526614-baleful-talon
+Blasted Goggles	https://www.dndbeyond.com/magic-items/7526616-blasted-goggles
+Bloodrage Greataxe	https://www.dndbeyond.com/magic-items/7526617-bloodrage-greataxe
+Bloodseeker Ammunition	https://www.dndbeyond.com/magic-items/7526618-bloodseeker-ammunition
+Boomerang Shield	https://www.dndbeyond.com/magic-items/7526627-boomerang-shield
+Bow of Conflagration	https://www.dndbeyond.com/magic-items/7526628-bow-of-conflagration
+Bow of Melodies	https://www.dndbeyond.com/magic-items/7526629-bow-of-melodies
+Breastplate of Balance	https://www.dndbeyond.com/magic-items/7526630-breastplate-of-balance
+Card Sharp's Deck	https://www.dndbeyond.com/magic-items/7526631-card-sharps-deck
+Clockwork Armor	https://www.dndbeyond.com/magic-items/7526632-clockwork-armor
+Crown of Whirling Comets	https://www.dndbeyond.com/magic-items/7526637-crown-of-whirling-comets
+Deck of Dimensions	https://www.dndbeyond.com/magic-items/7526638-deck-of-dimensions
+Deck of Many More Things	https://www.dndbeyond.com/magic-items/7526639-deck-of-many-more-things
+Deck of Many Things	https://www.dndbeyond.com/magic-items/4617-deck-of-many-things
+Deck of Miscellany	https://www.dndbeyond.com/magic-items/7526640-deck-of-miscellany
+Deck of Oracles	https://www.dndbeyond.com/magic-items/7526641-deck-of-oracles
+Deck of Wild Cards	https://www.dndbeyond.com/magic-items/7526642-deck-of-wild-cards
+Deck of Wonder	https://www.dndbeyond.com/magic-items/7526643-deck-of-wonder
+Donjon's Sundering Sphere	https://www.dndbeyond.com/magic-items/7526644-donjons-sundering-sphere
+Dried Leech	https://www.dndbeyond.com/magic-items/7526654-dried-leech
+Euryale's Aegis	https://www.dndbeyond.com/magic-items/7526655-euryales-aegis
+Fabulist Gem	https://www.dndbeyond.com/magic-items/7526656-fabulist-gem
+Fate Cutter Shears	https://www.dndbeyond.com/magic-items/7526657-fate-cutter-shears
+Fate Dealer's Deck	https://www.dndbeyond.com/magic-items/7526661-fate-dealers-deck
+Feywrought Armor	https://www.dndbeyond.com/magic-items/7526675-feywrought-armor
+Fool's Blade	https://www.dndbeyond.com/magic-items/7526677-fools-blade
+Forcebreaker Weapon	https://www.dndbeyond.com/magic-items/7526697-forcebreaker-weapon
+Glimmering Moonbow	https://www.dndbeyond.com/magic-items/7526701-glimmering-moonbow
+Gloomwrought Armor	https://www.dndbeyond.com/magic-items/7526716-gloomwrought-armor
+Grasping Whip	https://www.dndbeyond.com/magic-items/7526717-grasping-whip
+Hammer of Runic Focus	https://www.dndbeyond.com/magic-items/7526722-hammer-of-runic-focus
+House of Cards	https://www.dndbeyond.com/magic-items/7526727-house-of-cards
+Jester's Mask	https://www.dndbeyond.com/magic-items/7526729-jesters-mask
+Plate of Knight's Fellowship	https://www.dndbeyond.com/magic-items/7526744-plate-of-knights-fellowship
+Ring of Puzzler's Wit	https://www.dndbeyond.com/magic-items/7526748-ring-of-puzzlers-wit
+Rod of Hellish Flames	https://www.dndbeyond.com/magic-items/7526749-rod-of-hellish-flames
+Rogue's Mantle	https://www.dndbeyond.com/magic-items/7526750-rogues-mantle
+Ruinous Flail	https://www.dndbeyond.com/magic-items/7526751-ruinous-flail
+Sage's Signet	https://www.dndbeyond.com/magic-items/7526758-sages-signet
+Shield of the Tortoise	https://www.dndbeyond.com/magic-items/7526761-shield-of-the-tortoise
+Shrieking Greaves	https://www.dndbeyond.com/magic-items/7526767-shrieking-greaves
+Skull Helm	https://www.dndbeyond.com/magic-items/7526768-skull-helm
+Sling of Giant Felling	https://www.dndbeyond.com/magic-items/7526769-sling-of-giant-felling
+Spindle of Fate	https://www.dndbeyond.com/magic-items/7526770-spindle-of-fate
+Starshot Crossbow	https://www.dndbeyond.com/magic-items/7526771-starshot-crossbow
+Stonemaker War Pick	https://www.dndbeyond.com/magic-items/7526775-stonemaker-war-pick
+Sun Staff	https://www.dndbeyond.com/magic-items/7526776-sun-staff
+Sword of the Planes	https://www.dndbeyond.com/magic-items/7526777-sword-of-the-planes
+Telescopic Transporter	https://www.dndbeyond.com/magic-items/7526778-telescopic-transporter
+Tidecaller Trident	https://www.dndbeyond.com/magic-items/7526779-tidecaller-trident
+Voidwalker Armor	https://www.dndbeyond.com/magic-items/7526781-voidwalker-armor
+Warrior's Passkey	https://www.dndbeyond.com/magic-items/7526784-warriors-passkey
+Weapon of Throne's Command	https://www.dndbeyond.com/magic-items/7526785-weapon-of-thrones-command
+Winged Ammunition	https://www.dndbeyond.com/magic-items/7526787-winged-ammunition
+Wraps of Unarmed Prowess	https://www.dndbeyond.com/magic-items/7526798-wraps-of-unarmed-prowess

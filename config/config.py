@@ -16,7 +16,7 @@ blessing_probability = 0.05
 # ---------------------------
 
 # Number of items available in the magic item shop
-number_of_shop_items = 6
+number_of_shop_items = 8
 
 # For rolling stock of magic item shop
 rarities_probabilities = {
@@ -62,17 +62,17 @@ xlations = {
 }
 
 gui_info_text = """
-| Table  | Dice       | Max | Rarity           |
-|--------|------------|-----|------------------|
-| 1  - A | 1d100+1d20 | 120 | Common           |
-| 2  - B | 1d100+2d20 | 140 | Uncommon, minor  |
-| 3  - C | 1d100+2d20 | 140 | Rare, minor      |
-| 4  - D | 1d100      | 100 | Very Rare, minor |
-| 5  - E | 1d100      | 100 | Legendary, minor |
-| 6  - F | 1d100+1d20 | 120 | Uncommon, major  |
-| 7  - G | 2d100      | 200 | Rare, major      |
-| 8  - H | 1d100+2d20 | 140 | Very Rare, major |
-| 9  - I | 1d100+1d20 | 120 | Legendary, major |
-| 10 - J | 2d20+1d12  | 52  | Mythic           |
-| 11 - K | 1d12       | 12  | Unknown          |
+| Table  | Dice           | Max | Rarity           |
+|--------|----------------|-----|------------------|
+| 1  - A | 1d100+1d20     | 120 | Common           |
+| 2  - B | 1d100+3d20     | 160 | Uncommon, minor  |
+| 3  - C | 1d100+2d20     | 140 | Rare, minor      |
+| 4  - D | 1d100          | 100 | Very Rare, minor |
+| 5  - E | 1d100          | 100 | Legendary, minor |
+| 6  - F | 1d100+1d20     | 120 | Uncommon, major  |
+| 7  - G | 2d100+1d20     | 220 | Rare, major      |
+| 8  - H | 1d100+3d20     | 160 | Very Rare, major |
+| 9  - I | 1d100+1d20+1d6 | 126 | Legendary, major |
+| 10 - J | 2d20+1d12      | 52  | Mythic           |
+| 11 - K | 1d12           | 12  | Unknown          |
 """
