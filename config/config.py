@@ -16,9 +16,21 @@ blessing_probability = 0.05
 # ---------------------------
 
 # Number of items available in the magic item shop
-number_of_shop_items = 8
+number_of_shop_items = 7
+
+default_shop_rarity = "common"
+shop_items_predefined_rarities = [
+    ["common"],
+    ["common"],
+    ["uncommon_minor","uncommon_major"],
+    ["uncommon_minor","uncommon_major"],
+    ["rare_minor","rare_major"],
+    ["very_rare_minor","very_rare_major"],
+    ["legendary_minor","legendary_major"],
+]
 
 # For rolling stock of magic item shop
+random_rarities_for_shop_items = False
 rarities_probabilities = {
     "common": 0.3,
     "uncommon_minor": 0.1,
