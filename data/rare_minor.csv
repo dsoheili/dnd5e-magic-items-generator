@@ -3,6 +3,7 @@ Blessed Potion of Superior Healing
 Blessed Potion of Superior Healing
 Blessed Potion of Superior Healing
 Blessed Potion of Superior Healing
+Blessed Potion of Superior Healing
 Spell Scroll (4th Level)
 Spell Scroll (4th Level)
 Spell Scroll (4th Level)
@@ -11,17 +12,16 @@ Spell Scroll (5th Level)
 Spell Scroll (5th Level)
 Spell Scroll (5th Level)
 Spell Scroll (5th Level)
-Ammunition +2
+Ammunition, +2
+Ammunition, +2
+Ammunition, +2
 Potion of Clairvoyance
-Potion of Clairvoyance
-Potion of Diminution
 Potion of Diminution
 Potion of Gaseous Form
 Potion of Giant Strength (Frost Or Stone Giant)
 Potion of Heroism
 Potion of Invulnerability
 Potion of Mind Reading
-Elixir of Health
 Elixir of Health
 Oil of Etherealness
 Potion of Giant Strength (Fire Giant)
@@ -35,16 +35,16 @@ Heward's Handy Haversack
 Horseshoes of Speed
 Necklace of Fireballs
 Portable Hole
-Weapon +2
-Weapon +2
-Weapon +2
-Weapon +2
-Weapon +2
-Weapon +2
-Weapon +2
-Weapon +2
-Weapon +2
-Weapon +2
+Weapon, +2
+Weapon, +2
+Weapon, +2
+Weapon, +2
+Weapon, +2
+Weapon, +2
+Weapon, +2
+Weapon, +2
+Weapon, +2
+Weapon, +2
 Figurine of Wondrous Power (Bronze Griffon)
 Figurine of Wondrous Power (Ebony Fly)
 Figurine of Wondrous Power (Golden Lions)
@@ -57,8 +57,8 @@ Bowl of Commanding Water Elementals
 Brazier of Commanding Fire Elementals
 Cape of the Mountebank
 Censer of Controlling Air Elementals
-Armor +1, Chain Mail
-Armor +1, Chain Shirt
+Chain Mail, +1
+Chain Shirt, +1
 Daern's Instant Fortress
 Dagger of Venom
 Dimensional Shackles
@@ -69,34 +69,34 @@ Glamoured Studded Leather
 Horn of Blasting
 Horn of Valhalla (Silver Or Brass)
 Iron Bands of Bilarro
-Armor +1, Leather
-Armor +1, Scale Mail
+Leather, +1
+Scale Mail, +1
 Mace of Smiting
 Periapt of Proof Against Poison
 Ring of Animal Influence
 Rope of Entanglement
-Shield +2
-Shield +2
-Shield +2
-Shield +2
-Shield +2
+Shield, +2
+Shield, +2
+Shield, +2
+Shield, +2
+Shield, +2
 Stone of Controlling Earth Elementals
 Vicious Weapon
-Armor +1, Breastplate
-Armor +1, Splint
-Armor +1, Studded Leather
-Armor +1, Half Plate
-Armor +1, Plate
-Armor +1, Any
+Breastplate, +1
+Splint, +1
+Studded Leather, +1
+Half Plate, +1
+Plate, +1
+Armor, +1
 Potion of Maximum Power
 Weapon of Certain Death
 Documancy Satchel (rank 4)
 Living Loot Satchel (rank 3)
-Mithral Half Plate +1
+Mithral Half Plate, +1
 Obviator's Lenses (rank 4)
 Occultant Abacus (rank 3)
 Portfolio Keeper (rank 3)
-Vicious Rapier +1
+Vicious Rapier, +1
 Whisper Jar (rank 3)
 Potion of Mind Control (Beast)
 Potion of Mind Control (Humanoid)
@@ -127,7 +127,7 @@ Eagle Whistle
 Mirror of the Past
 Chromatic Rose
 Woodcutter's Axe
-Yklwa +2
+Yklwa, +2
 Dragontooth Dagger
 Dodecahedron of Doom
 Horn of the Endless Maze
@@ -138,3 +138,9 @@ Arcane Oil
 Lycan Weapon
 Lycanthropy Antidote
 Ready Gunk
+Aqua Delerium
+Aqua Expurgo
+Bottled Comet
+Delerium-Forged Blade
+Hardened Delerium-tipped Arrows
+Refined Delerium Dust

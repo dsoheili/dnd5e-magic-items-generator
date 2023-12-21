@@ -3,7 +3,6 @@ Blessed Potion of Supreme Healing
 Blessed Potion of Supreme Healing
 Blessed Potion of Supreme Healing
 Potion of Invisibility
-Potion of Invisibility
 Potion of Speed
 Spell Scroll (6th Level)
 Spell Scroll (6th Level)
@@ -15,9 +14,9 @@ Spell Scroll (7th Level)
 Spell Scroll (7th Level)
 Spell Scroll (7th Level)
 Spell Scroll (7th Level)
-Ammunition +3
-Ammunition +3
-Ammunition +3
+Ammunition, +3
+Ammunition, +3
+Ammunition, +3
 Oil of Sharpness
 Potion of Flying
 Potion of Giant Strength (Cloud Giant)
@@ -31,45 +30,45 @@ Spell Scroll (8th Level)
 Spell Scroll (8th Level)
 Spell Scroll (8th Level)
 Arrow of Slaying
-Weapon +3
-Weapon +3
-Weapon +3
-Weapon +3
-Weapon +3
-Weapon +3
-Weapon +3
-Weapon +3
-Weapon +3
-Weapon +3
+Weapon, +3
+Weapon, +3
+Weapon, +3
+Weapon, +3
+Weapon, +3
+Weapon, +3
+Weapon, +3
+Weapon, +3
+Weapon, +3
+Weapon, +3
 Carpet of Flying
 Rod of Security
-Shield +3
-Shield +3
-Shield +3
-Shield +3
-Shield +3
-Armor +2, Chain Mail
-Armor +2, Chain Shirt
+Shield, +3
+Shield, +3
+Shield, +3
+Shield, +3
+Shield, +3
+Chain Mail, +2
+Chain Shirt, +2
 Dwarven Plate
 Efreeti Bottle
 Figurine of Wondrous Power (Obsidian Steed)
 Horn of Valhalla (Bronze)
-Armor +2, Leather
+Leather, +2
 Manual of Bodily Health
 Manual of Gainful Exercise
 Manual of Golems
 Manual of Quickness of Action
 Mirror of Life Trapping
-Armor +2, Scale Mail
+Scale Mail, +2
 Tome of Clear Thought
 Tome of Leadership And Influence
 Tome of Understanding
-Armor +2, Breastplate
-Armor +2, Splint
-Armor +2, Studded Leather
-Armor +2, Half Plate
-Armor +2, Plate
-Armor +2, Any
+Breastplate, +2
+Splint, +2
+Studded Leather, +2
+Half Plate, +2
+Plate, +2
+Armor, +2
 Reincarnation Dust
 Arcane Cannon
 Dispelling Stone
@@ -91,10 +90,11 @@ Cataclysm Bolts
 Mirror of Infinite Transpondence
 Raven's Slumber
 Ornithopter of Flying
-Yklwa +3
+Yklwa, +3
 Baleful Talon
 Bloodseeker Ammunition
 Deck of Wild Cards
 Forcebreaker Weapon
 Wraps of Unarmed Prowess, +3
 Lindwyrm Venom
+Hazewalker Plate

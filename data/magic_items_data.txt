@@ -983,3 +983,85 @@ Warrior's Passkey	https://www.dndbeyond.com/magic-items/7526784-warriors-passkey
 Weapon of Throne's Command	https://www.dndbeyond.com/magic-items/7526785-weapon-of-thrones-command
 Winged Ammunition	https://www.dndbeyond.com/magic-items/7526787-winged-ammunition
 Wraps of Unarmed Prowess	https://www.dndbeyond.com/magic-items/7526798-wraps-of-unarmed-prowess
+Arcane Oil	https://www.dndbeyond.com/magic-items/7666930-arcane-oil
+Brazen Armor	https://www.dndbeyond.com/magic-items/7666931-brazen-armor
+Coat of Lies	https://www.dndbeyond.com/magic-items/7666932-coat-of-lies
+Glass-Studded Armor	https://www.dndbeyond.com/magic-items/7666934-glass-studded-armor
+Knifewing Cape	https://www.dndbeyond.com/magic-items/7666935-knifewing-cape
+Lindwyrm Venom	https://www.dndbeyond.com/magic-items/7666936-lindwyrm-venom
+Lycan Weapon	https://www.dndbeyond.com/magic-items/7666973-lycan-weapon
+Lycanthropy Antidote	https://www.dndbeyond.com/magic-items/7666975-lycanthropy-antidote
+Ready Gunk	https://www.dndbeyond.com/magic-items/7666976-ready-gunk
+Wand of Silence	https://www.dndbeyond.com/magic-items/7666977-wand-of-silence
+Aqua Delerium	https://www.dndbeyond.com/magic-items/7755378-aqua-delerium
+Aqua Expurgo	https://www.dndbeyond.com/magic-items/7755379-aqua-expurgo
+Bottled Comet	https://www.dndbeyond.com/magic-items/7755380-bottled-comet
+Chancellor's Crest	https://www.dndbeyond.com/magic-items/7755381-chancellors-crest
+Comet Smasher	https://www.dndbeyond.com/magic-items/7755390-comet-smasher
+Crown of Westemär	https://www.dndbeyond.com/magic-items/7755391-crown-of-westemar
+Delerium Crystal Focus	https://www.dndbeyond.com/magic-items/7755392-delerium-crystal-focus
+Delerium-Forged Blade	https://www.dndbeyond.com/magic-items/7755393-delerium-forged-blade
+Flame Lance	https://www.dndbeyond.com/magic-items/7755399-flame-lance
+Hardened Delerium-tipped Arrows	https://www.dndbeyond.com/magic-items/7755400-hardened-delerium-tipped-arrows
+Hazewalker Plate	https://www.dndbeyond.com/magic-items/7755401-hazewalker-plate
+Helm of Patron Saints	https://www.dndbeyond.com/magic-items/7755402-helm-of-patron-saints
+Ignacious, the Sword of Burning Truth	https://www.dndbeyond.com/magic-items/7755403-ignacious-the-sword-of-burning-truth
+Inscrutable Staff	https://www.dndbeyond.com/magic-items/7755404-inscrutable-staff
+Lord Commander's Badge	https://www.dndbeyond.com/magic-items/7755405-lord-commanders-badge
+Purging Rod	https://www.dndbeyond.com/magic-items/7755406-purging-rod
+Refined Delerium Dust	https://www.dndbeyond.com/magic-items/7755407-refined-delerium-dust
+Saint Vitruvio's Phylactery	https://www.dndbeyond.com/magic-items/7755408-saint-vitruvios-phylactery
+Sceptre of Saint Vitruvio	https://www.dndbeyond.com/magic-items/7755409-sceptre-of-saint-vitruvio
+Skymetal Shield	https://www.dndbeyond.com/magic-items/7755410-skymetal-shield
+Skymetal Staff	https://www.dndbeyond.com/magic-items/7755411-skymetal-staff
+Spellpiercing Wand	https://www.dndbeyond.com/magic-items/7755412-spellpiercing-wand
+Spymaster's Signet	https://www.dndbeyond.com/magic-items/7755413-spymasters-signet
+Staff of Contaminated Power	https://www.dndbeyond.com/magic-items/7755414-staff-of-contaminated-power
+Starcrossed Bow	https://www.dndbeyond.com/magic-items/7755415-starcrossed-bow
+Steward's Seal	https://www.dndbeyond.com/magic-items/7755421-stewards-seal
+The Shield of Sacred Flame	https://www.dndbeyond.com/magic-items/7755422-the-shield-of-sacred-flame
+Padded, +1	https://www.dndbeyond.com/magic-items/5091-padded-1
+Leather, +1	https://www.dndbeyond.com/magic-items/5090-leather-1
+Studded Leather, +1	https://www.dndbeyond.com/magic-items/5096-studded-leather-1
+Hide, +1	https://www.dndbeyond.com/magic-items/5089-hide-1
+Chain Shirt, +1	https://www.dndbeyond.com/magic-items/5087-chain-shirt-1
+Scale Mail, +1	https://www.dndbeyond.com/magic-items/5094-scale-mail-1
+Breastplate, +1	https://www.dndbeyond.com/magic-items/4573-breastplate-1
+Half Plate, +1	https://www.dndbeyond.com/magic-items/5088-half-plate-1
+Ring Mail, +1	https://www.dndbeyond.com/magic-items/5093-ring-mail-1
+Chain Mail, +1	https://www.dndbeyond.com/magic-items/5086-chain-mail-1
+Splint, +1	https://www.dndbeyond.com/magic-items/5095-splint-1
+Plate, +1	https://www.dndbeyond.com/magic-items/5092-plate-1
+Padded, +2	https://www.dndbeyond.com/magic-items/5103-padded-2
+Leather, +2	https://www.dndbeyond.com/magic-items/5102-leather-2
+Studded Leather, +2	https://www.dndbeyond.com/magic-items/5108-studded-leather-2
+Hide, +2	https://www.dndbeyond.com/magic-items/5101-hide-2
+Chain Shirt, +2	https://www.dndbeyond.com/magic-items/5099-chain-shirt-2
+Scale Mail, +2	https://www.dndbeyond.com/magic-items/5106-scale-mail-2
+Breastplate, +2	https://www.dndbeyond.com/magic-items/5097-breastplate-2
+Half Plate, +2	https://www.dndbeyond.com/magic-items/5100-half-plate-2
+Ring Mail, +2	https://www.dndbeyond.com/magic-items/5105-ring-mail-2
+Chain Mail, +2	https://www.dndbeyond.com/magic-items/5098-chain-mail-2
+Splint, +2	https://www.dndbeyond.com/magic-items/5107-splint-2
+Plate, +2	https://www.dndbeyond.com/magic-items/5104-plate-2
+Padded, +3	https://www.dndbeyond.com/magic-items/5115-padded-3
+Leather, +3	https://www.dndbeyond.com/magic-items/5114-leather-3
+Studded Leather, +3	https://www.dndbeyond.com/magic-items/5120-studded-leather-3
+Hide, +3	https://www.dndbeyond.com/magic-items/5113-hide-3
+Chain Shirt, +3	https://www.dndbeyond.com/magic-items/5111-chain-shirt-3
+Scale Mail, +3	https://www.dndbeyond.com/magic-items/5118-scale-mail-3
+Breastplate, +3	https://www.dndbeyond.com/magic-items/5109-breastplate-3
+Half Plate, +3	https://www.dndbeyond.com/magic-items/5112-half-plate-3
+Ring Mail, +3	https://www.dndbeyond.com/magic-items/5117-ring-mail-3
+Chain Mail, +3	https://www.dndbeyond.com/magic-items/5110-chain-mail-3
+Splint, +3	https://www.dndbeyond.com/magic-items/5119-splint-3
+Plate, +3	https://www.dndbeyond.com/magic-items/5116-plate-3
+Moon Sickle, +1	https://www.dndbeyond.com/magic-items/2405408-moon-sickle-1
+Moon Sickle, +2	https://www.dndbeyond.com/magic-items/2405452-moon-sickle-2
+Moon Sickle, +3	https://www.dndbeyond.com/magic-items/2405460-moon-sickle-3
+Dragonhide Belt, +1	https://www.dndbeyond.com/magic-items/4047206-dragonhide-belt-1
+Dragonhide Belt, +2	https://www.dndbeyond.com/magic-items/4047207-dragonhide-belt-2
+Dragonhide Belt, +3	https://www.dndbeyond.com/magic-items/4047208-dragonhide-belt-3
+Rod of the Pact Keeper, +1	https://www.dndbeyond.com/magic-items/11217-rod-of-the-pact-keeper-1
+Rod of the Pact Keeper, +2	https://www.dndbeyond.com/magic-items/11218-rod-of-the-pact-keeper-2
+Rod of the Pact Keeper, +3	https://www.dndbeyond.com/magic-items/11219-rod-of-the-pact-keeper-3
