@@ -75,17 +75,17 @@ xlations = {
 }
 
 gui_info_text = """
-| Table  | Dice           | Max | Rarity           |
-|--------|----------------|-----|------------------|
-| 1  - A | 1d100+1d20     | 120 | Common           |
-| 2  - B | 1d100+3d20     | 160 | Uncommon, minor  |
-| 3  - C | 1d100+2d20+1d6 | 146 | Rare, minor      |
-| 4  - D | 1d100          | 100 | Very Rare, minor |
-| 5  - E | 1d100          | 100 | Legendary, minor |
-| 6  - F | 1d100+1d20     | 120 | Uncommon, major  |
-| 7  - G | 2d100+1d20     | 220 | Rare, major      |
-| 8  - H | 1d100+3d20     | 160 | Very Rare, major |
-| 9  - I | 1d100+1d20+2d6 | 132 | Legendary, major |
-| 10 - J | 2d20+1d12      | 52  | Mythic           |
-| 11 - K | 1d12           | 12  | Unknown          |
+| Table  | Dice            | Max | Rarity           |
+|--------|-----------------|-----|------------------|
+| 1  - A | 1d100+1d20      | 120 | Common           |
+| 2  - B | 1d100+3d20      | 160 | Uncommon, minor  |
+| 3  - C | 1d100+2d20+1d6  | 146 | Rare, minor      |
+| 4  - D | 1d100           | 100 | Very Rare, minor |
+| 5  - E | 1d100           | 100 | Legendary, minor |
+| 6  - F | 1d100+1d20      | 120 | Uncommon, major  |
+| 7  - G | 2d100+1d20      | 220 | Rare, major      |
+| 8  - H | 1d100+3d20      | 160 | Very Rare, major |
+| 9  - I | 1d100+1d20+1d12 | 132 | Legendary, major |
+| 10 - J | 2d20+4d4        | 56  | Mythic           |
+| 11 - K | 1d12            | 12  | Unknown          |
 """
