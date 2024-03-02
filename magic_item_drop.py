@@ -17,8 +17,10 @@ def generate_magic_item():
     item_price = get_item_price(rarity)
     magic_item_url = get_magic_item_url(magic_item_name, magic_items_info)
     rarity_text = get_xlation(rarity)
+    emoticons = get_emoticons(rarity)
 
-    output_text = f"{character_name} received:\n"
+    output_text = f"**{character_name} found a magic item!**\n"
+    output_text += f"{emoticons}\n"
     output_text += f"```\n"
     output_text += f"Item Name: {magic_item_name}\n"
     output_text += f"Rarity: {rarity_text}\n"
@@ -28,6 +30,7 @@ def generate_magic_item():
     output_text += f"```\n"
     if magic_item_url:
         output_text += f"URL: <{magic_item_url}>\n"
+        output_text += f"-----\n"
     else:
         print()
         output_text += f"\n!item {magic_item_name}"

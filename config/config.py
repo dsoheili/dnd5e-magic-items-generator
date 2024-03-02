@@ -1,21 +1,23 @@
 # Player character names for GUI
 character_names = [
     "Anweira",
+    "Elara",
     "Hopper",
     "Olo",
     "Skellor",
     "Urashi",
-    "Winnera",
     "NPC"
 ]
 
-# ----- Enchantments --------
+# ----- Enchantments ------------
 # Determines if magic item shop applies curses/boons to items
 magic_item_enchantments_enabled = True
 curse_probability = 0.65
 blessing_probability = 0.05
 # ---------------------------
 
+
+# ----- Magic Items Shop --------
 # Number of items available in the magic item shop
 number_of_shop_items = 7
 
@@ -57,7 +59,17 @@ price_ranges = {
     "very_rare_major": (10000, 25000),
     "legendary_major": (25000, 50000),
     "mythic": (100000,200000),
-    "unknown": (200000,300000)
+    "unknown": (200000,300000),
+    "level_0": (50, 100),
+    "level_1": (100, 300),
+    "level_2": (300, 500),
+    "level_3": (500, 800),
+    "level_4": (800, 1200),
+    "level_5": (1200, 2500),
+    "level_6": (2500, 5500),
+    "level_7": (5500, 8000),
+    "level_8": (8000, 12000),
+    "level_9": (12000, 16000)
 }
 
 xlations = {
@@ -71,7 +83,41 @@ xlations = {
     "very_rare_major": "Very Rare, Major",
     "legendary_major": "Legendary, Major",
     "mythic": "Mythic",
-    "unknown": "Unknown"
+    "unknown": "Unknown",
+    "level_0": "Spell Scroll (Cantrip)",
+    "level_1": "Spell Scroll (1st Level)",
+    "level_2": "Spell Scroll (2nd Level)",
+    "level_3": "Spell Scroll (3rd Level)",
+    "level_4": "Spell Scroll (4th Level)",
+    "level_5": "Spell Scroll (5th Level)",
+    "level_6": "Spell Scroll (6th Level)",
+    "level_7": "Spell Scroll (7th Level)",
+    "level_8": "Spell Scroll (8th Level)",
+    "level_9": "Spell Scroll (9th Level)"
+}
+
+emoticons = {
+    "common": ":star:",
+    "uncommon_minor": ":star::star:",
+    "rare_minor": ":star::star::star:",
+    "very_rare_minor": ":star::star::star::star:",
+    "legendary_minor": ":star::star::star::star::star:",
+    "uncommon_major": ":star2::star2:",
+    "rare_major": ":star2::star2::star2:",
+    "very_rare_major": ":star2::star2::star2::star2:",
+    "legendary_major": ":star2::star2::star2::star2::star2:",
+    "mythic": ":sunny:",
+    "unknown": ":new_moon:",
+    "level_0": ":dizzy:",
+    "level_1": ":star:",
+    "level_2": ":star::star:",
+    "level_3": ":star::star::star:",
+    "level_4": ":star::star::star::star:",
+    "level_5": ":star::star::star::star::star:",
+    "level_6": ":star::star::star::star::star::star:",
+    "level_7": ":star::star::star::star::star::star::star:",
+    "level_8": ":star::star::star::star::star::star::star::star:",
+    "level_9": ":star::star::star::star::star::star::star::star::star:"
 }
 
 gui_info_text = """
@@ -89,3 +135,20 @@ gui_info_text = """
 | 10 - J | 2d20+4d4        | 56  | Mythic           |
 | 11 - K | 1d12            | 12  | Unknown          |
 """
+
+
+# ----- Spell Scrolls Shop --------
+number_of_scroll_shop_items = 7
+random_rarities_for_scroll_shop_items = False
+scroll_rarities_probabilities = {
+    "level_0": 0.3,
+    "level_1": 0.1,
+    "level_2": 0.1,
+    "level_3": 0.1,
+    "level_4": 0.1,
+    "level_5": 0.05,
+    "level_6": 0.05,
+    "level_7": 0.05,
+    "level_8": 0.025,
+    "level_9": 0.025
+}

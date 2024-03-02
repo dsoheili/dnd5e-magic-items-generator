@@ -21,6 +21,20 @@ def get_magic_items_from_file(file_name):
             magic_items.append(row)
     return magic_items
 
+def get_magic_spell(spell_level):
+    filename = f"data/spells/{spell_level}.csv"
+
+    try:
+        with open(filename, "r") as file:
+            spells = [line.strip() for line in file.readlines() if line.strip()]
+
+        if not spells:
+            return None
+
+        spell = random.choice(spells)
+        return spell
+    except FileNotFoundError:
+        return None
 
 def get_magic_item(rarity):
     filename = f"data/{rarity}.csv"
@@ -78,16 +92,17 @@ def determine_enchantment():
         return None, None
 
 
-def pick_random_rarity():
+def pick_random_rarity(probabilities):
     rand_val = random.random()
     cumulative_prob = 0
 
-    for rarity, probability in rarities_probabilities.items():
+    for rarity, probability in probabilities.items():
         cumulative_prob += probability
         if rand_val <= cumulative_prob:
             return rarity
 
-    return "common"
+    # return first item as default
+    return list(probabilities)[0]
 
 
 def generate_item_notes(magic_item_name):
@@ -108,3 +123,8 @@ def get_xlation(key):
     if key in xlations:
         return xlations[key]
     return key
+
+def get_emoticons(key):
+    if key in emoticons:
+        return emoticons[key]
+    return ""
