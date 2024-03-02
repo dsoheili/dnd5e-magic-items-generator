@@ -51,6 +51,21 @@ def get_magic_item(rarity):
     except FileNotFoundError:
         return None
 
+def get_potion(potion_rarity):
+    filename = f"data/potions/{potion_rarity}.csv"
+
+    try:
+        with open(filename, "r") as file:
+            spells = [line.strip() for line in file.readlines() if line.strip()]
+
+        if not spells:
+            return None
+
+        spell = random.choice(spells)
+        return spell
+    except FileNotFoundError:
+        return None
+
 
 def get_magic_item_url(magic_item_name, magic_items_info):
     for item_info in magic_items_info:

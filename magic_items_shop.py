@@ -74,17 +74,54 @@ def stock_scroll_shop_shelf():
     output_text_widget.delete(1.0, tk.END)
     output_text_widget.insert(tk.END, output_text)
 
+def stock_potion_shop_shelf():
+    items_without_url = []
+    output_text = ""
+
+    for i in range(number_of_potion_shop_items):
+        potion_rarity = pick_random_rarity(potion_rarities_probabilities)
+
+        potion_rarity_text = get_xlation(potion_rarity)
+        emoticons = get_emoticons(potion_rarity)
+        potion = get_potion(potion_rarity)
+        print(potion)
+        item_price = get_item_price(potion_rarity)
+        notes = generate_item_notes(potion)
+        potion_url = get_magic_item_url(potion, url_data)
+
+        output_text += f"**{potion}**\n"
+        output_text += f"{emoticons}\n"
+        output_text += f"*{potion_rarity_text}*\n"
+        output_text += f"Price: {item_price:,} GP\n"
+
+        if notes != "":
+            output_text += f"{notes}\n"
+
+        if potion_url:
+            output_text += f"<{potion_url}>\n"
+        else:
+            items_without_url.append(potion)
+
+        output_text += "\n"
+
+    output_text_widget.delete(1.0, tk.END)
+    output_text_widget.insert(tk.END, output_text)
+
 # Create the main window
 root = tk.Tk()
 root.title("Magic Item Shop")
 
 generate_button = tk.Button(root, text="Generate Magic Items", command=stock_shop_shelf)
 generate_button.pack()
-generate_button.pack(pady=10)
+generate_button.pack(pady=4)
 
 generate_scrolls_button = tk.Button(root, text="Generate Spell Scrolls", command=stock_scroll_shop_shelf)
 generate_scrolls_button.pack()
-generate_scrolls_button.pack(pady=10)
+generate_scrolls_button.pack(pady=4)
+
+generate_potions_button = tk.Button(root, text="Generate Potions", command=stock_potion_shop_shelf)
+generate_potions_button.pack()
+generate_potions_button.pack(pady=4)
 
 output_text_widget = scrolledtext.ScrolledText(root, wrap=tk.WORD, width=80, height=40)
 output_text_widget.pack()

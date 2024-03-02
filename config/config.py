@@ -69,7 +69,12 @@ price_ranges = {
     "level_6": (2500, 5500),
     "level_7": (5500, 8000),
     "level_8": (8000, 12000),
-    "level_9": (12000, 16000)
+    "level_9": (12000, 16000),
+    "common_potion": (50, 250),
+    "uncommon_potion": (250, 400),
+    "rare_potion": (750, 1000),
+    "very_rare_potion": (1500, 2000),
+    "legendary_potion": (8500, 10000)
 }
 
 xlations = {
@@ -93,7 +98,12 @@ xlations = {
     "level_6": "Spell Scroll (6th Level)",
     "level_7": "Spell Scroll (7th Level)",
     "level_8": "Spell Scroll (8th Level)",
-    "level_9": "Spell Scroll (9th Level)"
+    "level_9": "Spell Scroll (9th Level)",
+    "common_potion": "Common",
+    "uncommon_potion": "Uncommon",
+    "rare_potion": "Rare",
+    "very_rare_potion": "Very Rare",
+    "legendary_potion": "Legendary"
 }
 
 emoticons = {
@@ -117,7 +127,12 @@ emoticons = {
     "level_6": ":star::star::star::star::star::star:",
     "level_7": ":star::star::star::star::star::star::star:",
     "level_8": ":star::star::star::star::star::star::star::star:",
-    "level_9": ":star::star::star::star::star::star::star::star::star:"
+    "level_9": ":star::star::star::star::star::star::star::star::star:",
+    "common_potion": ":alembic:",
+    "uncommon_potion": ":alembic::alembic:",
+    "rare_potion": ":alembic::alembic::alembic:",
+    "very_rare_potion": ":alembic::alembic::alembic::alembic:",
+    "legendary_potion": ":alembic::alembic::alembic::alembic::alembic:"
 }
 
 gui_info_text = """
@@ -139,7 +154,6 @@ gui_info_text = """
 
 # ----- Spell Scrolls Shop --------
 number_of_scroll_shop_items = 7
-random_rarities_for_scroll_shop_items = False
 scroll_rarities_probabilities = {
     "level_0": 0.3,
     "level_1": 0.1,
@@ -151,4 +165,14 @@ scroll_rarities_probabilities = {
     "level_7": 0.05,
     "level_8": 0.025,
     "level_9": 0.025
+}
+
+# ----- Potion Shop --------
+number_of_potion_shop_items = 5
+potion_rarities_probabilities = {
+    "common_potion": 0.30,
+    "uncommon_potion": 0.30,
+    "rare_potion": 0.25,
+    "very_rare_potion": 0.10,
+    "legendary_potion": 0.05,
 }

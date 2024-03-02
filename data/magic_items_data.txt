@@ -1065,3 +1065,13 @@ Dragonhide Belt, +3	https://www.dndbeyond.com/magic-items/4047208-dragonhide-bel
 Rod of the Pact Keeper, +1	https://www.dndbeyond.com/magic-items/11217-rod-of-the-pact-keeper-1
 Rod of the Pact Keeper, +2	https://www.dndbeyond.com/magic-items/11218-rod-of-the-pact-keeper-2
 Rod of the Pact Keeper, +3	https://www.dndbeyond.com/magic-items/11219-rod-of-the-pact-keeper-3
+Potion of Hill Giant Strength	https://www.dndbeyond.com/magic-items/4706-potion-of-hill-giant-strength
+Potion of Frost Giant Strength	https://www.dndbeyond.com/magic-items/5129-potion-of-frost-giant-strength
+Potion of Stone Giant Strength	https://www.dndbeyond.com/magic-items/5128-potion-of-stone-giant-strength
+Potion of Fire Giant Strength	https://www.dndbeyond.com/magic-items/5130-potion-of-fire-giant-strength
+Potion of Cloud Giant Strength	https://www.dndbeyond.com/magic-items/5131-potion-of-cloud-giant-strength
+Potion of Storm Giant Strength	https://www.dndbeyond.com/magic-items/5132-potion-of-storm-giant-strength
+Potion of Healing	https://www.dndbeyond.com/equipment/potion-of-healing
+Potion of Greater healing	https://www.dndbeyond.com/magic-items/5133-potion-of-healing-greater
+Potion of Superior healing	https://www.dndbeyond.com/magic-items/5134-potion-of-healing-superior
+Potion of Supreme healing	https://www.dndbeyond.com/magic-items/5135-potion-of-healing-supreme
