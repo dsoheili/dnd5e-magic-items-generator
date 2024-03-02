@@ -1072,6 +1072,9 @@ Potion of Fire Giant Strength	https://www.dndbeyond.com/magic-items/5130-potion-
 Potion of Cloud Giant Strength	https://www.dndbeyond.com/magic-items/5131-potion-of-cloud-giant-strength
 Potion of Storm Giant Strength	https://www.dndbeyond.com/magic-items/5132-potion-of-storm-giant-strength
 Potion of Healing	https://www.dndbeyond.com/equipment/potion-of-healing
-Potion of Greater healing	https://www.dndbeyond.com/magic-items/5133-potion-of-healing-greater
-Potion of Superior healing	https://www.dndbeyond.com/magic-items/5134-potion-of-healing-superior
-Potion of Supreme healing	https://www.dndbeyond.com/magic-items/5135-potion-of-healing-supreme
+Potion of Greater Healing	https://www.dndbeyond.com/magic-items/5133-potion-of-healing-greater
+Potion of Superior Healing	https://www.dndbeyond.com/magic-items/5134-potion-of-healing-superior
+Potion of Supreme Healing	https://www.dndbeyond.com/magic-items/5135-potion-of-healing-supreme
+Potion of Mind Control (Beast)	https://www.dndbeyond.com/magic-items/9363-potion-of-mind-control-beast
+Potion of Mind Control (Humanoid)	https://www.dndbeyond.com/magic-items/9365-potion-of-mind-control-humanoid
+Potion of Mind Control (Monster)	https://www.dndbeyond.com/magic-items/9373-potion-of-mind-control-monster

@@ -5,7 +5,8 @@ from common.magic_item_properties import *
 from common.common_methods import *
 from config.config import *
 
-url_data = get_magic_items_from_file("data/magic_items_data.txt")
+magic_items_url_data = get_magic_items_from_file("data/magic_items_data.txt")
+spells_url_data = get_magic_items_from_file("data/spells/spell_data.txt")
 
 def stock_shop_shelf():
     items_without_url = []
@@ -24,7 +25,7 @@ def stock_shop_shelf():
         magic_item_name = get_magic_item(rarity)
         item_price = get_item_price(rarity)
         notes = generate_item_notes(magic_item_name)
-        magic_item_url = get_magic_item_url(magic_item_name, url_data)
+        magic_item_url = get_magic_item_url(magic_item_name, magic_items_url_data)
 
         enchanted = None
         if magic_item_enchantments_enabled:
@@ -55,6 +56,7 @@ def stock_shop_shelf():
     output_text_widget.insert(tk.END, output_text)
 
 def stock_scroll_shop_shelf():
+    items_without_url = []
     output_text = ""
 
     for i in range(number_of_scroll_shop_items):
@@ -64,11 +66,25 @@ def stock_scroll_shop_shelf():
         emoticons = get_emoticons(spell_level)
         spell_name = get_magic_spell(spell_level)
         item_price = get_item_price(spell_level)
+        print(spell_name)
+        spell_url = get_magic_item_url(spell_name, spells_url_data)
 
         output_text += f"**{spell_level_text}**\n"
         output_text += f"{emoticons}\n"
         output_text += f"Spell: *{spell_name}*\n"
         output_text += f"Price: {item_price:,} GP\n"
+
+        if spell_url:
+            output_text += f"<{spell_url}>\n"
+        else:
+            items_without_url.append(spell_name)
+
+        output_text += "\n"
+
+    output_text += "\n"
+    for spell_scroll in items_without_url:
+        output_text += f"!item {spell_scroll}\n"
+
         output_text += "\n"
 
     output_text_widget.delete(1.0, tk.END)
@@ -84,10 +100,9 @@ def stock_potion_shop_shelf():
         potion_rarity_text = get_xlation(potion_rarity)
         emoticons = get_emoticons(potion_rarity)
         potion = get_potion(potion_rarity)
-        print(potion)
         item_price = get_item_price(potion_rarity)
         notes = generate_item_notes(potion)
-        potion_url = get_magic_item_url(potion, url_data)
+        potion_url = get_magic_item_url(potion, magic_items_url_data)
 
         output_text += f"**{potion}**\n"
         output_text += f"{emoticons}\n"
@@ -103,6 +118,10 @@ def stock_potion_shop_shelf():
             items_without_url.append(potion)
 
         output_text += "\n"
+
+    output_text += "\n"
+    for potion in items_without_url:
+        output_text += f"!item {potion}\n"
 
     output_text_widget.delete(1.0, tk.END)
     output_text_widget.insert(tk.END, output_text)

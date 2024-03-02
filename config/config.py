@@ -153,7 +153,7 @@ gui_info_text = """
 
 
 # ----- Spell Scrolls Shop --------
-number_of_scroll_shop_items = 7
+number_of_scroll_shop_items = 5
 scroll_rarities_probabilities = {
     "level_0": 0.3,
     "level_1": 0.1,
