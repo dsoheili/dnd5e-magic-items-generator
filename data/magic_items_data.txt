@@ -1078,3 +1078,427 @@ Potion of Supreme Healing	https://www.dndbeyond.com/magic-items/5135-potion-of-h
 Potion of Mind Control (Beast)	https://www.dndbeyond.com/magic-items/9363-potion-of-mind-control-beast
 Potion of Mind Control (Humanoid)	https://www.dndbeyond.com/magic-items/9365-potion-of-mind-control-humanoid
 Potion of Mind Control (Monster)	https://www.dndbeyond.com/magic-items/9373-potion-of-mind-control-monster
+Abacus	https://www.dndbeyond.com/equipment/abacus
+Acid (vial)	https://www.dndbeyond.com/equipment/acid-vial
+Airship	https://www.dndbeyond.com/equipment/airship
+Alchemist’s Doom	https://www.dndbeyond.com/equipment/alchemists-doom
+Alchemist's Fire (flask)	https://www.dndbeyond.com/equipment/alchemists-fire-flask
+Alchemist's Supplies	https://www.dndbeyond.com/equipment/alchemists-supplies
+Alexandrite	https://www.dndbeyond.com/equipment/alexandrite
+Alms Box	https://www.dndbeyond.com/equipment/alms-box
+Amber	https://www.dndbeyond.com/equipment/amber
+Amethyst	https://www.dndbeyond.com/equipment/amethyst
+Amulet	https://www.dndbeyond.com/equipment/amulet
+Antimatter Rifle	https://www.dndbeyond.com/equipment/antimatter-rifle
+Antitoxin	https://www.dndbeyond.com/equipment/antitoxin
+Aquamarine	https://www.dndbeyond.com/equipment/aquamarine
+Arcane Focus	https://www.dndbeyond.com/equipment/arcane-focus
+Arrows	https://www.dndbeyond.com/equipment/arrows
+Assassin's Blood (Ingested)	https://www.dndbeyond.com/equipment/assassins-blood-ingested
+Axe Beak	https://www.dndbeyond.com/equipment/axe-beak
+Azurite	https://www.dndbeyond.com/equipment/azurite
+Backpack	https://www.dndbeyond.com/equipment/backpack
+Bad News (Exandria)	https://www.dndbeyond.com/equipment/bad-news-exandria
+Bad News Bullets	https://www.dndbeyond.com/equipment/bad-news-bullets
+Bagpipes	https://www.dndbeyond.com/equipment/bagpipes
+Ball Bearings (bag of 1,000)	https://www.dndbeyond.com/equipment/ball-bearings-bag-of-1-000
+Banded Agate	https://www.dndbeyond.com/equipment/banded-agate
+Barding	https://www.dndbeyond.com/equipment/barding
+Barrel	https://www.dndbeyond.com/equipment/barrel
+Basic Fishing Equipment	https://www.dndbeyond.com/equipment/basic-fishing-equipment
+Basket	https://www.dndbeyond.com/equipment/basket
+Battleaxe	https://www.dndbeyond.com/equipment/battleaxe
+Bedroll	https://www.dndbeyond.com/equipment/bedroll
+Bell	https://www.dndbeyond.com/equipment/bell
+Birdpipes	https://www.dndbeyond.com/equipment/birdpipes
+Bit and Bridle	https://www.dndbeyond.com/equipment/bit-and-bridle
+Biza’s Breath (Inhaled)	https://www.dndbeyond.com/equipment/bizas-breath-inhaled
+Black Ghost Orchid Seed	https://www.dndbeyond.com/equipment/black-ghost-orchid-seed
+Black Opal	https://www.dndbeyond.com/equipment/black-opal
+Black Pearl	https://www.dndbeyond.com/equipment/black-pearl
+Black Sap	https://www.dndbeyond.com/equipment/black-sap
+Black Sapphire	https://www.dndbeyond.com/equipment/black-sapphire
+Blanket	https://www.dndbeyond.com/equipment/blanket
+Blasting Powder	https://www.dndbeyond.com/equipment/blasting-powder
+Blight Ichor	https://www.dndbeyond.com/equipment/blight-ichor
+Block and Tackle	https://www.dndbeyond.com/equipment/block-and-tackle
+Block of Incense	https://www.dndbeyond.com/equipment/block-of-incense
+Blood of the Lycanthrope (Injury)	https://www.dndbeyond.com/equipment/blood-of-the-lycanthrope-injury
+Bloodstone	https://www.dndbeyond.com/equipment/bloodstone
+Blowgun	https://www.dndbeyond.com/equipment/blowgun
+Blowgun Needles	https://www.dndbeyond.com/equipment/blowgun-needles
+Blue quartz	https://www.dndbeyond.com/equipment/blue-quartz
+Blue Sapphire	https://www.dndbeyond.com/equipment/blue-sapphire
+Blue spinel	https://www.dndbeyond.com/equipment/blue-spinel
+Blunderbuss (Exandria)	https://www.dndbeyond.com/equipment/blunderbuss-exandria
+Blunderbuss Bullets	https://www.dndbeyond.com/equipment/blunderbuss-bullets
+Bomb	https://www.dndbeyond.com/equipment/bomb
+Bombard	https://www.dndbeyond.com/equipment/bombard
+Book	https://www.dndbeyond.com/equipment/book
+Boomerang	https://www.dndbeyond.com/equipment/boomerang
+Boots	https://www.dndbeyond.com/equipment/boots
+Bottle, Glass	https://www.dndbeyond.com/equipment/bottle-glass
+Breastplate	https://www.dndbeyond.com/equipment/breastplate
+Brewer's Supplies	https://www.dndbeyond.com/equipment/brewers-supplies
+Bucket	https://www.dndbeyond.com/equipment/bucket
+Bullets, Modern	https://www.dndbeyond.com/equipment/bullets-modern
+Bullets, Renaissance	https://www.dndbeyond.com/equipment/bullets-renaissance
+Burglar's Pack	https://www.dndbeyond.com/equipment/burglars-pack
+Burnt Othur Fumes (Inhaled)	https://www.dndbeyond.com/equipment/burnt-othur-fumes-inhaled
+Calligrapher's Supplies	https://www.dndbeyond.com/equipment/calligraphers-supplies
+Caltrops (bag of 20)	https://www.dndbeyond.com/equipment/caltrops-bag-of-20
+Camel	https://www.dndbeyond.com/equipment/camel
+Candle	https://www.dndbeyond.com/equipment/candle
+Canoe	https://www.dndbeyond.com/equipment/canoe
+Carnelian	https://www.dndbeyond.com/equipment/carnelian
+Carpenter's Tools	https://www.dndbeyond.com/equipment/carpenters-tools
+Carriage	https://www.dndbeyond.com/equipment/carriage
+Cart	https://www.dndbeyond.com/equipment/cart
+Cartographer's Tools	https://www.dndbeyond.com/equipment/cartographers-tools
+Case, Crossbow Bolt	https://www.dndbeyond.com/equipment/case-crossbow-bolt
+Case, Map or Scroll	https://www.dndbeyond.com/equipment/case-map-or-scroll
+Catapult Munition	https://www.dndbeyond.com/equipment/catapult-munition
+Censer	https://www.dndbeyond.com/equipment/censer
+Chain (10 feet)	https://www.dndbeyond.com/equipment/chain-10-feet
+Chain Mail	https://www.dndbeyond.com/equipment/chain-mail
+Chain Shirt	https://www.dndbeyond.com/equipment/chain-shirt
+Chalcedony	https://www.dndbeyond.com/equipment/chalcedony
+Chalk (1 piece)	https://www.dndbeyond.com/equipment/chalk-1-piece
+Chariot	https://www.dndbeyond.com/equipment/chariot
+Chest	https://www.dndbeyond.com/equipment/chest
+Chrysoberyl	https://www.dndbeyond.com/equipment/chrysoberyl
+Chrysoprase	https://www.dndbeyond.com/equipment/chrysoprase
+Citrine	https://www.dndbeyond.com/equipment/citrine
+Climber's Kit	https://www.dndbeyond.com/equipment/climbers-kit
+Clothes, Common	https://www.dndbeyond.com/equipment/clothes-common
+Clothes, Costume	https://www.dndbeyond.com/equipment/clothes-costume
+Clothes, Fine	https://www.dndbeyond.com/equipment/clothes-fine
+Clothes, Traveler's	https://www.dndbeyond.com/equipment/clothes-travelers
+Clothing, cold weather	https://www.dndbeyond.com/equipment/clothing-cold-weather
+Club	https://www.dndbeyond.com/equipment/club
+Cobbler's Tools	https://www.dndbeyond.com/equipment/cobblers-tools
+Component Pouch	https://www.dndbeyond.com/equipment/component-pouch
+Cook's Utensils	https://www.dndbeyond.com/equipment/cooks-utensils
+Coral	https://www.dndbeyond.com/equipment/coral
+Crampons	https://www.dndbeyond.com/equipment/crampons
+Crawler Mucus (Contact)	https://www.dndbeyond.com/equipment/crawler-mucus-contact
+Crossbow Bolts	https://www.dndbeyond.com/equipment/crossbow-bolts
+Crossbow, hand	https://www.dndbeyond.com/equipment/crossbow-hand
+Crossbow, heavy	https://www.dndbeyond.com/equipment/crossbow-heavy
+Crossbow, light	https://www.dndbeyond.com/equipment/crossbow-light
+Crowbar	https://www.dndbeyond.com/equipment/crowbar
+Crystal	https://www.dndbeyond.com/equipment/crystal
+Dagger	https://www.dndbeyond.com/equipment/dagger
+Damselfly Ship	https://www.dndbeyond.com/equipment/damselfly-ship
+Dart	https://www.dndbeyond.com/equipment/dart
+Delerium Chip	https://www.dndbeyond.com/equipment/delerium-chip
+Delerium Crystal	https://www.dndbeyond.com/equipment/delerium-crystal
+Delerium Fragment	https://www.dndbeyond.com/equipment/delerium-fragment
+Delerium Geode	https://www.dndbeyond.com/equipment/delerium-geode
+Delerium Massive Cluster	https://www.dndbeyond.com/equipment/delerium-massive-cluster
+Delerium Shard	https://www.dndbeyond.com/equipment/delerium-shard
+Diamond	https://www.dndbeyond.com/equipment/diamond
+Dice Set	https://www.dndbeyond.com/equipment/dice-set
+Diplomat's Pack	https://www.dndbeyond.com/equipment/diplomats-pack
+Disguise Kit	https://www.dndbeyond.com/equipment/disguise-kit
+Dogsled	https://www.dndbeyond.com/equipment/dogsled
+Donkey (or Mule)	https://www.dndbeyond.com/equipment/donkey-or-mule
+Double-Bladed Scimitar	https://www.dndbeyond.com/equipment/double-bladed-scimitar
+Draft Horse	https://www.dndbeyond.com/equipment/draft-horse
+Dragonchess Set	https://www.dndbeyond.com/equipment/dragonchess-set
+Dragon's Blood	https://www.dndbeyond.com/equipment/dragons-blood
+Dreamlily	https://www.dndbeyond.com/equipment/dreamlily
+Drow Poison (Injury)	https://www.dndbeyond.com/equipment/drow-poison-injury
+Druidic Focus	https://www.dndbeyond.com/equipment/druidic-focus
+Drum	https://www.dndbeyond.com/equipment/drum
+Dulcimer	https://www.dndbeyond.com/equipment/dulcimer
+Dungeoneer's Pack	https://www.dndbeyond.com/equipment/dungeoneers-pack
+Dust of the Mummy (Inhaled)	https://www.dndbeyond.com/equipment/dust-of-the-mummy-inhaled
+Dynamite (Exandria)	https://www.dndbeyond.com/equipment/dynamite-exandria
+Dynamite (Stick)	https://www.dndbeyond.com/equipment/dynamite-stick
+Eberron Dragonshard	https://www.dndbeyond.com/equipment/eberron-dragonshard
+Eldritch Lily	https://www.dndbeyond.com/equipment/eldritch-lily
+Elephant	https://www.dndbeyond.com/equipment/elephant
+Emblem	https://www.dndbeyond.com/equipment/emblem
+Emerald	https://www.dndbeyond.com/equipment/emerald
+Energy Cell	https://www.dndbeyond.com/equipment/energy-cell
+Entertainer's Pack	https://www.dndbeyond.com/equipment/entertainers-pack
+Essence of Ether (Inhaled)	https://www.dndbeyond.com/equipment/essence-of-ether-inhaled
+Explorer's Pack	https://www.dndbeyond.com/equipment/explorers-pack
+Explosive Seed	https://www.dndbeyond.com/equipment/explosive-seed
+Eye agate	https://www.dndbeyond.com/equipment/eye-agate
+Fargab	https://www.dndbeyond.com/equipment/fargab
+Feed (per day)	https://www.dndbeyond.com/equipment/feed-per-day
+Fire Opal	https://www.dndbeyond.com/equipment/fire-opal
+Fishing Tackle	https://www.dndbeyond.com/equipment/fishing-tackle
+Flail	https://www.dndbeyond.com/equipment/flail
+Flask or Tankard	https://www.dndbeyond.com/equipment/flask-or-tankard
+Flute	https://www.dndbeyond.com/equipment/flute
+Flying Fish Ship	https://www.dndbeyond.com/equipment/flying-fish-ship
+Forgery Kit	https://www.dndbeyond.com/equipment/forgery-kit
+Galley	https://www.dndbeyond.com/equipment/galley
+Garnet	https://www.dndbeyond.com/equipment/garnet
+Glaive	https://www.dndbeyond.com/equipment/glaive
+Glassblower's Tools	https://www.dndbeyond.com/equipment/glassblowers-tools
+Glaur	https://www.dndbeyond.com/equipment/glaur
+Gluebomb	https://www.dndbeyond.com/equipment/gluebomb
+Grappling Hook	https://www.dndbeyond.com/equipment/grappling-hook
+Greataxe	https://www.dndbeyond.com/equipment/greataxe
+Greatclub	https://www.dndbeyond.com/equipment/greatclub
+Greatsword	https://www.dndbeyond.com/equipment/greatsword
+Grenade Launcher	https://www.dndbeyond.com/equipment/grenade-launcher
+Grenade, Fragmentation	https://www.dndbeyond.com/equipment/grenade-fragmentation
+Grenade, Smoke	https://www.dndbeyond.com/equipment/grenade-smoke
+Gunpowder, Keg	https://www.dndbeyond.com/equipment/gunpowder-keg
+Gunpowder, Powder Horn	https://www.dndbeyond.com/equipment/gunpowder-powder-horn
+Halberd	https://www.dndbeyond.com/equipment/halberd
+Half Plate	https://www.dndbeyond.com/equipment/half-plate
+Hammer	https://www.dndbeyond.com/equipment/hammer
+Hammer, Sledge	https://www.dndbeyond.com/equipment/hammer-sledge
+Hammerhead Ship	https://www.dndbeyond.com/equipment/hammerhead-ship
+Hand Drum	https://www.dndbeyond.com/equipment/hand-drum
+Hand Mortar (Exandria)	https://www.dndbeyond.com/equipment/hand-mortar-exandria
+Hand Mortar Ammunition	https://www.dndbeyond.com/equipment/hand-mortar-ammunition
+Handaxe	https://www.dndbeyond.com/equipment/handaxe
+Healer's Kit	https://www.dndbeyond.com/equipment/healers-kit
+Helm	https://www.dndbeyond.com/equipment/helm
+Hematite	https://www.dndbeyond.com/equipment/hematite
+Herbalism Kit	https://www.dndbeyond.com/equipment/herbalism-kit
+Hide	https://www.dndbeyond.com/equipment/hide
+Holy Symbol	https://www.dndbeyond.com/equipment/holy-symbol
+Holy Water (flask)	https://www.dndbeyond.com/equipment/holy-water-flask
+Hoopak	https://www.dndbeyond.com/equipment/hoopak
+Hoopak (Ranged)	https://www.dndbeyond.com/equipment/hoopak-ranged
+Horn	https://www.dndbeyond.com/equipment/horn
+Hourglass	https://www.dndbeyond.com/equipment/hourglass
+Hunting Trap	https://www.dndbeyond.com/equipment/hunting-trap
+Ink (1 ounce bottle)	https://www.dndbeyond.com/equipment/ink-1-ounce-bottle
+Ink Pen	https://www.dndbeyond.com/equipment/ink-pen
+Insect Repellent-Incense	https://www.dndbeyond.com/equipment/insect-repellent-incense
+Insect Repellent-Salve	https://www.dndbeyond.com/equipment/insect-repellent-salve
+Ivana’s Whisper (Inhaled)	https://www.dndbeyond.com/equipment/ivanas-whisper-inhaled
+Jacinth	https://www.dndbeyond.com/equipment/jacinth
+Jade	https://www.dndbeyond.com/equipment/jade
+Jasper	https://www.dndbeyond.com/equipment/jasper
+Javelin	https://www.dndbeyond.com/equipment/javelin
+Jet	https://www.dndbeyond.com/equipment/jet
+Jeweler's Tools	https://www.dndbeyond.com/equipment/jewelers-tools
+Jug or Pitcher	https://www.dndbeyond.com/equipment/jug-or-pitcher
+Keelboat	https://www.dndbeyond.com/equipment/keelboat
+Keg of Alchemist’s Fire	https://www.dndbeyond.com/equipment/keg-of-alchemists-fire
+Khyber Dragonshard	https://www.dndbeyond.com/equipment/khyber-dragonshard
+Ladder (10 foot)	https://www.dndbeyond.com/equipment/ladder-10-foot
+Lamp	https://www.dndbeyond.com/equipment/lamp
+Lamprey Ship	https://www.dndbeyond.com/equipment/lamprey-ship
+Lance	https://www.dndbeyond.com/equipment/lance
+Lantern, Bullseye	https://www.dndbeyond.com/equipment/lantern-bullseye
+Lantern, Hooded	https://www.dndbeyond.com/equipment/lantern-hooded
+Lapis Lazuli	https://www.dndbeyond.com/equipment/lapis-lazuli
+Laser Pistol	https://www.dndbeyond.com/equipment/laser-pistol
+Laser Rifle	https://www.dndbeyond.com/equipment/laser-rifle
+Leather	https://www.dndbeyond.com/equipment/leather
+Leatherworker's Tools	https://www.dndbeyond.com/equipment/leatherworkers-tools
+Light Hammer	https://www.dndbeyond.com/equipment/light-hammer
+Little Bag of Sand	https://www.dndbeyond.com/equipment/little-bag-of-sand
+Living Ship	https://www.dndbeyond.com/equipment/living-ship
+Lock	https://www.dndbeyond.com/equipment/lock
+Longbow	https://www.dndbeyond.com/equipment/longbow
+Longhorn	https://www.dndbeyond.com/equipment/longhorn
+Longship	https://www.dndbeyond.com/equipment/longship
+Longsword	https://www.dndbeyond.com/equipment/longsword
+Lute	https://www.dndbeyond.com/equipment/lute
+Lyre	https://www.dndbeyond.com/equipment/lyre
+Mace	https://www.dndbeyond.com/equipment/mace
+Magnifying Glass	https://www.dndbeyond.com/equipment/magnifying-glass
+Malachite	https://www.dndbeyond.com/equipment/malachite
+Malice (Inhaled)	https://www.dndbeyond.com/equipment/malice-inhaled
+Manacles	https://www.dndbeyond.com/equipment/manacles
+Mason's Tools	https://www.dndbeyond.com/equipment/masons-tools
+Mastiff	https://www.dndbeyond.com/equipment/mastiff
+Maul	https://www.dndbeyond.com/equipment/maul
+Mess Kit	https://www.dndbeyond.com/equipment/mess-kit
+Midnight Tears (Ingested)	https://www.dndbeyond.com/equipment/midnight-tears-ingested
+Mirror, Steel	https://www.dndbeyond.com/equipment/mirror-steel
+Monster Hunter's Pack	https://www.dndbeyond.com/equipment/monster-hunters-pack
+Moonstone	https://www.dndbeyond.com/equipment/moonstone
+Moorbounder	https://www.dndbeyond.com/equipment/moorbounder
+Morningstar	https://www.dndbeyond.com/equipment/morningstar
+Moss agate	https://www.dndbeyond.com/equipment/moss-agate
+Murgaxor’s Elixir of Life	https://www.dndbeyond.com/equipment/murgaxors-elixir-of-life
+Muroosa Balm	https://www.dndbeyond.com/equipment/muroosa-balm
+Musket	https://www.dndbeyond.com/equipment/musket
+Musket (Exandria)	https://www.dndbeyond.com/equipment/musket-exandria
+Musket (Exandria) Bullets	https://www.dndbeyond.com/equipment/musket-exandria-bullets
+Narycrash	https://www.dndbeyond.com/equipment/narycrash
+Nautiloid	https://www.dndbeyond.com/equipment/nautiloid
+Navigator's Tools	https://www.dndbeyond.com/equipment/navigators-tools
+Net	https://www.dndbeyond.com/equipment/net
+Nightspider	https://www.dndbeyond.com/equipment/nightspider
+Obsidian	https://www.dndbeyond.com/equipment/obsidian
+Oil (flask)	https://www.dndbeyond.com/equipment/oil-flask
+Oil of Taggit (Contact)	https://www.dndbeyond.com/equipment/oil-of-taggit-contact
+Olisuba Leaf	https://www.dndbeyond.com/equipment/olisuba-leaf
+Onyx	https://www.dndbeyond.com/equipment/onyx
+Opal	https://www.dndbeyond.com/equipment/opal
+Orb	https://www.dndbeyond.com/equipment/orb
+Padded	https://www.dndbeyond.com/equipment/padded
+Painter's Supplies	https://www.dndbeyond.com/equipment/painters-supplies
+Pale Tincture (Ingested)	https://www.dndbeyond.com/equipment/pale-tincture-ingested
+Palm Pistol (Exandria)	https://www.dndbeyond.com/equipment/palm-pistol-exandria
+Palm Pistol Bullets	https://www.dndbeyond.com/equipment/palm-pistol-bullets
+Pan Flute	https://www.dndbeyond.com/equipment/pan-flute
+Paper (one sheet)	https://www.dndbeyond.com/equipment/paper-one-sheet
+Parchment (one sheet)	https://www.dndbeyond.com/equipment/parchment-one-sheet
+Pearl	https://www.dndbeyond.com/equipment/pearl
+Pepperbox (Exandria)	https://www.dndbeyond.com/equipment/pepperbox-exandria
+Pepperbox Bullets	https://www.dndbeyond.com/equipment/pepperbox-bullets
+Perfume (vial)	https://www.dndbeyond.com/equipment/perfume-vial
+Peridot	https://www.dndbeyond.com/equipment/peridot
+Pick, Miner's	https://www.dndbeyond.com/equipment/pick-miners
+Pike	https://www.dndbeyond.com/equipment/pike
+Pistol	https://www.dndbeyond.com/equipment/pistol
+Pistol (Exandria)	https://www.dndbeyond.com/equipment/pistol-exandria
+Pistol (Exandria) Bullets	https://www.dndbeyond.com/equipment/pistol-exandria-bullets
+Pistol, Automatic	https://www.dndbeyond.com/equipment/pistol-automatic
+Piton	https://www.dndbeyond.com/equipment/piton
+Plainscow	https://www.dndbeyond.com/equipment/plainscow
+Plate	https://www.dndbeyond.com/equipment/plate
+Playing Card Set	https://www.dndbeyond.com/equipment/playing-card-set
+Poison, Basic (vial)	https://www.dndbeyond.com/equipment/poison-basic-vial
+Poisoner's Kit	https://www.dndbeyond.com/equipment/poisoners-kit
+Pole (10-foot)	https://www.dndbeyond.com/equipment/pole-10-foot
+Pony	https://www.dndbeyond.com/equipment/pony
+Pot, Iron	https://www.dndbeyond.com/equipment/pot-iron
+Potion of Healing	https://www.dndbeyond.com/equipment/potion-of-healing
+Potter's Tools	https://www.dndbeyond.com/equipment/potters-tools
+Pouch	https://www.dndbeyond.com/equipment/pouch
+Pride Silk	https://www.dndbeyond.com/equipment/pride-silk
+Pride Silk Outfit	https://www.dndbeyond.com/equipment/pride-silk-outfit
+Priest's Pack	https://www.dndbeyond.com/equipment/priests-pack
+Purple Worm Poison (Injury)	https://www.dndbeyond.com/equipment/purple-worm-poison-injury
+Quarterstaff	https://www.dndbeyond.com/equipment/quarterstaff
+Quartz	https://www.dndbeyond.com/equipment/quartz
+Quiver	https://www.dndbeyond.com/equipment/quiver
+Rain Catcher	https://www.dndbeyond.com/equipment/rain-catcher
+Ram, Portable	https://www.dndbeyond.com/equipment/ram-portable
+Rapier	https://www.dndbeyond.com/equipment/rapier
+Rations (1 day)	https://www.dndbeyond.com/equipment/rations-1-day
+Reliquary	https://www.dndbeyond.com/equipment/reliquary
+Revolver	https://www.dndbeyond.com/equipment/revolver
+Rhodochrosite	https://www.dndbeyond.com/equipment/rhodochrosite
+Riding Horse	https://www.dndbeyond.com/equipment/riding-horse
+Rifle, Automatic	https://www.dndbeyond.com/equipment/rifle-automatic
+Rifle, Hunting	https://www.dndbeyond.com/equipment/rifle-hunting
+Ring Mail	https://www.dndbeyond.com/equipment/ring-mail
+Robes	https://www.dndbeyond.com/equipment/robes
+Rod	https://www.dndbeyond.com/equipment/rod
+Rope, Hempen (50 feet)	https://www.dndbeyond.com/equipment/rope-hempen-50-feet
+Rope, Silk (50 feet)	https://www.dndbeyond.com/equipment/rope-silk-50-feet
+Rowboat	https://www.dndbeyond.com/equipment/rowboat
+Ruby	https://www.dndbeyond.com/equipment/ruby
+Sack	https://www.dndbeyond.com/equipment/sack
+Saddle, Exotic	https://www.dndbeyond.com/equipment/saddle-exotic
+Saddle, Military	https://www.dndbeyond.com/equipment/saddle-military
+Saddle, Pack	https://www.dndbeyond.com/equipment/saddle-pack
+Saddle, Riding	https://www.dndbeyond.com/equipment/saddle-riding
+Saddlebags	https://www.dndbeyond.com/equipment/saddlebags
+Sailing Ship	https://www.dndbeyond.com/equipment/sailing-ship
+Sardonyx	https://www.dndbeyond.com/equipment/sardonyx
+Scale Mail	https://www.dndbeyond.com/equipment/scale-mail
+Scale, Merchant's	https://www.dndbeyond.com/equipment/scale-merchants
+Scholar's Pack	https://www.dndbeyond.com/equipment/scholars-pack
+Scimitar	https://www.dndbeyond.com/equipment/scimitar
+Scorpion Ship	https://www.dndbeyond.com/equipment/scorpion-ship
+Sealing Wax	https://www.dndbeyond.com/equipment/sealing-wax
+Serpent Venom (Injury)	https://www.dndbeyond.com/equipment/serpent-venom-injury
+Shawm	https://www.dndbeyond.com/equipment/shawm
+Shield	https://www.dndbeyond.com/equipment/shield
+Shortbow	https://www.dndbeyond.com/equipment/shortbow
+Shortsword	https://www.dndbeyond.com/equipment/shortsword
+Shotgun	https://www.dndbeyond.com/equipment/shotgun
+Shovel	https://www.dndbeyond.com/equipment/shovel
+Shrike Ship	https://www.dndbeyond.com/equipment/shrike-ship
+Siberys Dragonshard	https://www.dndbeyond.com/equipment/siberys-dragonshard
+Sickle	https://www.dndbeyond.com/equipment/sickle
+Signal Whistle	https://www.dndbeyond.com/equipment/signal-whistle
+Signet Ring	https://www.dndbeyond.com/equipment/signet-ring
+Skyship	https://www.dndbeyond.com/equipment/skyship
+Sled	https://www.dndbeyond.com/equipment/sled
+Sled Dog	https://www.dndbeyond.com/equipment/sled-dog
+Sling	https://www.dndbeyond.com/equipment/sling
+Sling Bullets	https://www.dndbeyond.com/equipment/sling-bullets
+Small Knife	https://www.dndbeyond.com/equipment/small-knife
+Smith's Tools	https://www.dndbeyond.com/equipment/smiths-tools
+Snowshoes	https://www.dndbeyond.com/equipment/snowshoes
+Soap	https://www.dndbeyond.com/equipment/soap
+Songhorn	https://www.dndbeyond.com/equipment/songhorn
+Soothsalts	https://www.dndbeyond.com/equipment/soothsalts
+Space Galleon	https://www.dndbeyond.com/equipment/space-galleon
+Spear	https://www.dndbeyond.com/equipment/spear
+Spellbook	https://www.dndbeyond.com/equipment/spellbook
+Spiked Armor	https://www.dndbeyond.com/equipment/spiked-armor
+Spikes, Iron (10)	https://www.dndbeyond.com/equipment/spikes-iron-10
+Spinel	https://www.dndbeyond.com/equipment/spinel
+Splint	https://www.dndbeyond.com/equipment/splint
+Sprig of Mistletoe	https://www.dndbeyond.com/equipment/sprig-of-mistletoe
+Spyglass	https://www.dndbeyond.com/equipment/spyglass
+Squid Ship	https://www.dndbeyond.com/equipment/squid-ship
+Staff	https://www.dndbeyond.com/equipment/staff
+Stake (Wooden)	https://www.dndbeyond.com/equipment/stake-wooden
+Star Moth	https://www.dndbeyond.com/equipment/star-moth
+Star Rose Quartz	https://www.dndbeyond.com/equipment/star-rose-quartz
+Star Ruby	https://www.dndbeyond.com/equipment/star-ruby
+Star Sapphire	https://www.dndbeyond.com/equipment/star-sapphire
+Stink Bomb	https://www.dndbeyond.com/equipment/stink-bomb
+String	https://www.dndbeyond.com/equipment/string
+Studded Leather	https://www.dndbeyond.com/equipment/studded-leather
+Tangler Grenade	https://www.dndbeyond.com/equipment/tangler-grenade
+Tantan	https://www.dndbeyond.com/equipment/tantan
+Tej	https://www.dndbeyond.com/equipment/tej
+Tent, Two-Person	https://www.dndbeyond.com/equipment/tent-two-person
+Theki Root	https://www.dndbeyond.com/equipment/theki-root
+Thelarr	https://www.dndbeyond.com/equipment/thelarr
+Thessaltoxin (Ingested or Injury)	https://www.dndbeyond.com/equipment/thessaltoxin-ingested-or-injury
+Thieves' Tools	https://www.dndbeyond.com/equipment/thieves-tools
+Three-Dragon Ante Set	https://www.dndbeyond.com/equipment/three-dragon-ante-set
+Tiger Eye	https://www.dndbeyond.com/equipment/tiger-eye
+Tinderbox	https://www.dndbeyond.com/equipment/tinderbox
+Tinker's Tools	https://www.dndbeyond.com/equipment/tinkers-tools
+Tocken	https://www.dndbeyond.com/equipment/tocken
+Topaz	https://www.dndbeyond.com/equipment/topaz
+Torch	https://www.dndbeyond.com/equipment/torch
+Torpor (Ingested)	https://www.dndbeyond.com/equipment/torpor-ingested
+Totem	https://www.dndbeyond.com/equipment/totem
+Tourmaline	https://www.dndbeyond.com/equipment/tourmaline
+Trident	https://www.dndbeyond.com/equipment/trident
+Truth Serum (Ingested)	https://www.dndbeyond.com/equipment/truth-serum-ingested
+Turquoise	https://www.dndbeyond.com/equipment/turquoise
+Turtle Ship	https://www.dndbeyond.com/equipment/turtle-ship
+Tyrant Ship	https://www.dndbeyond.com/equipment/tyrant-ship
+Vestments	https://www.dndbeyond.com/equipment/vestments
+Vial	https://www.dndbeyond.com/equipment/vial
+Viol	https://www.dndbeyond.com/equipment/viol
+Wagon	https://www.dndbeyond.com/equipment/wagon
+Wand	https://www.dndbeyond.com/equipment/wand
+War Pick	https://www.dndbeyond.com/equipment/war-pick
+Wargong	https://www.dndbeyond.com/equipment/wargong
+Warhammer	https://www.dndbeyond.com/equipment/warhammer
+Warhorse	https://www.dndbeyond.com/equipment/warhorse
+Warship	https://www.dndbeyond.com/equipment/warship
+Wasp Ship	https://www.dndbeyond.com/equipment/wasp-ship
+Waterskin	https://www.dndbeyond.com/equipment/waterskin
+Weaver's Tools	https://www.dndbeyond.com/equipment/weavers-tools
+Whetstone	https://www.dndbeyond.com/equipment/whetstone
+Whip	https://www.dndbeyond.com/equipment/whip
+Whistle-Stick	https://www.dndbeyond.com/equipment/whistle-stick
+White Ghost Orchid Seed	https://www.dndbeyond.com/equipment/white-ghost-orchid-seed
+Willowshade Oil	https://www.dndbeyond.com/equipment/willowshade-oil
+Woodcarver's Tools	https://www.dndbeyond.com/equipment/woodcarvers-tools
+Wooden Staff	https://www.dndbeyond.com/equipment/wooden-staff
+Wyvern Poison (Injury)	https://www.dndbeyond.com/equipment/wyvern-poison-injury
+Yarting	https://www.dndbeyond.com/equipment/yarting
+Yellow sapphire	https://www.dndbeyond.com/equipment/yellow-sapphire
+Yew Wand	https://www.dndbeyond.com/equipment/yew-wand
+Yklwa	https://www.dndbeyond.com/equipment/yklwa
+Zircon	https://www.dndbeyond.com/equipment/zircon
+Zulkoon	https://www.dndbeyond.com/equipment/zulkoon

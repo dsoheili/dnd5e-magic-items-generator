@@ -5,6 +5,7 @@ character_names = [
     "Hopper",
     "Olo",
     "Skellor",
+    "Tully",
     "Urashi",
     "NPC"
 ]
@@ -49,6 +50,7 @@ rarities_probabilities = {
 }
 
 price_ranges = {
+    "basic": (0, 10),
     "common": (10, 50),
     "uncommon_minor": (50, 250),
     "rare_minor": (500, 5000),
@@ -78,6 +80,7 @@ price_ranges = {
 }
 
 xlations = {
+    "basic": "Basic",
     "common": "Common",
     "uncommon_minor": "Uncommon, Minor",
     "rare_minor": "Rare, Minor",
@@ -107,6 +110,7 @@ xlations = {
 }
 
 emoticons = {
+    "basic": ":sparkles:",
     "common": ":star:",
     "uncommon_minor": ":star::star:",
     "rare_minor": ":star::star::star:",
@@ -118,7 +122,7 @@ emoticons = {
     "legendary_major": ":star2::star2::star2::star2::star2:",
     "mythic": ":sunny:",
     "unknown": ":new_moon:",
-    "level_0": ":dizzy:",
+    "level_0": ":sparkles:",
     "level_1": ":star:",
     "level_2": ":star::star:",
     "level_3": ":star::star::star:",
@@ -138,6 +142,7 @@ emoticons = {
 gui_info_text = """
 | Table  | Dice            | Max | Rarity           |
 |--------|-----------------|-----|------------------|
+| 0  - Z | 4d100+1d20+1d10 | 430 | Basic            |
 | 1  - A | 1d100+1d20      | 120 | Common           |
 | 2  - B | 1d100+3d20      | 160 | Uncommon, minor  |
 | 3  - C | 1d100+2d20+1d6  | 146 | Rare, minor      |
@@ -176,3 +181,6 @@ potion_rarities_probabilities = {
     "very_rare_potion": 0.10,
     "legendary_potion": 0.05,
 }
+
+# ----- Basic Shop --------
+number_of_basic_shop_items = 10

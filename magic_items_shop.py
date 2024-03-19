@@ -26,12 +26,14 @@ def stock_shop_shelf():
         item_price = get_item_price(rarity)
         notes = generate_item_notes(magic_item_name)
         magic_item_url = get_magic_item_url(magic_item_name, magic_items_url_data)
+        emoticons = get_emoticons(rarity)
 
         enchanted = None
         if magic_item_enchantments_enabled:
             enchanted, enchantment_effect = determine_enchantment()
 
-        output_text += f"### {magic_item_name}\n"
+        output_text += f"**{magic_item_name}**\n"
+        output_text += f"{emoticons}\n"
         output_text += f"*{rarity_text}*\n"
         output_text += f"Price: {item_price:,} GP\n"
 
@@ -126,6 +128,35 @@ def stock_potion_shop_shelf():
     output_text_widget.delete(1.0, tk.END)
     output_text_widget.insert(tk.END, output_text)
 
+def stock_basic_shop_shelf():
+    items_without_url = []
+    output_text = ""
+    rarity = "basic"
+    rarity_text = get_xlation(rarity)
+    emoticon = get_emoticons(rarity)
+
+    for i in range(number_of_basic_shop_items):
+        item = get_magic_item(rarity)
+        item_url = get_magic_item_url(item, magic_items_url_data)
+
+        output_text += f"**{item}**\n"
+        output_text += f"{emoticon}\n"
+        output_text += f"*{rarity_text}*\n"
+
+        if item_url:
+            output_text += f"<{item_url}>\n"
+        else:
+            items_without_url.append(item)
+
+        output_text += "\n"
+
+    output_text += "\n"
+    for item in items_without_url:
+        output_text += f"!item {item}\n"
+
+    output_text_widget.delete(1.0, tk.END)
+    output_text_widget.insert(tk.END, output_text)
+
 # Create the main window
 root = tk.Tk()
 root.title("Magic Item Shop")
@@ -141,6 +172,10 @@ generate_scrolls_button.pack(pady=4)
 generate_potions_button = tk.Button(root, text="Generate Potions", command=stock_potion_shop_shelf)
 generate_potions_button.pack()
 generate_potions_button.pack(pady=4)
+
+generate_basic_button = tk.Button(root, text="Generate Basic Items", command=stock_basic_shop_shelf)
+generate_basic_button.pack()
+generate_basic_button.pack(pady=4)
 
 output_text_widget = scrolledtext.ScrolledText(root, wrap=tk.WORD, width=80, height=40)
 output_text_widget.pack()

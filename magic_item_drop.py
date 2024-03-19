@@ -7,19 +7,25 @@ from config.config import *
 
 def generate_magic_item():
     character_name = character_var.get()
-    table_number = int(table_number_var.get())
-    row_number = int(row_number_var.get())
 
-    magic_item_name = get_magic_item_from_table(table_number, row_number)
-    magic_items_info = get_magic_items_from_file("data/magic_items_data.txt")
+    table_number = int(table_number_var.get())
     rarity = table_mapping[table_number]
+
+    if ( row_number_var.get() == ""):
+        magic_item_name = get_magic_item(rarity)
+    else:
+        row_number = int(row_number_var.get())
+        magic_item_name = get_magic_item_from_table(table_number, row_number)
+
+    magic_items_info = get_magic_items_from_file("data/magic_items_data.txt")
+
     notes = generate_item_notes(magic_item_name)
     item_price = get_item_price(rarity)
     magic_item_url = get_magic_item_url(magic_item_name, magic_items_info)
     rarity_text = get_xlation(rarity)
     emoticons = get_emoticons(rarity)
 
-    output_text = f"**{character_name} found a magic item!**\n"
+    output_text = f"**{character_name} found an item!**\n"
     output_text += f"{emoticons}\n"
     output_text += f"```\n"
     output_text += f"Item Name: {magic_item_name}\n"

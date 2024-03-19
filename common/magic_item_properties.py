@@ -1,4 +1,5 @@
 table_mapping = {
+    0: "basic",
     1: "common",
     2: "uncommon_minor",
     3: "rare_minor",
