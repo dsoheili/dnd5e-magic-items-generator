@@ -8,8 +8,14 @@ from config.config import *
 def generate_magic_item():
     character_name = character_var.get()
 
-    table_number = int(table_number_var.get())
-    rarity = table_mapping[table_number]
+    if (table_number_var.get() != ""):
+        table_number = int(table_number_var.get())
+        rarity = table_mapping[table_number]
+    elif (table_d100_var.get() != ""):
+        table_d100 = int(table_d100_var.get())
+        rarity = determine_rarity_from_d100(table_d100)
+    else:
+        rarity = pick_random_rarity(rarities_probabilities)
 
     if ( row_number_var.get() == ""):
         magic_item_name = get_magic_item(rarity)
@@ -65,6 +71,14 @@ table_number_var = tk.StringVar()
 table_number_entry = tk.Entry(root, textvariable=table_number_var)
 table_number_entry.pack()
 table_number_entry.pack(pady=10)
+
+table_d100_label = tk.Label(root, text="1d100 roll:")
+table_d100_label.pack()
+
+table_d100_var = tk.StringVar()
+table_d100_entry = tk.Entry(root, textvariable=table_d100_var)
+table_d100_entry.pack()
+table_d100_entry.pack(pady=10)
 
 row_number_label = tk.Label(root, text="Row Number:")
 row_number_label.pack()

@@ -68,7 +68,6 @@ def stock_scroll_shop_shelf():
         emoticons = get_emoticons(spell_level)
         spell_name = get_magic_spell(spell_level)
         item_price = get_item_price(spell_level)
-        print(spell_name)
         spell_url = get_magic_item_url(spell_name, spells_url_data)
 
         output_text += f"**{spell_level_text}**\n"

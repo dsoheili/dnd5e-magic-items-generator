@@ -73,6 +73,13 @@ def get_magic_item_url(magic_item_name, magic_items_info):
             return item_info[1]
     return ""
 
+def determine_rarity_from_d100(number):
+    for range_tuple, index in rarity_ranges.items():
+        if range_tuple[0] <= number <= range_tuple[1]:
+            return table_mapping[index]
+
+    # If no range matches, return 'common'
+    return table_mapping[0]
 
 def get_magic_item_from_table(table_number, row_number):
     if table_number not in table_mapping:
@@ -125,9 +132,11 @@ def generate_item_notes(magic_item_name):
 
     if "spell scroll" in magic_item_name.lower():
         spell_level = magic_item_name.split("(")[-1].replace(")", "").strip()
-        if spell_level in spells_by_level:
-            random_spell = random.choice(spells_by_level[spell_level])
-            notes = "Spell: " + random_spell
+        if spell_level in spell_mapping:
+            spell_index = spell_mapping[spell_level]
+            spell_name = get_magic_spell(spell_index)
+
+            notes = "Spell: " + spell_name
 
     elif "of resistance" in magic_item_name.lower():
         notes = "Resistance: " + random.choice(resistance_types)
