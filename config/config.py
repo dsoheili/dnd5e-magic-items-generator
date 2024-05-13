@@ -1,5 +1,6 @@
 # Player character names for GUI
 character_names = [
+    "Faewynn",
     "Nanners",
     "Silvanus",
     "Thalia",
@@ -127,7 +128,13 @@ xlations = {
     "uncommon_potion": "Uncommon",
     "rare_potion": "Rare",
     "very_rare_potion": "Very Rare",
-    "legendary_potion": "Legendary"
+    "legendary_potion": "Legendary",
+    "mint": "Mint",
+    "lightly_used": "Lightly Used",
+    "used": "Used",
+    "heavily_used": "Heavily Used",
+    "damaged": "Damaged",
+    "broken": "Broken"
 }
 
 emoticons = {
@@ -205,3 +212,12 @@ potion_rarities_probabilities = {
 
 # ----- Basic Shop --------
 number_of_basic_shop_items = 10
+
+item_condition_mapping = {
+    "mint":         1.00, # Item is in perfect condition
+    "lightly_used": 0.90, # Item has minimal signs of wear
+    "used":         0.75, # Item shows noticeable wear
+    "heavily_used": 0.50, # Item is functional but shows significant wear
+    "damaged":      0.25, # Item needs repair to be fully functional
+    "broken":       0.10  # Item is non-functional, requires major repairs
+}

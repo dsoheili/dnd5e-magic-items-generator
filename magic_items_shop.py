@@ -159,25 +159,31 @@ def stock_basic_shop_shelf():
 # Create the main window
 root = tk.Tk()
 root.title("Magic Item Shop")
+root.geometry("800x600")  # Set the size of the window
 
-generate_button = tk.Button(root, text="Generate Magic Items", command=stock_shop_shelf)
-generate_button.pack()
-generate_button.pack(pady=4)
+# Create a frame for buttons
+button_frame = ttk.Frame(root)
+button_frame.pack(pady=20)
 
-generate_scrolls_button = tk.Button(root, text="Generate Spell Scrolls", command=stock_scroll_shop_shelf)
-generate_scrolls_button.pack()
-generate_scrolls_button.pack(pady=4)
+# Improve button appearance and organization
+style = ttk.Style()
+style.configure('TButton', font=('Helvetica', 10), padding=8)
 
-generate_potions_button = tk.Button(root, text="Generate Potions", command=stock_potion_shop_shelf)
-generate_potions_button.pack()
-generate_potions_button.pack(pady=4)
+generate_button = ttk.Button(button_frame, text="Generate Magic Items", command=stock_shop_shelf)
+generate_button.pack(side=tk.LEFT, padx=10)
 
-generate_basic_button = tk.Button(root, text="Generate Basic Items", command=stock_basic_shop_shelf)
-generate_basic_button.pack()
-generate_basic_button.pack(pady=4)
+generate_scrolls_button = ttk.Button(button_frame, text="Generate Spell Scrolls", command=stock_scroll_shop_shelf)
+generate_scrolls_button.pack(side=tk.LEFT, padx=10)
 
-output_text_widget = scrolledtext.ScrolledText(root, wrap=tk.WORD, width=80, height=40)
-output_text_widget.pack()
+generate_potions_button = ttk.Button(button_frame, text="Generate Potions", command=stock_potion_shop_shelf)
+generate_potions_button.pack(side=tk.LEFT, padx=10)
+
+generate_basic_button = ttk.Button(button_frame, text="Generate Basic Items", command=stock_basic_shop_shelf)
+generate_basic_button.pack(side=tk.LEFT, padx=10)
+
+# Create a scrolled text widget for output
+output_text_widget = scrolledtext.ScrolledText(root, wrap=tk.WORD, width=80, height=20, font=('Helvetica', 11))
+output_text_widget.pack(fill=tk.BOTH, expand=True, padx=20, pady=10)
 
 # Start the GUI event loop
 root.mainloop()

@@ -8,10 +8,15 @@ def get_item_price(rarity):
     min_price, max_price = price_ranges.get(rarity, (0, 0))
     return random.randint(min_price, max_price)
 
-
 def roll_dice(max_value):
     return random.randint(1, max_value)
 
+def roll_multiple_dice(count, max_value, modifier):
+    total = 0
+    for i in range(count):
+        total += roll_dice(max_value)
+
+    return total + modifier
 
 def get_magic_items_from_file(file_name):
     magic_items = []
@@ -81,12 +86,7 @@ def determine_rarity_from_d100(number):
     # If no range matches, return 'common'
     return table_mapping[0]
 
-def get_magic_item_from_table(table_number, row_number):
-    if table_number not in table_mapping:
-        print("Invalid table number.")
-        return
-
-    table_name = table_mapping[table_number]
+def get_magic_item_from_table(table_name, row_number):
     filename = f"data/{table_name}.csv"
 
     try:

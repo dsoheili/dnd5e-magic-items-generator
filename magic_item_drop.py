@@ -17,11 +17,11 @@ def generate_magic_item():
     else:
         rarity = pick_random_rarity(rarities_probabilities)
 
-    if ( row_number_var.get() == ""):
+    if (row_number_var.get() == ""):
         magic_item_name = get_magic_item(rarity)
     else:
         row_number = int(row_number_var.get())
-        magic_item_name = get_magic_item_from_table(table_number, row_number)
+        magic_item_name = get_magic_item_from_table(rarity, row_number)
 
     magic_items_info = get_magic_items_from_file("data/magic_items_data.txt")
 
@@ -50,52 +50,57 @@ def generate_magic_item():
     output_text_widget.delete(1.0, tk.END)
     output_text_widget.insert(tk.END, output_text)
 
-# Create the main window
 root = tk.Tk()
 root.title("Magic Item Generator")
+root.geometry("600x400")  # Adjust the size as needed
 
-# Create and place widgets in the window
-character_label = tk.Label(root, text="Select Character Name:")
-character_label.pack()
+# Use frames for better organization
+input_frame = ttk.Frame(root, padding="10 10 10 10")
+input_frame.pack(fill=tk.BOTH, expand=True)
+
+output_frame = ttk.Frame(root, padding="10 10 10 10")
+output_frame.pack(fill=tk.BOTH, expand=True)
+
+# Style the components
+style = ttk.Style()
+style.configure('TButton', font=('Helvetica', 10), padding=10)
+style.configure('TLabel', font=('Helvetica', 10), padding=5)
+style.configure('TEntry', font=('Helvetica', 10), padding=5)
+
+# Input fields
+character_label = ttk.Label(input_frame, text="Select Character Name:")
+character_label.grid(column=0, row=0)
 
 character_var = tk.StringVar()
-character_var.set(character_names[0])
-character_menu = tk.OptionMenu(root, character_var, *character_names)
-character_menu.pack()
-character_menu.pack(pady=10)
+character_menu = ttk.OptionMenu(input_frame, character_var, None, *character_names)  # Removed inappropriate style
+character_menu.grid(column=1, row=0, sticky=tk.EW)
 
-table_number_label = tk.Label(root, text="Table Number (1-11):")
-table_number_label.pack()
+table_number_label = ttk.Label(input_frame, text="Table Number (1-11):")
+table_number_label.grid(column=0, row=1)
 
 table_number_var = tk.StringVar()
-table_number_entry = tk.Entry(root, textvariable=table_number_var)
-table_number_entry.pack()
-table_number_entry.pack(pady=10)
+table_number_entry = ttk.Entry(input_frame, textvariable=table_number_var)
+table_number_entry.grid(column=1, row=1, sticky=tk.EW)
 
-table_d100_label = tk.Label(root, text="1d100 roll:")
-table_d100_label.pack()
+table_d100_label = ttk.Label(input_frame, text="1d100 roll:")
+table_d100_label.grid(column=0, row=2)
 
 table_d100_var = tk.StringVar()
-table_d100_entry = tk.Entry(root, textvariable=table_d100_var)
-table_d100_entry.pack()
-table_d100_entry.pack(pady=10)
+table_d100_entry = ttk.Entry(input_frame, textvariable=table_d100_var)
+table_d100_entry.grid(column=1, row=2, sticky=tk.EW)
 
-row_number_label = tk.Label(root, text="Row Number:")
-row_number_label.pack()
+row_number_label = ttk.Label(input_frame, text="Row Number:")
+row_number_label.grid(column=0, row=3)
 
 row_number_var = tk.StringVar()
-row_number_entry = tk.Entry(root, textvariable=row_number_var)
-row_number_entry.pack()
-row_number_entry.pack(pady=10)
+row_number_entry = ttk.Entry(input_frame, textvariable=row_number_var)
+row_number_entry.grid(column=1, row=3, sticky=tk.EW)
 
-generate_button = tk.Button(root, text="Generate Magic Item", command=generate_magic_item)
-generate_button.pack()
+generate_button = ttk.Button(input_frame, text="Generate Magic Item", command=generate_magic_item)
+generate_button.grid(column=0, row=4, columnspan=2, pady=10)
 
-info_label = tk.Label(root, text=gui_info_text, justify=tk.LEFT, padx=10, pady=10, font=("Courier New", 10))
-info_label.pack()
+# Output area
+output_text_widget = scrolledtext.ScrolledText(output_frame, wrap=tk.WORD, width=50, height=10, font=('Helvetica', 11))
+output_text_widget.pack(fill=tk.BOTH, expand=True)
 
-output_text_widget = scrolledtext.ScrolledText(root, wrap=tk.WORD, width=50, height=10)
-output_text_widget.pack()
-
-# Start the GUI event loop
 root.mainloop()
