@@ -15,7 +15,7 @@ def generate_magic_item():
         table_d100 = int(table_d100_var.get())
         rarity = determine_rarity_from_d100(table_d100)
     else:
-        rarity = pick_random_rarity(rarities_probabilities)
+        rarity = pick_random_rarity(magic_items_rarities_probabilities)
 
     if (row_number_var.get() == ""):
         magic_item_name = get_magic_item(rarity)
@@ -27,7 +27,7 @@ def generate_magic_item():
 
     notes = generate_item_notes(magic_item_name)
     item_price = get_item_price(rarity)
-    magic_item_url = get_magic_item_url(magic_item_name, magic_items_info)
+    magic_item_url = get_item_url(magic_item_name, magic_items_info)
     rarity_text = get_xlation(rarity)
     emoticons = get_emoticons(rarity)
 

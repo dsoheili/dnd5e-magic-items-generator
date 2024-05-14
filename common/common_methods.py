@@ -72,14 +72,14 @@ def get_potion(potion_rarity):
         return None
 
 
-def get_magic_item_url(magic_item_name, magic_items_info):
+def get_item_url(magic_item_name, magic_items_info):
     for item_info in magic_items_info:
         if item_info[0] == magic_item_name:
             return item_info[1]
     return ""
 
 def determine_rarity_from_d100(number):
-    for range_tuple, index in rarity_ranges.items():
+    for range_tuple, index in magic_items_rarity_ranges.items():
         if range_tuple[0] <= number <= range_tuple[1]:
             return table_mapping[index]
 

@@ -1,7 +1,7 @@
 # Player character names for GUI
 character_names = [
+    "Banana Bear",
     "Faewynn",
-    "Nanners",
     "Silvanus",
     "Thalia",
     "NPC"
@@ -17,10 +17,10 @@ blessing_probability = 0.05
 
 # ----- Magic Items Shop --------
 # Number of items available in the magic item shop
-number_of_shop_items = 7
+number_of_magic_items_shop_items = 7
 
-default_shop_rarity = "common"
-shop_items_predefined_rarities = [
+default_magic_items_shop_rarity = "common"
+magic_items_shop_predefined_rarities = [
     ["common"],
     ["common"],
     ["uncommon_minor","uncommon_major"],
@@ -31,20 +31,9 @@ shop_items_predefined_rarities = [
 ]
 
 # For rolling stock of magic item shop
-random_rarities_for_shop_items = True
+random_rarities_for_magic_items_shop = True
 
-# Common: 1-35
-# Uncommon Minor: 36-55
-# Rare Minor: 56-65
-# Very Rare Minor: 66-73
-# Legendary Minor: 74-75
-# Uncommon Major: 76-85
-# Rare Major: 86-93
-# Very Rare Major: 94-97
-# Legendary Major: 98-99
-# Mythic: 100
-
-rarities_probabilities = {
+magic_items_rarities_probabilities = {
     "common": 0.35,
     "uncommon_minor": 0.20,
     "rare_minor": 0.10,
@@ -58,7 +47,7 @@ rarities_probabilities = {
     "unknown": 0
 }
 
-rarity_ranges = {
+magic_items_rarity_ranges = {
     (1, 35): 1,    # common
     (36, 55): 2,   # uncommon_minor
     (56, 65): 3,   # rare_minor
@@ -71,9 +60,79 @@ rarity_ranges = {
     (100, 100): 10 # mythic
 }
 
+
+# ----- Spell Scrolls Shop --------
+number_of_scroll_shop_items = 5
+scroll_rarities_probabilities = {
+    "level_0": 0.25,
+    "level_1": 0.2,
+    "level_2": 0.15,
+    "level_3": 0.1,
+    "level_4": 0.08,
+    "level_5": 0.07,
+    "level_6": 0.05,
+    "level_7": 0.04,
+    "level_8": 0.03,
+    "level_9": 0.03
+}
+
+# ----- Potion Shop --------
+number_of_potion_shop_items = 5
+potion_rarities_probabilities = {
+    "common_potion": 0.38,
+    "uncommon_potion": 0.27,
+    "rare_potion": 0.20,
+    "very_rare_potion": 0.10,
+    "legendary_potion": 0.05
+}
+
+# ----- Basic Shop --------
+number_of_basic_shop_items = 10
+
+item_condition_mapping = {
+    "mint":         1.00, # Item is in perfect condition
+    "lightly_used": 0.90, # Item has minimal signs of wear
+    "used":         0.75, # Item shows noticeable wear
+    "heavily_used": 0.50, # Item is functional but shows significant wear
+    "damaged":      0.25, # Item needs repair to be fully functional
+    "broken":       0.10  # Item is non-functional, requires major repairs
+}
+
+# ----- Combined Shop --------
+number_of_combined_shop_items = 5
+combined_shop_rarities_probabilities = {
+    "basic"           : 1,
+    "common"          : 0,
+    "uncommon_minor"  : 0,
+    "rare_minor"      : 0,
+    "very_rare_minor" : 0,
+    "legendary_minor" : 0,
+    "uncommon_major"  : 0,
+    "rare_major"      : 0,
+    "very_rare_major" : 0,
+    "legendary_major" : 0,
+    "mythic"          : 0,
+    "unknown"         : 0,
+    "level_0"         : 0,
+    "level_1"         : 0,
+    "level_2"         : 0,
+    "level_3"         : 0,
+    "level_4"         : 0,
+    "level_5"         : 0,
+    "level_6"         : 0,
+    "level_7"         : 0,
+    "level_8"         : 0,
+    "level_9"         : 0,
+    "common_potion"   : 0,
+    "uncommon_potion" : 0,
+    "rare_potion"     : 0,
+    "very_rare_potion": 0,
+    "legendary_potion": 0
+}
+
 price_ranges = {
-    "basic": (10, 100),
-    "common": (100, 500),
+    "basic": (50, 300),
+    "common": (300, 500),
     "uncommon_minor": (501, 1000),
     "rare_minor": (1001, 5000),
     "very_rare_minor": (5001, 10000),
@@ -94,11 +153,11 @@ price_ranges = {
     "level_7": (5000, 10000),
     "level_8": (10000, 15000),
     "level_9": (15000, 25000),
-    "common_potion": (100, 300),
-    "uncommon_potion": (300, 750),
-    "rare_potion": (750, 2500),
-    "very_rare_potion": (2500, 5000),
-    "legendary_potion": (5000, 10000)
+    "common_potion": (100, 500),
+    "uncommon_potion": (501, 1000),
+    "rare_potion": (1001, 5000),
+    "very_rare_potion": (5001, 10000),
+    "legendary_potion": (10001, 20000)
 }
 
 xlations = {
@@ -150,16 +209,16 @@ emoticons = {
     "legendary_major": ":star2::star2::star2::star2::star2:",
     "mythic": ":sunny:",
     "unknown": ":new_moon:",
-    "level_0": ":sparkles:",
-    "level_1": ":star:",
-    "level_2": ":star::star:",
-    "level_3": ":star::star::star:",
-    "level_4": ":star::star::star::star:",
-    "level_5": ":star::star::star::star::star:",
-    "level_6": ":star::star::star::star::star::star:",
-    "level_7": ":star::star::star::star::star::star::star:",
-    "level_8": ":star::star::star::star::star::star::star::star:",
-    "level_9": ":star::star::star::star::star::star::star::star::star:",
+    "level_0": ":roll_of_paper:",
+    "level_1": ":scroll:",
+    "level_2": ":scroll::scroll:",
+    "level_3": ":scroll::scroll::scroll:",
+    "level_4": ":scroll::scroll::scroll::scroll:",
+    "level_5": ":scroll::scroll::scroll::scroll::scroll:",
+    "level_6": ":scroll::scroll::scroll::scroll::scroll::scroll:",
+    "level_7": ":scroll::scroll::scroll::scroll::scroll::scroll::scroll:",
+    "level_8": ":scroll::scroll::scroll::scroll::scroll::scroll::scroll::scroll:",
+    "level_9": ":scroll::scroll::scroll::scroll::scroll::scroll::scroll::scroll::scroll:",
     "common_potion": ":alembic:",
     "uncommon_potion": ":alembic::alembic:",
     "rare_potion": ":alembic::alembic::alembic:",
@@ -183,41 +242,3 @@ gui_info_text = """
 | 100   - 10 - J | 2d20+4d4        | 56  | Mythic           |
 | N/A   - 11 - K | 1d12            | 12  | Unknown          |
 """
-
-
-# ----- Spell Scrolls Shop --------
-number_of_scroll_shop_items = 5
-scroll_rarities_probabilities = {
-    "level_0": 0.25,
-    "level_1": 0.2,
-    "level_2": 0.15,
-    "level_3": 0.1,
-    "level_4": 0.08,
-    "level_5": 0.07,
-    "level_6": 0.05,
-    "level_7": 0.04,
-    "level_8": 0.03,
-    "level_9": 0.03
-}
-
-# ----- Potion Shop --------
-number_of_potion_shop_items = 5
-potion_rarities_probabilities = {
-    "common_potion": 0.38,
-    "uncommon_potion": 0.27,
-    "rare_potion": 0.20,
-    "very_rare_potion": 0.10,
-    "legendary_potion": 0.05
-}
-
-# ----- Basic Shop --------
-number_of_basic_shop_items = 10
-
-item_condition_mapping = {
-    "mint":         1.00, # Item is in perfect condition
-    "lightly_used": 0.90, # Item has minimal signs of wear
-    "used":         0.75, # Item shows noticeable wear
-    "heavily_used": 0.50, # Item is functional but shows significant wear
-    "damaged":      0.25, # Item needs repair to be fully functional
-    "broken":       0.10  # Item is non-functional, requires major repairs
-}
