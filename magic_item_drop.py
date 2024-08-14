@@ -52,7 +52,7 @@ def generate_magic_item():
 
 root = tk.Tk()
 root.title("Magic Item Generator")
-root.geometry("600x400")  # Adjust the size as needed
+root.geometry("600x800")  # Adjust the size as needed
 
 # Use frames for better organization
 input_frame = ttk.Frame(root, padding="10 10 10 10")
@@ -98,6 +98,11 @@ row_number_entry.grid(column=1, row=3, sticky=tk.EW)
 
 generate_button = ttk.Button(input_frame, text="Generate Magic Item", command=generate_magic_item)
 generate_button.grid(column=0, row=4, columnspan=2, pady=10)
+
+info_widget = scrolledtext.ScrolledText(input_frame, height=16, width=70)
+info_widget.insert(tk.END, gui_info_text)
+info_widget.grid(column=0, row=5, columnspan=2, pady=(2, 0))
+info_widget.configure(state='disabled')
 
 # Output area
 output_text_widget = scrolledtext.ScrolledText(output_frame, wrap=tk.WORD, width=50, height=10, font=('Helvetica', 11))

@@ -99,11 +99,11 @@ item_condition_mapping = {
 }
 
 # ----- Combined Shop --------
-number_of_combined_shop_items = 5
+number_of_combined_shop_items = 12
 combined_shop_rarities_probabilities = {
-    "basic"           : 1,
-    "common"          : 0,
-    "uncommon_minor"  : 0,
+    "basic"           : .2,
+    "common"          : .30,
+    "uncommon_minor"  : .17,
     "rare_minor"      : 0,
     "very_rare_minor" : 0,
     "legendary_minor" : 0,
@@ -113,7 +113,7 @@ combined_shop_rarities_probabilities = {
     "legendary_major" : 0,
     "mythic"          : 0,
     "unknown"         : 0,
-    "level_0"         : 0,
+    "level_0"         : .28,
     "level_1"         : 0,
     "level_2"         : 0,
     "level_3"         : 0,
@@ -123,7 +123,7 @@ combined_shop_rarities_probabilities = {
     "level_7"         : 0,
     "level_8"         : 0,
     "level_9"         : 0,
-    "common_potion"   : 0,
+    "common_potion"   : .5,
     "uncommon_potion" : 0,
     "rare_potion"     : 0,
     "very_rare_potion": 0,
@@ -227,18 +227,18 @@ emoticons = {
 }
 
 gui_info_text = """
-| 1d100 - Table  | Dice            | Max | Rarity           |
-|----------------|-----------------|-----|------------------|
-| 0     - 0  - Z | 4d100+1d20+1d10 | 430 | Basic            |
-| 1-35  - 1  - A | 1d100+1d20      | 120 | Common           |
-| 36-55 - 2  - B | 1d100+3d20      | 160 | Uncommon, minor  |
-| 56-65 - 3  - C | 1d100+2d20+1d6  | 146 | Rare, minor      |
-| 66-73 - 4  - D | 1d100           | 100 | Very Rare, minor |
-| 74-75 - 5  - E | 1d100           | 100 | Legendary, minor |
-| 76-85 - 6  - F | 1d100+1d20      | 120 | Uncommon, major  |
-| 86-93 - 7  - G | 2d100+1d20      | 220 | Rare, major      |
-| 94-97 - 8  - H | 1d100+3d20      | 160 | Very Rare, major |
-| 98-99 - 9  - I | 1d100+1d20+1d12 | 132 | Legendary, major |
-| 100   - 10 - J | 2d20+4d4        | 56  | Mythic           |
-| N/A   - 11 - K | 1d12            | 12  | Unknown          |
+| 1d100 | Table  | Dice            | Max | Rarity           |
+|-------|--------|-----------------|-----|------------------|
+| 0     | 0  - Z | 4d100+1d20+1d10 | 430 | Basic            |
+| 1-35  | 1  - A | 1d100+2d20      | 140 | Common           |
+| 36-55 | 2  - B | 2d100           | 200 | Uncommon, minor  |
+| 56-65 | 3  - C | 1d100+3d20      | 160 | Rare, minor      |
+| 66-73 | 4  - D | 1d100           | 100 | Very Rare, minor |
+| 74-75 | 5  - E | 1d100           | 100 | Legendary, minor |
+| 76-85 | 6  - F | 1d100+2d20      | 140 | Uncommon, major  |
+| 86-93 | 7  - G | 2d100+3d20      | 260 | Rare, major      |
+| 94-97 | 8  - H | 2d100           | 200 | Very Rare, major |
+| 98-99 | 9  - I | 1d100+2d20      | 140 | Legendary, major |
+| 100   | 10 - J | 3d20+1d10       | 70  | Mythic           |
+| N/A   | 11 - K | 1d12            | 12  | Unknown          |
 """

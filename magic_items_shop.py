@@ -131,23 +131,26 @@ def stock_basic_shop_shelf():
     items_without_url = []
     output_text = ""
     rarity = "basic"
-    rarity_text = get_xlation(rarity)
-    emoticon = get_emoticons(rarity)
+    # rarity_text = get_xlation(rarity)
+    # emoticon = get_emoticons(rarity)
 
     for i in range(number_of_basic_shop_items):
         item = get_magic_item(rarity)
         item_url = get_item_url(item, magic_items_url_data)
 
-        output_text += f"**{item}**\n"
-        output_text += f"{emoticon}\n"
-        output_text += f"*{rarity_text}*\n"
+        # output_text += f"**{item}**\n"
+        # output_text += f"{emoticon}\n"
+        # output_text += f"*{rarity_text}*\n"
+
+        # Simple mode
+        output_text += f"- {item} - "
 
         if item_url:
             output_text += f"<{item_url}>\n"
         else:
             items_without_url.append(item)
 
-        output_text += "\n"
+        # output_text += "\n"
 
     output_text += "\n"
     for item in items_without_url:
