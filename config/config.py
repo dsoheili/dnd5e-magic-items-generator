@@ -2,8 +2,10 @@
 character_names = [
     "Banana Bear",
     "Faewynn",
-    "Silvanus",
+    "Levanya",
+    "Nex",
     "Thalia",
+    "Wabuu",
     "NPC"
 ]
 
@@ -34,28 +36,28 @@ magic_items_shop_predefined_rarities = [
 random_rarities_for_magic_items_shop = True
 
 magic_items_rarities_probabilities = {
-    "common": 0.35,
-    "uncommon_minor": 0.20,
-    "rare_minor": 0.10,
-    "very_rare_minor": 0.08,
+    "common": 0.40,
+    "uncommon_minor": 0.25,
+    "rare_minor": 0.05,
+    "very_rare_minor": 0.03,
     "legendary_minor": 0.02,
-    "uncommon_major": 0.10,
-    "rare_major": 0.08,
-    "very_rare_major": 0.04,
+    "uncommon_major": 0.15,
+    "rare_major": 0.04,
+    "very_rare_major": 0.03,
     "legendary_major": 0.02,
     "mythic": 0.01,
     "unknown": 0
 }
 
 magic_items_rarity_ranges = {
-    (1, 35): 1,    # common
-    (36, 55): 2,   # uncommon_minor
-    (56, 65): 3,   # rare_minor
-    (66, 73): 4,   # very_rare_minor
-    (74, 75): 5,   # legendary_minor
-    (76, 85): 6,   # uncommon_major
-    (86, 93): 7,   # rare_major
-    (94, 97): 8,   # very_rare_major
+    (1, 40): 1,    # common
+    (41, 65): 2,   # uncommon_minor
+    (66, 80): 6,   # uncommon_major
+    (81, 85): 3,   # rare_minor
+    (86, 89): 7,   # rare_major
+    (90, 92): 4,   # very_rare_minor
+    (93, 95): 8,   # very_rare_major
+    (96, 97): 5,   # legendary_minor
     (98, 99): 9,   # legendary_major
     (100, 100): 10 # mythic
 }
@@ -101,21 +103,21 @@ item_condition_mapping = {
 # ----- Combined Shop --------
 number_of_combined_shop_items = 12
 combined_shop_rarities_probabilities = {
-    "basic"           : .2,
-    "common"          : .30,
-    "uncommon_minor"  : .17,
+    "basic"           : 0,
+    "common"          : 0.40,
+    "uncommon_minor"  : 0.30,
     "rare_minor"      : 0,
     "very_rare_minor" : 0,
     "legendary_minor" : 0,
-    "uncommon_major"  : 0,
+    "uncommon_major"  : 0.10,
     "rare_major"      : 0,
     "very_rare_major" : 0,
     "legendary_major" : 0,
     "mythic"          : 0,
     "unknown"         : 0,
-    "level_0"         : .28,
-    "level_1"         : 0,
-    "level_2"         : 0,
+    "level_0"         : 0.05,
+    "level_1"         : 0.10,
+    "level_2"         : 0.05,
     "level_3"         : 0,
     "level_4"         : 0,
     "level_5"         : 0,
@@ -123,7 +125,7 @@ combined_shop_rarities_probabilities = {
     "level_7"         : 0,
     "level_8"         : 0,
     "level_9"         : 0,
-    "common_potion"   : .5,
+    "common_potion"   : 0,
     "uncommon_potion" : 0,
     "rare_potion"     : 0,
     "very_rare_potion": 0,
