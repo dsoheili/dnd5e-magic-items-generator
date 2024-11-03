@@ -240,7 +240,7 @@ gui_info_text = """
 | 76-85 | 6  - F | 1d100+2d20      | 140 | Uncommon, major  |
 | 86-93 | 7  - G | 2d100+3d20      | 260 | Rare, major      |
 | 94-97 | 8  - H | 2d100           | 200 | Very Rare, major |
-| 98-99 | 9  - I | 1d100+2d20      | 140 | Legendary, major |
+| 98-99 | 9  - I | 1d100+2d20+1d10 | 150 | Legendary, major |
 | 100   | 10 - J | 3d20+1d10       | 70  | Mythic           |
 | N/A   | 11 - K | 1d12            | 12  | Unknown          |
 """

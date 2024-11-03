@@ -1646,3 +1646,49 @@ Shadow Grimoire	https://www.dndbeyond.com/magic-items/8871831-shadow-grimoire
 Shroud of Kairious	https://www.dndbeyond.com/magic-items/8871832-shroud-of-kairious
 The Luminous Codex	https://www.dndbeyond.com/magic-items/8871833-the-luminous-codex
 Umbril Opal Necklace	https://www.dndbeyond.com/magic-items/8871834-umbril-opal-necklace
+Adamantine Weapon	https://www.dndbeyond.com/magic-items/9228341-adamantine-weapon
+Baba Yaga's Dancing Broom	https://www.dndbeyond.com/magic-items/9228354-baba-yagas-dancing-broom
+Cube of Summoning	https://www.dndbeyond.com/magic-items/9228412-cube-of-summoning
+Energy Bow	https://www.dndbeyond.com/magic-items/9058960-energy-bow
+Enspelled Armor (Spell Level Cantrip)	https://www.dndbeyond.com/magic-items/9228541-enspelled-armor
+Enspelled Armor (Spell Level 1)	https://www.dndbeyond.com/magic-items/9228541-enspelled-armor
+Enspelled Armor (Spell Level 2)	https://www.dndbeyond.com/magic-items/9228541-enspelled-armor
+Enspelled Armor (Spell Level 3)	https://www.dndbeyond.com/magic-items/9228541-enspelled-armor
+Enspelled Armor (Spell Level 4)	https://www.dndbeyond.com/magic-items/9228541-enspelled-armor
+Enspelled Armor (Spell Level 5)	https://www.dndbeyond.com/magic-items/9228541-enspelled-armor
+Enspelled Armor (Spell Level 6)	https://www.dndbeyond.com/magic-items/9228541-enspelled-armor
+Enspelled Armor (Spell Level 7)	https://www.dndbeyond.com/magic-items/9228541-enspelled-armor
+Enspelled Armor (Spell Level 8)	https://www.dndbeyond.com/magic-items/9228541-enspelled-armor
+Enspelled Staff (Spell Level Cantrip)	https://www.dndbeyond.com/magic-items/9228594-enspelled-staff
+Enspelled Staff (Spell Level 1)	https://www.dndbeyond.com/magic-items/9228594-enspelled-staff
+Enspelled Staff (Spell Level 2)	https://www.dndbeyond.com/magic-items/9228594-enspelled-staff
+Enspelled Staff (Spell Level 3)	https://www.dndbeyond.com/magic-items/9228594-enspelled-staff
+Enspelled Staff (Spell Level 4)	https://www.dndbeyond.com/magic-items/9228594-enspelled-staff
+Enspelled Staff (Spell Level 5)	https://www.dndbeyond.com/magic-items/9228594-enspelled-staff
+Enspelled Staff (Spell Level 6)	https://www.dndbeyond.com/magic-items/9228594-enspelled-staff
+Enspelled Staff (Spell Level 7)	https://www.dndbeyond.com/magic-items/9228594-enspelled-staff
+Enspelled Staff (Spell Level 8)	https://www.dndbeyond.com/magic-items/9228594-enspelled-staff
+Enspelled Weapon (Spell Level Cantrip)	https://www.dndbeyond.com/magic-items/9228599-enspelled-weapon
+Enspelled Weapon (Spell Level 1)	https://www.dndbeyond.com/magic-items/9228599-enspelled-weapon
+Enspelled Weapon (Spell Level 2)	https://www.dndbeyond.com/magic-items/9228599-enspelled-weapon
+Enspelled Weapon (Spell Level 3)	https://www.dndbeyond.com/magic-items/9228599-enspelled-weapon
+Enspelled Weapon (Spell Level 4)	https://www.dndbeyond.com/magic-items/9228599-enspelled-weapon
+Enspelled Weapon (Spell Level 5)	https://www.dndbeyond.com/magic-items/9228599-enspelled-weapon
+Enspelled Weapon (Spell Level 6)	https://www.dndbeyond.com/magic-items/9228599-enspelled-weapon
+Enspelled Weapon (Spell Level 7)	https://www.dndbeyond.com/magic-items/9228599-enspelled-weapon
+Enspelled Weapon (Spell Level 8)	https://www.dndbeyond.com/magic-items/9228599-enspelled-weapon
+Executioner's Axe	https://www.dndbeyond.com/magic-items/9228603-executioners-axe
+Hag Eye	https://www.dndbeyond.com/magic-items/9228705-hag-eye
+Hat of Many Spells	https://www.dndbeyond.com/magic-items/9058998-hat-of-many-spells
+Lute of Thunderous Thumping	https://www.dndbeyond.com/magic-items/9228833-lute-of-thunderous-thumping
+Niko's Mace	https://www.dndbeyond.com/magic-items/9058987-nikos-mace
+Potion of Greater Invisibility	https://www.dndbeyond.com/magic-items/9228934-potion-of-greater-invisibility
+Potion of Pugilism	https://www.dndbeyond.com/magic-items/9228938-potion-of-pugilism
+Quarterstaff of the Acrobat	https://www.dndbeyond.com/magic-items/9058897-quarterstaff-of-the-acrobat
+Rival Coin	https://www.dndbeyond.com/magic-items/9228975-rival-coin
+Scroll of Titan Summoning	https://www.dndbeyond.com/magic-items/9229017-scroll-of-titan-summoning
+Shield of the Cavalier	https://www.dndbeyond.com/magic-items/9058943-shield-of-the-cavalier
+Silvered Weapon	https://www.dndbeyond.com/magic-items/9229070-silvered-weapon
+Spirit Board	https://www.dndbeyond.com/magic-items/9229087-spirit-board
+Sylvan Talon	https://www.dndbeyond.com/magic-items/9229122-sylvan-talon
+Thunderous Greatclub	https://www.dndbeyond.com/magic-items/9058872-thunderous-greatclub
