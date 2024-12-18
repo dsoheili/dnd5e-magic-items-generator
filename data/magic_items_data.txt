@@ -6,34 +6,58 @@ Abracadabrus	https://www.dndbeyond.com/magic-items/2188377-abracadabrus
 Absorbing Tattoo	https://www.dndbeyond.com/magic-items/2400459-absorbing-tattoo
 Acheron Blade	https://www.dndbeyond.com/magic-items/1434250-acheron-blade
 Adamantine Armor	https://www.dndbeyond.com/magic-items/5370-adamantine-armor
+Adamantine Armor, Chain Mail	https://www.dndbeyond.com/magic-items/4850-adamantine-chain-mail
+Adamantine Armor, Chain Shirt	https://www.dndbeyond.com/magic-items/4566-adamantine-chain-shirt
+Adamantine Armor, Scale Mail	https://www.dndbeyond.com/magic-items/4845-adamantine-scale-mail
+Adamantine Armor, Breastplate	https://www.dndbeyond.com/magic-items/4847-adamantine-breastplate
+Adamantine Armor, Splint	https://www.dndbeyond.com/magic-items/4851-adamantine-splint
+Adamantine Armor, Half Plate	https://www.dndbeyond.com/magic-items/4848-adamantine-half-plate
+Adamantine Armor, Plate	https://www.dndbeyond.com/magic-items/4852-adamantine-plate
+Adamantine Armor, Any	https://www.dndbeyond.com/magic-items/5370-adamantine-armor
 Adze of Annam	https://www.dndbeyond.com/magic-items/7102405-adze-of-annam
 Akmon, Hammer of Purphoros	https://www.dndbeyond.com/magic-items/1752516-akmon-hammer-of-purphoros
 Alchemical Compendium	https://www.dndbeyond.com/magic-items/2400596-alchemical-compendium
 Alchemy Jug	https://www.dndbeyond.com/magic-items/5346-alchemy-jug
 Alchemy Jug (Blue)	https://www.dndbeyond.com/magic-items/3001253-alchemy-jug-blue
 Alchemy Jug (Orange)	https://www.dndbeyond.com/magic-items/3001254-alchemy-jug-orange
-All-Purpose Tool	https://www.dndbeyond.com/magic-items/2400634-all-purpose-tool
+All Purpose Tool, +1	https://www.dndbeyond.com/magic-items/2400637-all-purpose-tool-1
+All Purpose Tool, +2	https://www.dndbeyond.com/magic-items/2400656-all-purpose-tool-2
+All Purpose Tool, +3	https://www.dndbeyond.com/magic-items/2400662-all-purpose-tool-3
 Amethyst Lodestone	https://www.dndbeyond.com/magic-items/4047183-amethyst-lodestone
 Ammunition, +1	https://www.dndbeyond.com/magic-items/5407-ammunition-1
 Ammunition, +2	https://www.dndbeyond.com/magic-items/5410-ammunition-2
 Ammunition, +3	https://www.dndbeyond.com/magic-items/5411-ammunition-3
 Amulet of Health	https://www.dndbeyond.com/magic-items/4568-amulet-of-health
-Amulet of Proof against Detection and Location	https://www.dndbeyond.com/magic-items/4569-amulet-of-proof-against-detection-and-location
+Amulet of Proof Against Detection and Location	https://www.dndbeyond.com/magic-items/4569-amulet-of-proof-against-detection-and-location
 Amulet of Protection from Turning	https://www.dndbeyond.com/magic-items/9288-amulet-of-protection-from-turning
 Amulet of the Black Skull	https://www.dndbeyond.com/magic-items/21712-amulet-of-the-black-skull
-Amulet of the Devout	https://www.dndbeyond.com/magic-items/2411830-amulet-of-the-devout
+Amulet of the Devout, +1	https://www.dndbeyond.com/magic-items/2411840-amulet-of-the-devout-1
+Amulet of the Devout, +2	https://www.dndbeyond.com/magic-items/2411862-amulet-of-the-devout-2
+Amulet of the Devout, +3	https://www.dndbeyond.com/magic-items/2411866-amulet-of-the-devout-3
 Amulet of the Drunkard	https://www.dndbeyond.com/magic-items/1434251-amulet-of-the-drunkard
 Amulet of the Planes	https://www.dndbeyond.com/magic-items/4570-amulet-of-the-planes
 Animated Shield	https://www.dndbeyond.com/magic-items/4571-animated-shield
 Apparatus of Kwalish	https://www.dndbeyond.com/magic-items/5344-apparatus-of-kwalish
 Apparatus of the Crab	https://www.dndbeyond.com/magic-items/4572-apparatus-of-the-crab
 Arcane Cannon	https://www.dndbeyond.com/magic-items/1434252-arcane-cannon
-Arcane Grimoire	https://www.dndbeyond.com/magic-items/2411893-arcane-grimoire
+Arcane Grimoire, +1	https://www.dndbeyond.com/magic-items/2411920-arcane-grimoire-1
+Arcane Grimoire, +2	https://www.dndbeyond.com/magic-items/2411946-arcane-grimoire-2
+Arcane Grimoire, +3	https://www.dndbeyond.com/magic-items/2411947-arcane-grimoire-3
 Arcane Propulsion Arm	https://www.dndbeyond.com/magic-items/976932-arcane-propulsion-arm
 Armblade	https://www.dndbeyond.com/magic-items/215692-armblade
 Armor of Gleaming	https://www.dndbeyond.com/magic-items/36571-armor-of-gleaming
 Armor of Invulnerability	https://www.dndbeyond.com/magic-items/4574-armor-of-invulnerability
 Armor of Resistance	https://www.dndbeyond.com/magic-items/5371-armor-of-resistance
+Armor of Resistance, Chain Shirt	https://www.dndbeyond.com/magic-items/5371-armor-of-resistance
+Armor of Resistance, Chain Mail	https://www.dndbeyond.com/magic-items/5371-armor-of-resistance
+Armor of Resistance, Leather	https://www.dndbeyond.com/magic-items/5371-armor-of-resistance
+Armor of Resistance, Scale Mail	https://www.dndbeyond.com/magic-items/5371-armor-of-resistance
+Armor of Resistance, Breastplate	https://www.dndbeyond.com/magic-items/5371-armor-of-resistance
+Armor of Resistance, Splint	https://www.dndbeyond.com/magic-items/5371-armor-of-resistance
+Armor of Resistance, Studded Leather	https://www.dndbeyond.com/magic-items/5371-armor-of-resistance
+Armor of Resistance, Half Plate	https://www.dndbeyond.com/magic-items/5371-armor-of-resistance
+Armor of Resistance, Plate	https://www.dndbeyond.com/magic-items/5371-armor-of-resistance
+Armor of Resistance, Any	https://www.dndbeyond.com/magic-items/5371-armor-of-resistance
 Armor of Safeguarding	https://www.dndbeyond.com/magic-items/7102410-armor-of-safeguarding
 Armor of Vulnerability	https://www.dndbeyond.com/magic-items/5376-armor-of-vulnerability
 Armor, +1	https://www.dndbeyond.com/magic-items/5377-armor-1
@@ -57,7 +81,9 @@ Balance of Harmony	https://www.dndbeyond.com/magic-items/9290-balance-of-harmony
 Balloon Pack	https://www.dndbeyond.com/magic-items/5578-balloon-pack
 Band of Loyalty	https://www.dndbeyond.com/magic-items/215546-band-of-loyalty
 Banner of the Krig Rune	https://www.dndbeyond.com/magic-items/5510-banner-of-the-krig-rune
-Barrier Tattoo	https://www.dndbeyond.com/magic-items/2411988-barrier-tattoo
+Barrier Tattoo 12+Dex	https://www.dndbeyond.com/magic-items/2411995-barrier-tattoo-uncommon
+Barrier Tattoo 15+ 2 Dex	https://www.dndbeyond.com/magic-items/2412023-barrier-tattoo-rare
+Barrier Tattoo 18Ac	https://www.dndbeyond.com/magic-items/2412047-barrier-tattoo-very-rare
 Battering Shield	https://www.dndbeyond.com/magic-items/1434253-battering-shield
 Battle Standard of Infernal Power	https://www.dndbeyond.com/magic-items/843387-battle-standard-of-infernal-power
 Bead of Force	https://www.dndbeyond.com/magic-items/4583-bead-of-force
@@ -67,6 +93,12 @@ Belashyrra's Beholder Crown	https://www.dndbeyond.com/magic-items/984096-belashy
 Bell Branch	https://www.dndbeyond.com/magic-items/2401130-bell-branch
 Belt of Dwarvenkind	https://www.dndbeyond.com/magic-items/4584-belt-of-dwarvenkind
 Belt of Giant Strength	https://www.dndbeyond.com/magic-items/5372-belt-of-giant-strength
+Belt of Giant Strength (Hill Giant)	https://www.dndbeyond.com/magic-items/4585-belt-of-hill-giant-strength
+Belt of Giant Strength (Frost Giant)	https://www.dndbeyond.com/magic-items/4827-belt-of-frost-giant-strength
+Belt of Giant Strength (Stone Giant)	https://www.dndbeyond.com/magic-items/4826-belt-of-stone-giant-strength
+Belt of Giant Strength (Fire Giant)	https://www.dndbeyond.com/magic-items/4828-belt-of-fire-giant-strength
+Belt of Giant Strength (Cloud Giant)	https://www.dndbeyond.com/magic-items/4829-belt-of-cloud-giant-strength
+Belt of Giant Strength (Storm Giant)	https://www.dndbeyond.com/magic-items/4830-belt-of-storm-giant-strength
 Berserker Axe	https://www.dndbeyond.com/magic-items/5382-berserker-axe
 Bigby's Beneficent Bracelet	https://www.dndbeyond.com/magic-items/7102411-bigbys-beneficent-bracelet
 Black Crystal Tablet	https://www.dndbeyond.com/magic-items/333407-black-crystal-tablet
@@ -83,7 +115,9 @@ Blood of the Lycanthrope Antidote	https://www.dndbeyond.com/magic-items/1144990-
 Blood Spear	https://www.dndbeyond.com/magic-items/5527-blood-spear
 Bloodaxe	https://www.dndbeyond.com/magic-items/1434258-bloodaxe
 Bloodshed Blade	https://www.dndbeyond.com/magic-items/7102412-bloodshed-blade
-Bloodwell Vial	https://www.dndbeyond.com/magic-items/2412091-bloodwell-vial
+Bloodwell Vial, +1	https://www.dndbeyond.com/magic-items/2412127-bloodwell-vial-1
+Bloodwell Vial, +2	https://www.dndbeyond.com/magic-items/2412146-bloodwell-vial-2
+Bloodwell Vial, +3	https://www.dndbeyond.com/magic-items/2412150-bloodwell-vial-3
 Blue Dragon Mask	https://www.dndbeyond.com/magic-items/13575-blue-dragon-mask
 Bobbing Lily Pad	https://www.dndbeyond.com/magic-items/3895563-bobbing-lily-pad
 Bonecounter	https://www.dndbeyond.com/magic-items/883354-bonecounter
@@ -98,7 +132,7 @@ Boots of Elvenkind	https://www.dndbeyond.com/magic-items/4587-boots-of-elvenkind
 Boots of False Tracks	https://www.dndbeyond.com/magic-items/27025-boots-of-false-tracks
 Boots of Levitation	https://www.dndbeyond.com/magic-items/4588-boots-of-levitation
 Boots of Speed	https://www.dndbeyond.com/magic-items/4589-boots-of-speed
-Boots of Striding and Springing	https://www.dndbeyond.com/magic-items/4590-boots-of-striding-and-springing
+Boots of Striding And Springing	https://www.dndbeyond.com/magic-items/4590-boots-of-striding-and-springing
 Boots of the Winterlands	https://www.dndbeyond.com/magic-items/4591-boots-of-the-winterlands
 Bottle of Boundless Coffee	https://www.dndbeyond.com/magic-items/4239816-bottle-of-boundless-coffee
 Bottled Breath	https://www.dndbeyond.com/magic-items/5579-bottled-breath
@@ -147,7 +181,8 @@ Cloak of the Manta Ray	https://www.dndbeyond.com/magic-items/4609-cloak-of-the-m
 Clockwork Amulet	https://www.dndbeyond.com/magic-items/27042-clockwork-amulet
 Clothes of Mending	https://www.dndbeyond.com/magic-items/27043-clothes-of-mending
 Coiling Grasp Tattoo	https://www.dndbeyond.com/magic-items/2401178-coiling-grasp-tattoo
-Coin of Decisionry	https://www.dndbeyond.com/magic-items/703529-coin-of-decisionry
+Coin of Decisionry (rank 2)	https://www.dndbeyond.com/magic-items/703529-coin-of-decisionry
+Coin of Decisionry (rank 3)	https://www.dndbeyond.com/magic-items/703529-coin-of-decisionry
 Coin of Delving	https://www.dndbeyond.com/magic-items/1434262-coin-of-delving
 Concertina	https://www.dndbeyond.com/magic-items/1064873-concertina
 Conch of Teleportation	https://www.dndbeyond.com/magic-items/5513-conch-of-teleportation
@@ -190,21 +225,32 @@ Dimensional Loop	https://www.dndbeyond.com/magic-items/705903-dimensional-loop
 Dimensional Shackles	https://www.dndbeyond.com/magic-items/4620-dimensional-shackles
 Dispelling Stone	https://www.dndbeyond.com/magic-items/1434307-dispelling-stone
 Docent	https://www.dndbeyond.com/magic-items/215652-docent
-Documancy Satchel	https://www.dndbeyond.com/magic-items/703626-documancy-satchel
+Documancy Satchel (rank 2)	https://www.dndbeyond.com/magic-items/703626-documancy-satchel
+Documancy Satchel (rank 3)	https://www.dndbeyond.com/magic-items/703626-documancy-satchel
+Documancy Satchel (rank 4)	https://www.dndbeyond.com/magic-items/703626-documancy-satchel
 Dodecahedron of Doom	https://www.dndbeyond.com/magic-items/333423-dodecahedron-of-doom
 Draakhorn	https://www.dndbeyond.com/magic-items/9043-draakhorn
 Dragon Scale Mail	https://www.dndbeyond.com/magic-items/5380-dragon-scale-mail
 Dragon Slayer	https://www.dndbeyond.com/magic-items/5385-dragon-slayer
-Dragon Vessel	https://www.dndbeyond.com/magic-items/4047199-dragon-vessel
+Dragon Vessel (Slumbering)	https://www.dndbeyond.com/magic-items/4047196-dragon-vessel-slumbering
+Dragon Vessel (Stirring)	https://www.dndbeyond.com/magic-items/4047197-dragon-vessel-stirring
+Dragon Vessel (Wakened)	https://www.dndbeyond.com/magic-items/4047198-dragon-vessel-wakened
+Dragon Vessel (Ascendant)	https://www.dndbeyond.com/magic-items/4047195-dragon-vessel-ascendant
 Dragon Wing Bow	https://www.dndbeyond.com/magic-items/4047200-dragon-wing-bow
-Dragon's Wrath Weapon	https://www.dndbeyond.com/magic-items/4047217-dragons-wrath-weapon
+Dragon's Wrath Weapon (Slumbering)	https://www.dndbeyond.com/magic-items/4047214-dragons-wrath-weapon-slumbering
+Dragon's Wrath Weapon (Stirring)	https://www.dndbeyond.com/magic-items/4047215-dragons-wrath-weapon-stirring
+Dragon's Wrath Weapon (Wakened)	https://www.dndbeyond.com/magic-items/4047216-dragons-wrath-weapon-wakened
+Dragon's Wrath Weapon (Ascendant)	https://www.dndbeyond.com/magic-items/4047213-dragons-wrath-weapon-ascendant
 Dragongleam	https://www.dndbeyond.com/magic-items/5715467-dragongleam
 Dragonguard	https://www.dndbeyond.com/magic-items/12467-dragonguard
 Dragonhide Belt	https://www.dndbeyond.com/magic-items/4047209-dragonhide-belt
 Dragonlance	https://www.dndbeyond.com/magic-items/4047212-dragonlance
 Dragonstaff of Ahghairon	https://www.dndbeyond.com/magic-items/253611-dragonstaff-of-ahghairon
 Dragontooth Dagger	https://www.dndbeyond.com/magic-items/9044-dragontooth-dagger
-Dragon-Touched Focus	https://www.dndbeyond.com/magic-items/4047194-dragon-touched-focus
+Dragon-Touched Focus (Slumbering)	https://www.dndbeyond.com/magic-items/4047191-dragon-touched-focus-slumbering
+Dragon-Touched Focus (Stirring)	https://www.dndbeyond.com/magic-items/4047192-dragon-touched-focus-stirring
+Dragon-Touched Focus (Wakened)	https://www.dndbeyond.com/magic-items/4047193-dragon-touched-focus-wakened
+Dragon-Touched Focus (Ascendant)	https://www.dndbeyond.com/magic-items/4047190-dragon-touched-focus-ascendant
 Dread Helm	https://www.dndbeyond.com/magic-items/27045-dread-helm
 Driftglobe	https://www.dndbeyond.com/magic-items/5349-driftglobe
 Drown	https://www.dndbeyond.com/magic-items/5590-drown
@@ -253,7 +299,15 @@ Feather of Diatryma Summoning	https://www.dndbeyond.com/magic-items/253617-feath
 Feather Token	https://www.dndbeyond.com/magic-items/5412-feather-token
 Feather Token (Feather Fall)	https://www.dndbeyond.com/magic-items/215554-feather-token-feather-fall
 Feywild Shard	https://www.dndbeyond.com/magic-items/2412248-feywild-shard
-Figurine of Wondrous Power	https://www.dndbeyond.com/magic-items/5413-figurine-of-wondrous-power
+Figurine of Wondrous Power (Bronze Griffon)	https://www.dndbeyond.com/magic-items/4637-figurine-of-wondrous-power-bronze-griffon
+Figurine of Wondrous Power (Ebony Fly)	https://www.dndbeyond.com/magic-items/4831-figurine-of-wondrous-power-ebony-fly
+Figurine of Wondrous Power (Golden Lions)	https://www.dndbeyond.com/magic-items/4832-figurine-of-wondrous-power-golden-lions
+Figurine of Wondrous Power (Ivory Goats)	https://www.dndbeyond.com/magic-items/4833-figurine-of-wondrous-power-ivory-goats
+Figurine of Wondrous Power (Marble Elephant)	https://www.dndbeyond.com/magic-items/4834-figurine-of-wondrous-power-marble-elephant
+Figurine of Wondrous Power (Obsidian Steed)	https://www.dndbeyond.com/magic-items/4835-figurine-of-wondrous-power-obsidian-steed
+Figurine of Wondrous Power (Onyx Dog)	https://www.dndbeyond.com/magic-items/4836-figurine-of-wondrous-power-onyx-dog
+Figurine of Wondrous Power (Serpentine Owl)	https://www.dndbeyond.com/magic-items/4837-figurine-of-wondrous-power-serpentine-owl
+Figurine of Wondrous Power (Silver Raven)	https://www.dndbeyond.com/magic-items/4838-figurine-of-wondrous-power-silver-raven
 Finder's Goggles	https://www.dndbeyond.com/magic-items/977633-finders-goggles
 Fish Suit	https://www.dndbeyond.com/magic-items/5439866-fish-suit
 Flail of Tiamat	https://www.dndbeyond.com/magic-items/4047219-flail-of-tiamat
@@ -273,7 +327,8 @@ Gem of Seeing	https://www.dndbeyond.com/magic-items/4643-gem-of-seeing
 Ghost Lantern	https://www.dndbeyond.com/magic-items/21721-ghost-lantern
 Ghost Step Tattoo	https://www.dndbeyond.com/magic-items/2412269-ghost-step-tattoo
 Giant Slayer	https://www.dndbeyond.com/magic-items/5388-giant-slayer
-Glamerweave	https://www.dndbeyond.com/magic-items/215556-glamerweave
+Glamerweave (Common)	https://www.dndbeyond.com/magic-items/215556-glamerweave
+Glamerweave (Uncommon)	https://www.dndbeyond.com/magic-items/1093036-uncommon-glamerweave
 Glamoured Studded Leather	https://www.dndbeyond.com/magic-items/4645-glamoured-studded-leather
 Gloves of Missile Snaring	https://www.dndbeyond.com/magic-items/4646-gloves-of-missile-snaring
 Gloves of Soul Catching	https://www.dndbeyond.com/magic-items/3001256-gloves-of-soul-catching
@@ -289,8 +344,27 @@ Green Dragon Mask	https://www.dndbeyond.com/magic-items/13576-green-dragon-mask
 Grimoire Infinitus	https://www.dndbeyond.com/magic-items/1434314-grimoire-infinitus
 Grovelthrash	https://www.dndbeyond.com/magic-items/1434318-grovelthrash
 Guardian Emblem	https://www.dndbeyond.com/magic-items/2412282-guardian-emblem
-Guild Keyrune	https://www.dndbeyond.com/magic-items/318841-guild-keyrune
+Azorius Keyrune	https://www.dndbeyond.com/magic-items/313775-azorius-keyrune
+Boros Keyrune	https://www.dndbeyond.com/magic-items/313800-boros-keyrune
+Dimir Keyrune	https://www.dndbeyond.com/magic-items/313806-dimir-keyrune
+Golgari Keyrune	https://www.dndbeyond.com/magic-items/313811-golgari-keyrune
+Gruul Keyrune	https://www.dndbeyond.com/magic-items/313812-gruul-keyrune
+Izzet Keyrune	https://www.dndbeyond.com/magic-items/313815-izzet-keyrune
+Orzhov Keyrune	https://www.dndbeyond.com/magic-items/313816-orzhov-keyrune
+Rakdos Keyrune	https://www.dndbeyond.com/magic-items/313820-rakdos-keyrune
+Selesnya Keyrune	https://www.dndbeyond.com/magic-items/313823-selesnya-keyrune
+Simic Keyrune	https://www.dndbeyond.com/magic-items/313829-simic-keyrune
 Guild Signet	https://www.dndbeyond.com/magic-items/318846-guild-signet
+Azorius Guild Signet	https://www.dndbeyond.com/magic-items/315142-azorius-guild-signet
+Boros Guild Signet	https://www.dndbeyond.com/magic-items/315147-boros-guild-signet
+Dimir Guild Signet	https://www.dndbeyond.com/magic-items/315151-dimir-guild-signet
+Golgari Guild Signet	https://www.dndbeyond.com/magic-items/315152-golgari-guild-signet
+Gruul Guild Signet	https://www.dndbeyond.com/magic-items/315154-gruul-guild-signet
+Izzet Guild Signet	https://www.dndbeyond.com/magic-items/315155-izzet-guild-signet
+Orzhov Guild Signet	https://www.dndbeyond.com/magic-items/315157-orzhov-guild-signet
+Rakdos Guild Signet	https://www.dndbeyond.com/magic-items/315159-rakdos-guild-signet
+Selesnya Guild Signet	https://www.dndbeyond.com/magic-items/315160-selesnya-guild-signet
+Simic Guild Signet	https://www.dndbeyond.com/magic-items/315163-simic-guild-signet
 Gulthias Staff	https://www.dndbeyond.com/magic-items/5528-gulthias-staff
 Gurt's Greataxe	https://www.dndbeyond.com/magic-items/5515-gurts-greataxe
 Hammer of Thunderbolts	https://www.dndbeyond.com/magic-items/4649-hammer-of-thunderbolts
@@ -330,9 +404,12 @@ Horn of Beckoning Death	https://www.dndbeyond.com/magic-items/6504938-horn-of-be
 Horn of Blasting	https://www.dndbeyond.com/magic-items/4658-horn-of-blasting
 Horn of Silent Alarm	https://www.dndbeyond.com/magic-items/27064-horn-of-silent-alarm
 Horn of the Endless Maze	https://www.dndbeyond.com/magic-items/333415-horn-of-the-endless-maze
-Horn of Valhalla	https://www.dndbeyond.com/magic-items/5414-horn-of-valhalla
+Horn of Valhalla (Silver)	https://www.dndbeyond.com/magic-items/4659-horn-of-valhalla-silver
+Horn of Valhalla (Brass)	https://www.dndbeyond.com/magic-items/4914-horn-of-valhalla-brass
+Horn of Valhalla (Bronze)	https://www.dndbeyond.com/magic-items/4915-horn-of-valhalla-bronze
+Horn of Valhalla (Iron)	https://www.dndbeyond.com/magic-items/4916-horn-of-valhalla-iron
 Horned Ring	https://www.dndbeyond.com/magic-items/333399-horned-ring
-Horseshoes of a Zephyr	https://www.dndbeyond.com/magic-items/4660-horseshoes-of-a-zephyr
+Horseshoes of A Zephyr	https://www.dndbeyond.com/magic-items/4660-horseshoes-of-a-zephyr
 Horseshoes of Speed	https://www.dndbeyond.com/magic-items/4661-horseshoes-of-speed
 Hunter's Coat	https://www.dndbeyond.com/magic-items/1434323-hunters-coat
 Icon of Ravenloft	https://www.dndbeyond.com/magic-items/5530-icon-of-ravenloft
@@ -351,8 +428,27 @@ Insignia of Claws	https://www.dndbeyond.com/magic-items/5603-insignia-of-claws
 Instant Fortress	https://www.dndbeyond.com/magic-items/4663-instant-fortress
 Instrument of Illusions	https://www.dndbeyond.com/magic-items/27065-instrument-of-illusions
 Instrument of Scribing	https://www.dndbeyond.com/magic-items/27066-instrument-of-scribing
-Instrument of the Bards	https://www.dndbeyond.com/magic-items/5508-instrument-of-the-bards
-Ioun Stone	https://www.dndbeyond.com/magic-items/5415-ioun-stone
+Instrument of the Bards (Anstruth Harp)	https://www.dndbeyond.com/magic-items/5433-anstruth-harp
+Instrument of the Bards (Canaith Mandolin)	https://www.dndbeyond.com/magic-items/5434-canaith-mandolin
+Instrument of the Bards (Cli Lyre)	https://www.dndbeyond.com/magic-items/5435-cli-lyre
+Instrument of the Bards (Doss Lute)	https://www.dndbeyond.com/magic-items/5436-doss-lute
+Instrument of the Bards (Fochlucan Bandore)	https://www.dndbeyond.com/magic-items/5437-fochlucan-bandore
+Instrument of the Bards (Mac-Fuirmidh Cittern)	https://www.dndbeyond.com/magic-items/5438-mac-fuirmidh-cittern
+Instrument of the Bards (Ollamh Harp)	https://www.dndbeyond.com/magic-items/5439-ollamh-harp
+Ioun Stone (Absorption)	https://www.dndbeyond.com/magic-items/4664-ioun-stone-of-absorption
+Ioun Stone (Agility)	https://www.dndbeyond.com/magic-items/4917-ioun-stone-of-agility
+Ioun Stone (Awareness)	https://www.dndbeyond.com/magic-items/4918-ioun-stone-of-awareness
+Ioun Stone (Fortitude)	https://www.dndbeyond.com/magic-items/4933-ioun-stone-of-fortitude
+Ioun Stone (Greater Absorption)	https://www.dndbeyond.com/magic-items/4934-ioun-stone-of-greater-absorption
+Ioun Stone (Insight)	https://www.dndbeyond.com/magic-items/4935-ioun-stone-of-insight
+Ioun Stone (Intellect)	https://www.dndbeyond.com/magic-items/4936-ioun-stone-of-intellect
+Ioun Stone (Leadership)	https://www.dndbeyond.com/magic-items/4937-ioun-stone-of-leadership
+Ioun Stone (Mastery)	https://www.dndbeyond.com/magic-items/4938-ioun-stone-of-mastery
+Ioun Stone (Protection)	https://www.dndbeyond.com/magic-items/4939-ioun-stone-of-protection
+Ioun Stone (Regeneration)	https://www.dndbeyond.com/magic-items/4940-ioun-stone-of-regeneration
+Ioun Stone (Reserve)	https://www.dndbeyond.com/magic-items/4941-ioun-stone-of-reserve
+Ioun Stone (Strength)	https://www.dndbeyond.com/magic-items/4942-ioun-stone-of-strength
+Ioun Stone (Sustenance)	https://www.dndbeyond.com/magic-items/4943-ioun-stone-of-sustenance
 Ioun Stone of Historical Knowledge	https://www.dndbeyond.com/magic-items/354050-ioun-stone-of-historical-knowledge
 Ioun Stone of Language Knowledge	https://www.dndbeyond.com/magic-items/354061-ioun-stone-of-language-knowledge
 Ioun Stone of Natural Knowledge	https://www.dndbeyond.com/magic-items/354054-ioun-stone-of-natural-knowledge
@@ -385,7 +481,9 @@ Lifewell Tattoo	https://www.dndbeyond.com/magic-items/2412368-lifewell-tattoo
 Lightbringer	https://www.dndbeyond.com/magic-items/12465-lightbringer
 Living Armor	https://www.dndbeyond.com/magic-items/982693-living-armor
 Living Gloves	https://www.dndbeyond.com/magic-items/1085653-living-gloves
-Living Loot Satchel	https://www.dndbeyond.com/magic-items/703697-living-loot-satchel
+Living Loot Satchel (rank 2)	https://www.dndbeyond.com/magic-items/703697-living-loot-satchel
+Living Loot Satchel (rank 3)	https://www.dndbeyond.com/magic-items/703697-living-loot-satchel
+Living Loot Satchel (rank 4)	https://www.dndbeyond.com/magic-items/703697-living-loot-satchel
 Loadstone	https://www.dndbeyond.com/magic-items/9305-loadstone
 Lock of Trickery	https://www.dndbeyond.com/magic-items/27068-lock-of-trickery
 Longbow of the Healing Hearth	https://www.dndbeyond.com/magic-items/7102426-longbow-of-the-healing-hearth
@@ -438,9 +536,11 @@ Mizzium Armor	https://www.dndbeyond.com/magic-items/316637-mizzium-armor
 Mizzium Mortar	https://www.dndbeyond.com/magic-items/316755-mizzium-mortar
 Molten Bronze Skin	https://www.dndbeyond.com/magic-items/1752526-molten-bronze-skin
 Moodmark Paint	https://www.dndbeyond.com/magic-items/316756-moodmark-paint
-Moon Sickle	https://www.dndbeyond.com/magic-items/2405401-moon-sickle
+Moon Sickle, +1	https://www.dndbeyond.com/magic-items/2405408-moon-sickle-1
+Moon Sickle, +2	https://www.dndbeyond.com/magic-items/2405452-moon-sickle-2
+Moon Sickle, +3	https://www.dndbeyond.com/magic-items/2405460-moon-sickle-3
 Moonblade	https://www.dndbeyond.com/magic-items/5430-moonblade
-Moon-Touched Sword	https://www.dndbeyond.com/magic-items/36822-moon-touched-sword
+Moon Touched Sword	https://www.dndbeyond.com/magic-items/36822-moon-touched-sword
 Mummy Rot Antidote	https://www.dndbeyond.com/magic-items/1144419-mummy-rot-antidote
 Murgaxor's Orb	https://www.dndbeyond.com/magic-items/4239820-murgaxors-orb
 Mystery Key	https://www.dndbeyond.com/magic-items/27076-mystery-key
@@ -460,8 +560,12 @@ Nine Lives Stealer	https://www.dndbeyond.com/magic-items/5394-nine-lives-stealer
 Nolzur's Marvelous Pigments	https://www.dndbeyond.com/magic-items/5356-nolzurs-marvelous-pigments
 Oathbow	https://www.dndbeyond.com/magic-items/4686-oathbow
 Obsidian Flint Dragon Plate	https://www.dndbeyond.com/magic-items/842285-obsidian-flint-dragon-plate
-Obviator's Lenses	https://www.dndbeyond.com/magic-items/704032-obviators-lenses
-Occultant Abacus	https://www.dndbeyond.com/magic-items/704165-occultant-abacus
+Obviator's Lenses (rank 2)	https://www.dndbeyond.com/magic-items/704032-obviators-lenses
+Obviator's Lenses (rank 4)	https://www.dndbeyond.com/magic-items/704032-obviators-lenses
+Occultant Abacus (rank 1)	https://www.dndbeyond.com/magic-items/704165-occultant-abacus
+Occultant Abacus (rank 2)	https://www.dndbeyond.com/magic-items/704165-occultant-abacus
+Occultant Abacus (rank 3)	https://www.dndbeyond.com/magic-items/704165-occultant-abacus
+Occultant Abacus (rank 4)	https://www.dndbeyond.com/magic-items/704165-occultant-abacus
 Oil of Etherealness	https://www.dndbeyond.com/magic-items/4687-oil-of-etherealness
 Oil of Sharpness	https://www.dndbeyond.com/magic-items/4688-oil-of-sharpness
 Oil of Slipperiness	https://www.dndbeyond.com/magic-items/4689-oil-of-slipperiness
@@ -505,7 +609,9 @@ Pole of Angling	https://www.dndbeyond.com/magic-items/27108-pole-of-angling
 Pole of Collapsing	https://www.dndbeyond.com/magic-items/27112-pole-of-collapsing
 Polymorph Blade	https://www.dndbeyond.com/magic-items/351917-polymorph-blade
 Portable Hole	https://www.dndbeyond.com/magic-items/4699-portable-hole
-Portfolio Keeper	https://www.dndbeyond.com/magic-items/704241-portfolio-keeper
+Portfolio Keeper (rank 2)	https://www.dndbeyond.com/magic-items/704241-portfolio-keeper
+Portfolio Keeper (rank 3)	https://www.dndbeyond.com/magic-items/704241-portfolio-keeper
+Portfolio Keeper (rank 4)	https://www.dndbeyond.com/magic-items/704241-portfolio-keeper
 Pot of Awakening	https://www.dndbeyond.com/magic-items/27113-pot-of-awakening
 Potion of Advantage	https://www.dndbeyond.com/magic-items/3895573-potion-of-advantage
 Potion of Animal Friendship	https://www.dndbeyond.com/magic-items/4700-potion-of-animal-friendship
@@ -519,7 +625,12 @@ Potion of Fire Breath	https://www.dndbeyond.com/magic-items/5357-potion-of-fire-
 Potion of Flying	https://www.dndbeyond.com/magic-items/4704-potion-of-flying
 Potion of Gaseous Form	https://www.dndbeyond.com/magic-items/4705-potion-of-gaseous-form
 Potion of Giant Size	https://www.dndbeyond.com/magic-items/5522-potion-of-giant-size
-Potion of Giant Strength	https://www.dndbeyond.com/magic-items/5417-potion-of-giant-strength
+Potion of Giant Strength (Hill Giant)	https://www.dndbeyond.com/magic-items/4706-potion-of-hill-giant-strength
+Potion of Giant Strength (Frost Giant)	https://www.dndbeyond.com/magic-items/5129-potion-of-frost-giant-strength
+Potion of Giant Strength (Stone Giant)	https://www.dndbeyond.com/magic-items/5128-potion-of-stone-giant-strength
+Potion of Giant Strength (Fire Giant)	https://www.dndbeyond.com/magic-items/5130-potion-of-fire-giant-strength
+Potion of Giant Strength (Cloud Giant)	https://www.dndbeyond.com/magic-items/5131-potion-of-cloud-giant-strength
+Potion of Giant Strength (Storm Giant)	https://www.dndbeyond.com/magic-items/5132-potion-of-storm-giant-strength
 Potion of Growth	https://www.dndbeyond.com/magic-items/4707-potion-of-growth
 Potion of Healing	https://www.dndbeyond.com/magic-items/4708-potion-of-healing
 Potion of Heroism	https://www.dndbeyond.com/magic-items/4709-potion-of-heroism
@@ -527,7 +638,9 @@ Potion of Invisibility	https://www.dndbeyond.com/magic-items/4710-potion-of-invi
 Potion of Invulnerability	https://www.dndbeyond.com/magic-items/5358-potion-of-invulnerability
 Potion of Longevity	https://www.dndbeyond.com/magic-items/5359-potion-of-longevity
 Potion of Maximum Power	https://www.dndbeyond.com/magic-items/1434354-potion-of-maximum-power
-Potion of Mind Control	https://www.dndbeyond.com/magic-items/9355-potion-of-mind-control
+Potion of Mind Control (Beast)	https://www.dndbeyond.com/magic-items/9363-potion-of-mind-control-beast
+Potion of Mind Control (Humanoid)	https://www.dndbeyond.com/magic-items/9365-potion-of-mind-control-humanoid
+Potion of Mind Control (Monster)	https://www.dndbeyond.com/magic-items/9373-potion-of-mind-control-monster
 Potion of Mind Reading	https://www.dndbeyond.com/magic-items/4711-potion-of-mind-reading
 Potion of Poison	https://www.dndbeyond.com/magic-items/4712-potion-of-poison
 Potion of Possibility	https://www.dndbeyond.com/magic-items/1434355-potion-of-possibility
@@ -537,7 +650,10 @@ Potion of Vitality	https://www.dndbeyond.com/magic-items/5360-potion-of-vitality
 Potion of Watchful Rest	https://www.dndbeyond.com/magic-items/954156-potion-of-watchful-rest
 Potion of Water Breathing	https://www.dndbeyond.com/magic-items/4715-potion-of-water-breathing
 Powered Armor	https://www.dndbeyond.com/magic-items/351921-powered-armor
-Prehistoric Figurines of Wondrous Power	https://www.dndbeyond.com/magic-items/7102435-prehistoric-figurines-of-wondrous-power
+Prehistoric Figurines of Wondrous Power (Carnelian Triceratops)	https://www.dndbeyond.com/magic-items/7102431-prehistoric-figurine-of-wondrous-power-carnelian
+Prehistoric Figurines of Wondrous Power (Jasper Tyrannosaurus Rex)	https://www.dndbeyond.com/magic-items/7102432-prehistoric-figurine-of-wondrous-power-jasper
+Prehistoric Figurines of Wondrous Power (Kyanite Pteranodon)	https://www.dndbeyond.com/magic-items/7102433-prehistoric-figurine-of-wondrous-power-kyanite
+Prehistoric Figurines of Wondrous Power (Pyrite Plesiosaurus)	https://www.dndbeyond.com/magic-items/7102434-prehistoric-figurine-of-wondrous-power-pyrite
 Pressure Capsule	https://www.dndbeyond.com/magic-items/606442-pressure-capsule
 Prismari Primer	https://www.dndbeyond.com/magic-items/4239821-prismari-primer
 Professor Orb	https://www.dndbeyond.com/magic-items/333435-professor-orb
@@ -549,6 +665,12 @@ Psi Crystal	https://www.dndbeyond.com/magic-items/2188397-psi-crystal
 Pyroconverger	https://www.dndbeyond.com/magic-items/316767-pyroconverger
 Pyxis of Pandemonium	https://www.dndbeyond.com/magic-items/1752528-pyxis-of-pandemonium
 Quaal's Feather Token	https://www.dndbeyond.com/magic-items/13584-quaals-feather-token
+Quaal's Feather Token (Anchor)	https://www.dndbeyond.com/magic-items/4636-feather-token-anchor
+Quaal's Feather Token (Bird)	https://www.dndbeyond.com/magic-items/4890-feather-token-bird
+Quaal's Feather Token (Fan)	https://www.dndbeyond.com/magic-items/4891-feather-token-fan
+Quaal's Feather Token (Swan Boat)	https://www.dndbeyond.com/magic-items/4892-feather-token-swan-boat
+Quaal's Feather Token (Tree)	https://www.dndbeyond.com/magic-items/4893-feather-token-tree
+Quaal's Feather Token (Whip)	https://www.dndbeyond.com/magic-items/4894-feather-token-whip
 Quandrix Primer	https://www.dndbeyond.com/magic-items/4239822-quandrix-primer
 Quiver of Ehlonna	https://www.dndbeyond.com/magic-items/5367-quiver-of-ehlonna
 Radiance	https://www.dndbeyond.com/magic-items/3001259-radiance
@@ -560,10 +682,9 @@ Reincarnation Dust	https://www.dndbeyond.com/magic-items/1434356-reincarnation-d
 Restorative Ointment	https://www.dndbeyond.com/magic-items/4716-restorative-ointment
 Reveler's Concertina	https://www.dndbeyond.com/magic-items/2405691-revelers-concertina
 Revenant Double-Bladed Scimitar	https://www.dndbeyond.com/magic-items/218255-revenant-double-bladed-scimitar
-Rhythm-Maker's Drum	https://www.dndbeyond.com/magic-items/2405713-rhythm-makers-drum
-Rhythm-Maker's Drum, +1	https://www.dndbeyond.com/magic-items/2405721-rhythm-makers-drum-1
-Rhythm-Maker's Drum, +2	https://www.dndbeyond.com/magic-items/2405727-rhythm-makers-drum-2
-Rhythm-Maker's Drum, +3	https://www.dndbeyond.com/magic-items/2405734-rhythm-makers-drum-3
+Rhythm Maker's Drum, +1	https://www.dndbeyond.com/magic-items/2405721-rhythm-makers-drum-1
+Rhythm Maker's Drum, +2	https://www.dndbeyond.com/magic-items/2405727-rhythm-makers-drum-2
+Rhythm Maker's Drum, +3	https://www.dndbeyond.com/magic-items/2405734-rhythm-makers-drum-3
 Ring of Air Elemental Command	https://www.dndbeyond.com/magic-items/4719-ring-of-air-elemental-command
 Ring of Amity	https://www.dndbeyond.com/magic-items/7102437-ring-of-amity
 Ring of Animal Influence	https://www.dndbeyond.com/magic-items/4717-ring-of-animal-influence
@@ -629,7 +750,10 @@ Saddle of the Cavalier	https://www.dndbeyond.com/magic-items/5396-saddle-of-the-
 Saint Markovia's Thighbone	https://www.dndbeyond.com/magic-items/5531-saint-markovias-thighbone
 Sanctum Amulet	https://www.dndbeyond.com/magic-items/7102438-sanctum-amulet
 Sapphire Buckler	https://www.dndbeyond.com/magic-items/4047224-sapphire-buckler
-Scaled Ornament	https://www.dndbeyond.com/magic-items/4047229-scaled-ornament
+Scaled Ornament (Slumbering)	https://www.dndbeyond.com/magic-items/4047226-scaled-ornament-slumbering
+Scaled Ornament (Stirring)	https://www.dndbeyond.com/magic-items/4047227-scaled-ornament-stirring
+Scaled Ornament (Wakened)	https://www.dndbeyond.com/magic-items/4047228-scaled-ornament-wakened
+Scaled Ornament (Ascendant)	https://www.dndbeyond.com/magic-items/4047225-scaled-ornament-ascendant
 Scarab of Protection	https://www.dndbeyond.com/magic-items/4751-scarab-of-protection
 Scimitar of Speed	https://www.dndbeyond.com/magic-items/4752-scimitar-of-speed
 Scissors of Shadow Snipping	https://www.dndbeyond.com/magic-items/3895575-scissors-of-shadow-snipping
@@ -688,11 +812,26 @@ Spell Gem (Quartz)	https://www.dndbeyond.com/magic-items/5540-spell-gem-quartz
 Spell Gem (Ruby)	https://www.dndbeyond.com/magic-items/5546-spell-gem-ruby
 Spell Gem (Star Ruby)	https://www.dndbeyond.com/magic-items/5545-spell-gem-star-ruby
 Spell Gem (Topaz)	https://www.dndbeyond.com/magic-items/5544-spell-gem-topaz
-Spell Scroll	https://www.dndbeyond.com/magic-items/5418-spell-scroll
+Spell Scroll (Cantrip)	https://www.dndbeyond.com/magic-items/4758-spell-scroll-0-cantrip
+Spell Scroll (1st Level)	https://www.dndbeyond.com/magic-items/5161-spell-scroll-1st-level
+Spell Scroll (2nd Level)	https://www.dndbeyond.com/magic-items/5162-spell-scroll-2nd-level
+Spell Scroll (3rd Level)	https://www.dndbeyond.com/magic-items/5163-spell-scroll-3rd-level
+Spell Scroll (4th Level)	https://www.dndbeyond.com/magic-items/5164-spell-scroll-4th-level
+Spell Scroll (5th Level)	https://www.dndbeyond.com/magic-items/5165-spell-scroll-5th-level
+Spell Scroll (6th Level)	https://www.dndbeyond.com/magic-items/5166-spell-scroll-6th-level
+Spell Scroll (7th Level)	https://www.dndbeyond.com/magic-items/5167-spell-scroll-7th-level
+Spell Scroll (8th Level)	https://www.dndbeyond.com/magic-items/5168-spell-scroll-8th-level
+Spell Scroll (9th Level)	https://www.dndbeyond.com/magic-items/5169-spell-scroll-9th-level
 Spellguard Shield	https://www.dndbeyond.com/magic-items/4757-spellguard-shield
 Spelljamming Helm	https://www.dndbeyond.com/magic-items/5439867-spelljamming-helm
 Spellshard	https://www.dndbeyond.com/magic-items/215558-spellshard
 Spellwrought Tattoo	https://www.dndbeyond.com/magic-items/2408275-spellwrought-tattoo
+Spellwrought Tattoo (Cantrip)	https://www.dndbeyond.com/magic-items/2408306-spellwrought-tattoo-cantrip
+Spellwrought Tattoo (1st Level)	https://www.dndbeyond.com/magic-items/2408336-spellwrought-tattoo-1st-level
+Spellwrought Tattoo (2nd Level)	https://www.dndbeyond.com/magic-items/2408349-spellwrought-tattoo-2nd-level
+Spellwrought Tattoo (3rd Level)	https://www.dndbeyond.com/magic-items/2408360-spellwrought-tattoo-3rd-level
+Spellwrought Tattoo (4th Level)	https://www.dndbeyond.com/magic-items/2408379-spellwrought-tattoo-4th-level
+Spellwrought Tattoo (5th Level)	https://www.dndbeyond.com/magic-items/2408390-spellwrought-tattoo-5th-level
 Sphere of Annihilation	https://www.dndbeyond.com/magic-items/4759-sphere-of-annihilation
 Spider Staff	https://www.dndbeyond.com/magic-items/9088-spider-staff
 Spies' Murmur	https://www.dndbeyond.com/magic-items/316783-spies-murmur
@@ -770,7 +909,6 @@ Travel Alchemical Kit	https://www.dndbeyond.com/magic-items/704043-travel-alchem
 Trident of Fish Command	https://www.dndbeyond.com/magic-items/4784-trident-of-fish-command
 Two-Birds Sling	https://www.dndbeyond.com/magic-items/1752531-two-birds-sling
 Unbreakable Arrow	https://www.dndbeyond.com/magic-items/36838-unbreakable-arrow
-Uncommon Glamerweave	https://www.dndbeyond.com/magic-items/1093036-uncommon-glamerweave
 Universal Solvent	https://www.dndbeyond.com/magic-items/4785-universal-solvent
 Ventilating Lungs	https://www.dndbeyond.com/magic-items/1091623-ventilating-lungs
 Verminshroud	https://www.dndbeyond.com/magic-items/1434382-verminshroud
@@ -798,7 +936,9 @@ Wand of Pyrotechnics	https://www.dndbeyond.com/magic-items/27147-wand-of-pyrotec
 Wand of Scowls	https://www.dndbeyond.com/magic-items/27148-wand-of-scowls
 Wand of Secrets	https://www.dndbeyond.com/magic-items/4797-wand-of-secrets
 Wand of Smiles	https://www.dndbeyond.com/magic-items/27149-wand-of-smiles
-Wand of the War Mage	https://www.dndbeyond.com/magic-items/34712-wand-of-the-war-mage
+Wand of the War Mage, +1	https://www.dndbeyond.com/magic-items/4798-wand-of-the-war-mage-1
+Wand of the War Mage, +2	https://www.dndbeyond.com/magic-items/5218-wand-of-the-war-mage-2
+Wand of the War Mage, +3	https://www.dndbeyond.com/magic-items/5219-wand-of-the-war-mage-3
 Wand of Viscid Globs	https://www.dndbeyond.com/magic-items/5548-wand-of-viscid-globs
 Wand of Web	https://www.dndbeyond.com/magic-items/4799-wand-of-web
 Wand of Winter	https://www.dndbeyond.com/magic-items/5604-wand-of-winter
@@ -819,7 +959,10 @@ Well of Many Worlds	https://www.dndbeyond.com/magic-items/4802-well-of-many-worl
 Wheel of Stars	https://www.dndbeyond.com/magic-items/705976-wheel-of-stars
 Wheel of Wind and Water	https://www.dndbeyond.com/magic-items/215721-wheel-of-wind-and-water
 Whelm	https://www.dndbeyond.com/magic-items/5432-whelm
-Whisper Jar	https://www.dndbeyond.com/magic-items/703947-whisper-jar
+Whisper Jar (rank 1)	https://www.dndbeyond.com/magic-items/703947-whisper-jar
+Whisper Jar (rank 2)	https://www.dndbeyond.com/magic-items/703947-whisper-jar
+Whisper Jar (rank 3)	https://www.dndbeyond.com/magic-items/703947-whisper-jar
+Whisper Jar (rank 4)	https://www.dndbeyond.com/magic-items/703947-whisper-jar
 White Dragon Mask	https://www.dndbeyond.com/magic-items/13578-white-dragon-mask
 Wildspace Orrery	https://www.dndbeyond.com/magic-items/5439869-wildspace-orrery
 Will of the Talon	https://www.dndbeyond.com/magic-items/1434427-will-of-the-talon
@@ -913,7 +1056,13 @@ Bracers of Celerity	https://www.dndbeyond.com/magic-items/7247067-bracers-of-cel
 Cape of Enlargement	https://www.dndbeyond.com/magic-items/7247068-cape-of-enlargement
 Flayer Slayer	https://www.dndbeyond.com/magic-items/7247070-flayer-slayer
 Luminous War Pick	https://www.dndbeyond.com/magic-items/7247073-luminous-war-pick
-Mind Crystal	https://www.dndbeyond.com/magic-items/7247081-mind-crystal
+Mind Crystal (Careful)	https://www.dndbeyond.com/magic-items/7247074-mind-crystal-careful
+Mind Crystal (Distant)	https://www.dndbeyond.com/magic-items/7247075-mind-crystal-distant
+Mind Crystal (Empowered)	https://www.dndbeyond.com/magic-items/7247076-mind-crystal-empowered
+Mind Crystal (Extended)	https://www.dndbeyond.com/magic-items/7247077-mind-crystal-extended
+Mind Crystal (Heightened)	https://www.dndbeyond.com/magic-items/7247078-mind-crystal-heightened
+Mind Crystal (Quickened)	https://www.dndbeyond.com/magic-items/7247079-mind-crystal-quickened
+Mind Crystal (Subtle)	https://www.dndbeyond.com/magic-items/7247080-mind-crystal-subtle
 Mindblasting Cap	https://www.dndbeyond.com/magic-items/7247082-mindblasting-cap
 Mindguard Crown	https://www.dndbeyond.com/magic-items/7247083-mindguard-crown
 Mudslick Tower	https://www.dndbeyond.com/magic-items/7247084-mudslick-tower
@@ -951,7 +1100,9 @@ Dried Leech	https://www.dndbeyond.com/magic-items/7526654-dried-leech
 Euryale's Aegis	https://www.dndbeyond.com/magic-items/7526655-euryales-aegis
 Fabulist Gem	https://www.dndbeyond.com/magic-items/7526656-fabulist-gem
 Fate Cutter Shears	https://www.dndbeyond.com/magic-items/7526657-fate-cutter-shears
-Fate Dealer's Deck	https://www.dndbeyond.com/magic-items/7526661-fate-dealers-deck
+Fate Dealer's Deck, +1	https://www.dndbeyond.com/magic-items/7526658-fate-dealers-deck-1
+Fate Dealer's Deck, +2	https://www.dndbeyond.com/magic-items/7526659-fate-dealers-deck-2
+Fate Dealer's Deck, +3	https://www.dndbeyond.com/magic-items/7526660-fate-dealers-deck-3
 Feywrought Armor	https://www.dndbeyond.com/magic-items/7526675-feywrought-armor
 Fool's Blade	https://www.dndbeyond.com/magic-items/7526677-fools-blade
 Forcebreaker Weapon	https://www.dndbeyond.com/magic-items/7526697-forcebreaker-weapon
@@ -966,7 +1117,12 @@ Ring of Puzzler's Wit	https://www.dndbeyond.com/magic-items/7526748-ring-of-puzz
 Rod of Hellish Flames	https://www.dndbeyond.com/magic-items/7526749-rod-of-hellish-flames
 Rogue's Mantle	https://www.dndbeyond.com/magic-items/7526750-rogues-mantle
 Ruinous Flail	https://www.dndbeyond.com/magic-items/7526751-ruinous-flail
-Sage's Signet	https://www.dndbeyond.com/magic-items/7526758-sages-signet
+Sage's Signet (Bear)	https://www.dndbeyond.com/magic-items/7526752-sages-signet-bear
+Sage's Signet (Hart)	https://www.dndbeyond.com/magic-items/7526753-sages-signet-hart
+Sage's Signet (Lion)	https://www.dndbeyond.com/magic-items/7526754-sages-signet-lion
+Sage's Signet (Serpent)	https://www.dndbeyond.com/magic-items/7526755-sages-signet-serpent
+Sage's Signet (Songbird)	https://www.dndbeyond.com/magic-items/7526756-sages-signet-songbird
+Sage's Signet (Wolf)	https://www.dndbeyond.com/magic-items/7526757-sages-signet-wolf
 Shield of the Tortoise	https://www.dndbeyond.com/magic-items/7526761-shield-of-the-tortoise
 Shrieking Greaves	https://www.dndbeyond.com/magic-items/7526767-shrieking-greaves
 Skull Helm	https://www.dndbeyond.com/magic-items/7526768-skull-helm
@@ -982,7 +1138,9 @@ Voidwalker Armor	https://www.dndbeyond.com/magic-items/7526781-voidwalker-armor
 Warrior's Passkey	https://www.dndbeyond.com/magic-items/7526784-warriors-passkey
 Weapon of Throne's Command	https://www.dndbeyond.com/magic-items/7526785-weapon-of-thrones-command
 Winged Ammunition	https://www.dndbeyond.com/magic-items/7526787-winged-ammunition
-Wraps of Unarmed Prowess	https://www.dndbeyond.com/magic-items/7526798-wraps-of-unarmed-prowess
+Wraps of Unarmed Prowess, +1	https://www.dndbeyond.com/magic-items/7526795-wraps-of-unarmed-prowess-1
+Wraps of Unarmed Prowess, +2	https://www.dndbeyond.com/magic-items/7526796-wraps-of-unarmed-prowess-2
+Wraps of Unarmed Prowess, +3	https://www.dndbeyond.com/magic-items/7526797-wraps-of-unarmed-prowess-3
 Arcane Oil	https://www.dndbeyond.com/magic-items/7666930-arcane-oil
 Brazen Armor	https://www.dndbeyond.com/magic-items/7666931-brazen-armor
 Coat of Lies	https://www.dndbeyond.com/magic-items/7666932-coat-of-lies
@@ -1056,9 +1214,6 @@ Ring Mail, +3	https://www.dndbeyond.com/magic-items/5117-ring-mail-3
 Chain Mail, +3	https://www.dndbeyond.com/magic-items/5110-chain-mail-3
 Splint, +3	https://www.dndbeyond.com/magic-items/5119-splint-3
 Plate, +3	https://www.dndbeyond.com/magic-items/5116-plate-3
-Moon Sickle, +1	https://www.dndbeyond.com/magic-items/2405408-moon-sickle-1
-Moon Sickle, +2	https://www.dndbeyond.com/magic-items/2405452-moon-sickle-2
-Moon Sickle, +3	https://www.dndbeyond.com/magic-items/2405460-moon-sickle-3
 Dragonhide Belt, +1	https://www.dndbeyond.com/magic-items/4047206-dragonhide-belt-1
 Dragonhide Belt, +2	https://www.dndbeyond.com/magic-items/4047207-dragonhide-belt-2
 Dragonhide Belt, +3	https://www.dndbeyond.com/magic-items/4047208-dragonhide-belt-3
@@ -1075,9 +1230,6 @@ Potion of Healing	https://www.dndbeyond.com/equipment/potion-of-healing
 Potion of Greater Healing	https://www.dndbeyond.com/magic-items/5133-potion-of-healing-greater
 Potion of Superior Healing	https://www.dndbeyond.com/magic-items/5134-potion-of-healing-superior
 Potion of Supreme Healing	https://www.dndbeyond.com/magic-items/5135-potion-of-healing-supreme
-Potion of Mind Control (Beast)	https://www.dndbeyond.com/magic-items/9363-potion-of-mind-control-beast
-Potion of Mind Control (Humanoid)	https://www.dndbeyond.com/magic-items/9365-potion-of-mind-control-humanoid
-Potion of Mind Control (Monster)	https://www.dndbeyond.com/magic-items/9373-potion-of-mind-control-monster
 Abacus	https://www.dndbeyond.com/equipment/abacus
 Acid (vial)	https://www.dndbeyond.com/equipment/acid-vial
 Airship	https://www.dndbeyond.com/equipment/airship
@@ -1692,3 +1844,541 @@ Silvered Weapon	https://www.dndbeyond.com/magic-items/9229070-silvered-weapon
 Spirit Board	https://www.dndbeyond.com/magic-items/9229087-spirit-board
 Sylvan Talon	https://www.dndbeyond.com/magic-items/9229122-sylvan-talon
 Thunderous Greatclub	https://www.dndbeyond.com/magic-items/9058872-thunderous-greatclub
+Wraps of Unarmed Power, +1	https://www.dndbeyond.com/magic-items/9229205-wraps-of-unarmed-power-1
+Wraps of Unarmed Power, +2	https://www.dndbeyond.com/magic-items/9229206-wraps-of-unarmed-power-2
+Wraps of Unarmed Power, +3	https://www.dndbeyond.com/magic-items/9229207-wraps-of-unarmed-power-3
+Blade of the Wood	https://www.dndbeyond.com/magic-items/8019863-blade-of-the-wood
+Feathered Helm	https://www.dndbeyond.com/magic-items/8019865-feathered-helm
+Necronomicon Ex Corvis	https://www.dndbeyond.com/magic-items/8019871-necronomicon-ex-corvis
+Nest Charm	https://www.dndbeyond.com/magic-items/8019872-nest-charm
+Red-Feather Bow	https://www.dndbeyond.com/magic-items/8019875-red-feather-bow
+The Borealus	https://www.dndbeyond.com/magic-items/8019881-the-borealus
+Wing Crest Shield	https://www.dndbeyond.com/magic-items/8019882-wing-crest-shield
+Abjurer's Bangle (Uncommon)	https://www.dndbeyond.com/magic-items/9444947-abjurers-bangle-uncommon
+Abjurer's Bangle (Rare)	https://www.dndbeyond.com/magic-items/9444946-abjurers-bangle-rare
+Abjurer's Bangle (Very Rare)	https://www.dndbeyond.com/magic-items/9444948-abjurers-bangle-very-rare
+Aciurgist's Blade	https://www.dndbeyond.com/magic-items/9444950-aciurgists-blade
+Acorn Charm	https://www.dndbeyond.com/magic-items/9444951-acorn-charm
+Adventurer's Overcoat	https://www.dndbeyond.com/magic-items/9444952-adventurers-overcoat
+Aged Goodberry Wine	https://www.dndbeyond.com/magic-items/9444953-aged-goodberry-wine
+Air Render	https://www.dndbeyond.com/magic-items/9444954-air-render
+Alchemist's Potion Belt	https://www.dndbeyond.com/magic-items/9444955-alchemists-potion-belt
+Ambitious Medic's Box	https://www.dndbeyond.com/magic-items/9444956-ambitious-medics-box
+Amulet of Buoyancy	https://www.dndbeyond.com/magic-items/9444957-amulet-of-buoyancy
+Amulet of Immutability	https://www.dndbeyond.com/magic-items/9444958-amulet-of-immutability
+Amulet of the Lycanthrope	https://www.dndbeyond.com/magic-items/9444959-amulet-of-the-lycanthrope
+Amulet of the Sentinel	https://www.dndbeyond.com/magic-items/9444960-amulet-of-the-sentinel
+Amulet of the Spirit Naga	https://www.dndbeyond.com/magic-items/9444961-amulet-of-the-spirit-naga
+Angler's Armor	https://www.dndbeyond.com/magic-items/9444962-anglers-armor
+Angler's Worldly Fisher	https://www.dndbeyond.com/magic-items/9444963-anglers-worldly-fisher
+Ao Hai's Fang	https://www.dndbeyond.com/magic-items/9444964-ao-hais-fang
+Appraiser's Eye	https://www.dndbeyond.com/magic-items/9444965-appraisers-eye
+Arborguard Shield	https://www.dndbeyond.com/magic-items/9444966-arborguard-shield
+Arc of the Alicorn	https://www.dndbeyond.com/magic-items/9444967-arc-of-the-alicorn
+Arcanist Gauntlets	https://www.dndbeyond.com/magic-items/9444968-arcanist-gauntlets
+Arcanist's Magnificent Magnifier	https://www.dndbeyond.com/magic-items/9444969-arcanists-magnificent-magnifier
+Arcanist's Scribing Wand	https://www.dndbeyond.com/magic-items/9444970-arcanists-scribing-wand
+Archivist's Key	https://www.dndbeyond.com/magic-items/9444971-archivists-key
+Arista, Wand of the Spire	https://www.dndbeyond.com/magic-items/9444972-arista-wand-of-the-spire
+Armor of Icarus	https://www.dndbeyond.com/magic-items/9444973-armor-of-icarus
+Arrow of Anchoring	https://www.dndbeyond.com/magic-items/9444974-arrow-of-anchoring
+Astral Caltrops	https://www.dndbeyond.com/magic-items/9444975-astral-caltrops
+Astronomer's Boon	https://www.dndbeyond.com/magic-items/9444976-astronomers-boon
+Aurora Dust	https://www.dndbeyond.com/magic-items/9444977-aurora-dust
+Badge of the Savant	https://www.dndbeyond.com/magic-items/9444978-badge-of-the-savant
+Badge of the Wayfarer	https://www.dndbeyond.com/magic-items/9444979-badge-of-the-wayfarer
+Bag of Bellstones	https://www.dndbeyond.com/magic-items/9444980-bag-of-bellstones
+Ball of Wild Earth	https://www.dndbeyond.com/magic-items/9444981-ball-of-wild-earth
+Ballista Prosthesis	https://www.dndbeyond.com/magic-items/9444982-ballista-prosthesis
+Bandolier of the Elements	https://www.dndbeyond.com/magic-items/9444983-bandolier-of-the-elements
+Bane Shield	https://www.dndbeyond.com/magic-items/9444984-bane-shield
+Bartender's Armistice	https://www.dndbeyond.com/magic-items/9444985-bartenders-armistice
+Battlechef Field Dresser	https://www.dndbeyond.com/magic-items/9444987-battlechef-field-dresser
+Beads of Meditation	https://www.dndbeyond.com/magic-items/9444988-beads-of-meditation
+Beard Cannon	https://www.dndbeyond.com/magic-items/9444989-beard-cannon
+Bell of Alarm	https://www.dndbeyond.com/magic-items/9444990-bell-of-alarm
+Bellhop Topper	https://www.dndbeyond.com/magic-items/9444991-bellhop-topper
+Belt of the Hell Hound	https://www.dndbeyond.com/magic-items/9444992-belt-of-the-hell-hound
+Bird's-Eye Bolt	https://www.dndbeyond.com/magic-items/9444993-birds-eye-bolt
+Blackthorn Spear of the Moonless Hunter	https://www.dndbeyond.com/magic-items/9444994-blackthorn-spear-of-the-moonless-hunter
+Blood Moon Blade	https://www.dndbeyond.com/magic-items/9444995-blood-moon-blade
+Bloodhound Amulet	https://www.dndbeyond.com/magic-items/9444996-bloodhound-amulet
+Bloodmire Phiale	https://www.dndbeyond.com/magic-items/9444997-bloodmire-phiale
+Bloodmire Rod of the Witch Doctor	https://www.dndbeyond.com/magic-items/9444998-bloodmire-rod-of-the-witch-doctor
+Bloodmire Soulflame Lantern	https://www.dndbeyond.com/magic-items/9444999-bloodmire-soulflame-lantern
+Bloodshard Trident	https://www.dndbeyond.com/magic-items/9445000-bloodshard-trident
+Bloodthirster Scimitar	https://www.dndbeyond.com/magic-items/9445001-bloodthirster-scimitar
+Bloodthirsty Bistoury	https://www.dndbeyond.com/magic-items/9445002-bloodthirsty-bistoury
+Bloody Marilith (Common)	https://www.dndbeyond.com/magic-items/9445003-bloody-marilith-common
+Bloody Marilith (Very Rare)	https://www.dndbeyond.com/magic-items/9445004-bloody-marilith-very-rare
+Bonfire Charm	https://www.dndbeyond.com/magic-items/9445006-bonfire-charm
+Book of Clothier's Croquis	https://www.dndbeyond.com/magic-items/9445007-book-of-clothiers-croquis
+Book of Instant Copying	https://www.dndbeyond.com/magic-items/9445008-book-of-instant-copying
+Bounder's Ball	https://www.dndbeyond.com/magic-items/9445009-bounders-ball
+Bow of the Cobra	https://www.dndbeyond.com/magic-items/9445010-bow-of-the-cobra
+Bow of the Eldritch Archer	https://www.dndbeyond.com/magic-items/9445011-bow-of-the-eldritch-archer
+Bow of the Spelldrinker	https://www.dndbeyond.com/magic-items/9445012-bow-of-the-spelldrinker
+Bow of the Twilight Valkyrie	https://www.dndbeyond.com/magic-items/9445013-bow-of-the-twilight-valkyrie
+Bracers of the Iron Octopus	https://www.dndbeyond.com/magic-items/9445014-bracers-of-the-iron-octopus
+Bramble Buckler	https://www.dndbeyond.com/magic-items/9445015-bramble-buckler
+Brawler's Ring	https://www.dndbeyond.com/magic-items/9445016-brawlers-ring
+Brutal Macuahuitl	https://www.dndbeyond.com/magic-items/9445017-brutal-macuahuitl
+Bulette Bulwark	https://www.dndbeyond.com/magic-items/9445018-bulette-bulwark
+Bulette Torpedo	https://www.dndbeyond.com/magic-items/9445019-bulette-torpedo
+Bullfrog Totem	https://www.dndbeyond.com/magic-items/9445020-bullfrog-totem
+Burrage's Collegiate Case	https://www.dndbeyond.com/magic-items/9445021-burrages-collegiate-case
+Caduceus Flail	https://www.dndbeyond.com/magic-items/9445022-caduceus-flail
+Camilla's Quicksilver Mirror	https://www.dndbeyond.com/magic-items/9445023-camillas-quicksilver-mirror
+Camper's Crutch	https://www.dndbeyond.com/magic-items/9445024-campers-crutch
+Camper's Respite	https://www.dndbeyond.com/magic-items/9445025-campers-respite
+Candleflame Bow	https://www.dndbeyond.com/magic-items/9445026-candleflame-bow
+Candleflame Helm	https://www.dndbeyond.com/magic-items/9445029-candleflame-helm
+Candy Xorn	https://www.dndbeyond.com/magic-items/9445033-candy-xorn
+Canister of Vreyval's Soothing Tea	https://www.dndbeyond.com/magic-items/9445034-canister-of-vreyvals-soothing-tea
+Captain's Pride	https://www.dndbeyond.com/magic-items/9445037-captains-pride
+Carrion Shroud	https://www.dndbeyond.com/magic-items/9445038-carrion-shroud
+Celestial Sunrise (Common)	https://www.dndbeyond.com/magic-items/9445039-celestial-sunrise-common
+Celestial Sunrise (Uncommon)	https://www.dndbeyond.com/magic-items/9445040-celestial-sunrise-uncommon
+Chain Devil Gloves	https://www.dndbeyond.com/magic-items/9445042-chain-devil-gloves
+Champion's Greatbow	https://www.dndbeyond.com/magic-items/9445043-champions-greatbow
+Charged Rapier	https://www.dndbeyond.com/magic-items/9445044-charged-rapier
+Chi-Balancing Tea	https://www.dndbeyond.com/magic-items/9445045-chi-balancing-tea
+Chimeric Collar	https://www.dndbeyond.com/magic-items/9445046-chimeric-collar
+Chromatic Obsidian Greataxe	https://www.dndbeyond.com/magic-items/9445047-chromatic-obsidian-greataxe
+Chronal Sphere	https://www.dndbeyond.com/magic-items/9445048-chronal-sphere
+Chronomancer's Eyepiece	https://www.dndbeyond.com/magic-items/9445049-chronomancers-eyepiece
+Circlet of the Sharpened Mind	https://www.dndbeyond.com/magic-items/9445050-circlet-of-the-sharpened-mind
+Claymore of the Great Badger	https://www.dndbeyond.com/magic-items/9445051-claymore-of-the-great-badger
+Cleaning Cube	https://www.dndbeyond.com/magic-items/9445052-cleaning-cube
+Cloche of Surprise Treats	https://www.dndbeyond.com/magic-items/9445053-cloche-of-surprise-treats
+Clockwork Colony Toolbox	https://www.dndbeyond.com/magic-items/9445054-clockwork-colony-toolbox
+Clockwork Earwig	https://www.dndbeyond.com/magic-items/9445055-clockwork-earwig
+Clockwork Mend-A-Pillar	https://www.dndbeyond.com/magic-items/9445056-clockwork-mend-a-pillar
+Club of Dancing	https://www.dndbeyond.com/magic-items/9445057-club-of-dancing
+Club of the Forest Drake	https://www.dndbeyond.com/magic-items/9445058-club-of-the-forest-drake
+Club of the Rook	https://www.dndbeyond.com/magic-items/9445059-club-of-the-rook
+Coldfire Anvil	https://www.dndbeyond.com/magic-items/9445061-coldfire-anvil
+Comet Ballista	https://www.dndbeyond.com/magic-items/9445062-comet-ballista
+Conspirator's Coat	https://www.dndbeyond.com/magic-items/9445063-conspirators-coat
+Contingency Band	https://www.dndbeyond.com/magic-items/9445064-contingency-band
+Cottage Chest	https://www.dndbeyond.com/magic-items/9445065-cottage-chest
+Courtesan's Fanblade	https://www.dndbeyond.com/magic-items/9445066-courtesans-fanblade
+Covolt Dagger	https://www.dndbeyond.com/magic-items/9445067-covolt-dagger
+Covolt Scythe	https://www.dndbeyond.com/magic-items/9445068-covolt-scythe
+Crown of Storms	https://www.dndbeyond.com/magic-items/9445069-crown-of-storms
+Crown of the Mindmaster Matriarch	https://www.dndbeyond.com/magic-items/9445070-crown-of-the-mindmaster-matriarch
+Cube of Teleportation	https://www.dndbeyond.com/magic-items/9445071-cube-of-teleportation
+Cuff of Captions	https://www.dndbeyond.com/magic-items/9445072-cuff-of-captions
+Dagger of First Light	https://www.dndbeyond.com/magic-items/9445073-dagger-of-first-light
+Dark Mantle	https://www.dndbeyond.com/magic-items/9445075-dark-mantle
+Davy Jones's Key	https://www.dndbeyond.com/magic-items/9445076-davy-joness-key
+Dawn and Dusk	https://www.dndbeyond.com/magic-items/9445079-dawn-and-dusk
+Deathloop Watch	https://www.dndbeyond.com/magic-items/9445080-deathloop-watch
+Deathly Diadem	https://www.dndbeyond.com/magic-items/9445081-deathly-diadem
+Death's Shadow	https://www.dndbeyond.com/magic-items/9445082-deaths-shadow
+Detective's Notebook	https://www.dndbeyond.com/magic-items/9445083-detectives-notebook
+Direstone Dwarven Key	https://www.dndbeyond.com/magic-items/9445084-direstone-dwarven-key
+Direstone Runic Wand	https://www.dndbeyond.com/magic-items/9445085-direstone-runic-wand
+Diviner's Dice	https://www.dndbeyond.com/magic-items/9445086-diviners-dice
+Djinn and Tonic	https://www.dndbeyond.com/magic-items/9445089-djinn-and-tonic
+Dominic's Field Guide to Language	https://www.dndbeyond.com/magic-items/9445090-dominics-field-guide-to-language
+Doom Bloom	https://www.dndbeyond.com/magic-items/9445091-doom-bloom
+Doubloon Diver's Goggles	https://www.dndbeyond.com/magic-items/9445092-doubloon-divers-goggles
+Dragon Horn Pauldron	https://www.dndbeyond.com/magic-items/9445093-dragon-horn-pauldron
+Dragon Turtle Barding	https://www.dndbeyond.com/magic-items/9445094-dragon-turtle-barding
+Dragonband	https://www.dndbeyond.com/magic-items/9445095-dragonband
+Dragonbreath Ammunition	https://www.dndbeyond.com/magic-items/9445096-dragonbreath-ammunition
+Dramus's Dancing Shoes	https://www.dndbeyond.com/magic-items/9445097-dramuss-dancing-shoes
+Dream Saber	https://www.dndbeyond.com/magic-items/9445098-dream-saber
+Dress of Defense	https://www.dndbeyond.com/magic-items/9445099-dress-of-defense
+Dress of Many Pockets	https://www.dndbeyond.com/magic-items/9445100-dress-of-many-pockets
+Drowner's Pearl	https://www.dndbeyond.com/magic-items/9445101-drowners-pearl
+Dune Cowl	https://www.dndbeyond.com/magic-items/9445102-dune-cowl
+Dusk Cleaver	https://www.dndbeyond.com/magic-items/9445103-dusk-cleaver
+Dusk Dagger (Uncommon)	https://www.dndbeyond.com/magic-items/9445105-dusk-dagger-uncommon
+Dusk Dagger (Rare)	https://www.dndbeyond.com/magic-items/9445104-dusk-dagger-rare
+Dusk Dagger (Very Rare)	https://www.dndbeyond.com/magic-items/9445106-dusk-dagger-very-rare
+Dwarven Boozehound's Backpack	https://www.dndbeyond.com/magic-items/9445108-dwarven-boozehounds-backpack
+Ear Cuff of the Climber	https://www.dndbeyond.com/magic-items/9445109-ear-cuff-of-the-climber
+Eclipse Spear	https://www.dndbeyond.com/magic-items/9445110-eclipse-spear
+Egg of Primal Water	https://www.dndbeyond.com/magic-items/9445111-egg-of-primal-water
+Ehagan's Moving Ladder	https://www.dndbeyond.com/magic-items/9445112-ehagans-moving-ladder
+Elder Sequoia Scale Mail	https://www.dndbeyond.com/magic-items/9445113-elder-sequoia-scale-mail
+Eldritch Bident	https://www.dndbeyond.com/magic-items/9445115-eldritch-bident
+Enzymatic Gastrostaff	https://www.dndbeyond.com/magic-items/9445116-enzymatic-gastrostaff
+Eternal Slayer	https://www.dndbeyond.com/magic-items/9445122-eternal-slayer
+Everglacier Prosthesis	https://www.dndbeyond.com/magic-items/9445123-everglacier-prosthesis
+Evoker's Exchange	https://www.dndbeyond.com/magic-items/9445124-evokers-exchange
+Eyedrops of Clarity	https://www.dndbeyond.com/magic-items/9445125-eyedrops-of-clarity
+Eyes of the Beheld	https://www.dndbeyond.com/magic-items/9445126-eyes-of-the-beheld
+Faeflame Torch	https://www.dndbeyond.com/magic-items/9445127-faeflame-torch
+Failed Purity Spear	https://www.dndbeyond.com/magic-items/9445128-failed-purity-spear
+Felling Greataxe	https://www.dndbeyond.com/magic-items/9445130-felling-greataxe
+Fell-Rider Chariot	https://www.dndbeyond.com/magic-items/9445129-fell-rider-chariot
+Feywatch Shield	https://www.dndbeyond.com/magic-items/9445131-feywatch-shield
+Feywood Ivy	https://www.dndbeyond.com/magic-items/9445132-feywood-ivy
+Fists of the Guiding Star	https://www.dndbeyond.com/magic-items/9445133-fists-of-the-guiding-star
+Flamebreather Staff	https://www.dndbeyond.com/magic-items/9445135-flamebreather-staff
+Flood Pauldron	https://www.dndbeyond.com/magic-items/9445136-flood-pauldron
+Focus Breaker	https://www.dndbeyond.com/magic-items/9445137-focus-breaker
+Focus Circlet	https://www.dndbeyond.com/magic-items/9445138-focus-circlet
+Fool's Lamp	https://www.dndbeyond.com/magic-items/9445139-fools-lamp
+Forecaster's Cloak	https://www.dndbeyond.com/magic-items/9445140-forecasters-cloak
+Forgekeeper's Spark	https://www.dndbeyond.com/magic-items/9445141-forgekeepers-spark
+Forgework Dragon Shield	https://www.dndbeyond.com/magic-items/9445142-forgework-dragon-shield
+Fortune's Flower	https://www.dndbeyond.com/magic-items/9445143-fortunes-flower
+Foxfire Charm	https://www.dndbeyond.com/magic-items/9445144-foxfire-charm
+Freerunner's Armor	https://www.dndbeyond.com/magic-items/9445145-freerunners-armor
+Frostburn Spear	https://www.dndbeyond.com/magic-items/9445149-frostburn-spear
+Furious Flail	https://www.dndbeyond.com/magic-items/9445150-furious-flail
+Fused Chimeric Hide	https://www.dndbeyond.com/magic-items/9445151-fused-chimeric-hide
+Gateway Ring	https://www.dndbeyond.com/magic-items/9445152-gateway-ring
+Gauntlets of Deliverance	https://www.dndbeyond.com/magic-items/9445153-gauntlets-of-deliverance
+Gauntlets of Eldritch Ferocity	https://www.dndbeyond.com/magic-items/9445154-gauntlets-of-eldritch-ferocity
+Gelatinous Whip	https://www.dndbeyond.com/magic-items/9445155-gelatinous-whip
+Gentleman's Saber	https://www.dndbeyond.com/magic-items/9445158-gentlemans-saber
+Gi of Shifting Seasons	https://www.dndbeyond.com/magic-items/9445159-gi-of-shifting-seasons
+Giantcraft Ambusher	https://www.dndbeyond.com/magic-items/9445160-giantcraft-ambusher
+Gladius of the Everfighter	https://www.dndbeyond.com/magic-items/9445161-gladius-of-the-everfighter
+Glaive of the Revenant King	https://www.dndbeyond.com/magic-items/9445162-glaive-of-the-revenant-king
+Glass Carver	https://www.dndbeyond.com/magic-items/9445164-glass-carver
+Gloves of Amphibios	https://www.dndbeyond.com/magic-items/9445165-gloves-of-amphibios
+Gloves of Healing	https://www.dndbeyond.com/magic-items/9445166-gloves-of-healing
+Gloves of Mimicry	https://www.dndbeyond.com/magic-items/9445167-gloves-of-mimicry
+Gloves of the Great Badger	https://www.dndbeyond.com/magic-items/9445168-gloves-of-the-great-badger
+Gnashing Key	https://www.dndbeyond.com/magic-items/9445169-gnashing-key
+Godsteel Warplate	https://www.dndbeyond.com/magic-items/9445170-godsteel-warplate
+Godsteel Worldcarver	https://www.dndbeyond.com/magic-items/9445173-godsteel-worldcarver
+Golem Sapper	https://www.dndbeyond.com/magic-items/9445174-golem-sapper
+Gorget of the Holy Soldier	https://www.dndbeyond.com/magic-items/9445175-gorget-of-the-holy-soldier
+Grasping Staff	https://www.dndbeyond.com/magic-items/9445176-grasping-staff
+Great Owl's Shroud	https://www.dndbeyond.com/magic-items/9445177-great-owls-shroud
+Green Knight's Vow	https://www.dndbeyond.com/magic-items/9445181-green-knights-vow
+Griffon Coinpouch	https://www.dndbeyond.com/magic-items/9445182-griffon-coinpouch
+Griffon Component Pack	https://www.dndbeyond.com/magic-items/9445183-griffon-component-pack
+Griffon Key Loop	https://www.dndbeyond.com/magic-items/9445184-griffon-key-loop
+Guardian's Reliquary	https://www.dndbeyond.com/magic-items/9445185-guardians-reliquary
+Gusting Blowgun	https://www.dndbeyond.com/magic-items/9445186-gusting-blowgun
+Hadiya's Handy Quill	https://www.dndbeyond.com/magic-items/9445187-hadiyas-handy-quill
+Half Plate of the Blind Martyr	https://www.dndbeyond.com/magic-items/9445189-half-plate-of-the-blind-martyr
+Harbinger's Flail	https://www.dndbeyond.com/magic-items/9445194-harbingers-flail
+Harvest	https://www.dndbeyond.com/magic-items/9445195-harvest
+Hat of Osnomnosis	https://www.dndbeyond.com/magic-items/9445196-hat-of-osnomnosis
+Hat of the Sanguine Coven	https://www.dndbeyond.com/magic-items/9445197-hat-of-the-sanguine-coven
+Hatred, the Wrathful Edge	https://www.dndbeyond.com/magic-items/9445198-hatred-the-wrathful-edge
+Headband of the Sweatless	https://www.dndbeyond.com/magic-items/9445199-headband-of-the-sweatless
+Headdress of the Serpent King	https://www.dndbeyond.com/magic-items/9445200-headdress-of-the-serpent-king
+Headhunter's Bullseye Lantern	https://www.dndbeyond.com/magic-items/9445201-headhunters-bullseye-lantern
+Heart of Damned Intervention	https://www.dndbeyond.com/magic-items/9445202-heart-of-damned-intervention
+Heartless Cage Pendant	https://www.dndbeyond.com/magic-items/9445203-heartless-cage-pendant
+Heavenly Chalice	https://www.dndbeyond.com/magic-items/9445204-heavenly-chalice
+Heaven's Edge	https://www.dndbeyond.com/magic-items/9445205-heavens-edge
+Heaven's Gavel	https://www.dndbeyond.com/magic-items/9445206-heavens-gavel
+Heavy Golem Armor	https://www.dndbeyond.com/magic-items/9445210-heavy-golem-armor
+Hedgewitch's Gardening Cane	https://www.dndbeyond.com/magic-items/9445211-hedgewitchs-gardening-cane
+Hedonic Motivator	https://www.dndbeyond.com/magic-items/9445212-hedonic-motivator
+Helm of the Broken Dragon	https://www.dndbeyond.com/magic-items/9445214-helm-of-the-broken-dragon
+Helm of the Chromatic Dragon	https://www.dndbeyond.com/magic-items/9445215-helm-of-the-chromatic-dragon
+Helm of the Justicars	https://www.dndbeyond.com/magic-items/9445216-helm-of-the-justicars
+Helm of the Platinum Dragon	https://www.dndbeyond.com/magic-items/9445217-helm-of-the-platinum-dragon
+Helm of the Ruby Dragon	https://www.dndbeyond.com/magic-items/9445218-helm-of-the-ruby-dragon
+Hideaway Vase	https://www.dndbeyond.com/magic-items/9445219-hideaway-vase
+Hoarder's Haul (Uncommon)	https://www.dndbeyond.com/magic-items/9445221-hoarders-haul-uncommon
+Hoarder's Haul (Rare)	https://www.dndbeyond.com/magic-items/9445220-hoarders-haul-rare
+Hoarder's Haul (Very Rare)	https://www.dndbeyond.com/magic-items/9445222-hoarders-haul-very-rare
+Homeroot	https://www.dndbeyond.com/magic-items/9445224-homeroot
+Homeward Boots	https://www.dndbeyond.com/magic-items/9445225-homeward-boots
+Horatio's Impossible Ship In A Bottle	https://www.dndbeyond.com/magic-items/9445226-horatios-impossible-ship-in-a-bottle
+Horn of the Wild Hunt	https://www.dndbeyond.com/magic-items/9445227-horn-of-the-wild-hunt
+Hour and Minute	https://www.dndbeyond.com/magic-items/9445230-hour-and-minute
+Hourglass of Slumber	https://www.dndbeyond.com/magic-items/9445231-hourglass-of-slumber
+H'rethi Soul Scepter	https://www.dndbeyond.com/magic-items/9445232-hrethi-soul-scepter
+Hushed Ring	https://www.dndbeyond.com/magic-items/9445233-hushed-ring
+Hydra Charm	https://www.dndbeyond.com/magic-items/9445234-hydra-charm
+Hydra Flail	https://www.dndbeyond.com/magic-items/9445235-hydra-flail
+Impact Plate	https://www.dndbeyond.com/magic-items/9445236-impact-plate
+Indigo Stray's Conviction	https://www.dndbeyond.com/magic-items/9445237-indigo-strays-conviction
+Infernal Chain	https://www.dndbeyond.com/magic-items/9445238-infernal-chain
+Inker's Armband	https://www.dndbeyond.com/magic-items/9445239-inkers-armband
+Insatiable Tome	https://www.dndbeyond.com/magic-items/9445240-insatiable-tome
+Inspector's Silverware	https://www.dndbeyond.com/magic-items/9445241-inspectors-silverware
+Instrument of Roses and Thorns	https://www.dndbeyond.com/magic-items/9445242-instrument-of-roses-and-thorns
+Ironleaf Impaler	https://www.dndbeyond.com/magic-items/9445245-ironleaf-impaler
+Jo'Catian Denier	https://www.dndbeyond.com/magic-items/9445250-jocatian-denier
+Jo'Catian Rebuker	https://www.dndbeyond.com/magic-items/9445251-jocatian-rebuker
+Kestra's Bent Spoon	https://www.dndbeyond.com/magic-items/9445252-kestras-bent-spoon
+Ki Blade	https://www.dndbeyond.com/magic-items/9445253-ki-blade
+Kinetic Bowstring	https://www.dndbeyond.com/magic-items/9445254-kinetic-bowstring
+Kraken Band	https://www.dndbeyond.com/magic-items/9445255-kraken-band
+Lady Phantasma's Material Anchor	https://www.dndbeyond.com/magic-items/9445256-lady-phantasmas-material-anchor
+Lamian Facestealer	https://www.dndbeyond.com/magic-items/9445257-lamian-facestealer
+Lash of the Spelldrinker	https://www.dndbeyond.com/magic-items/9445259-lash-of-the-spelldrinker
+Leatherbeard	https://www.dndbeyond.com/magic-items/9445260-leatherbeard
+Life Tether Ankh	https://www.dndbeyond.com/magic-items/9445261-life-tether-ankh
+Life Turner	https://www.dndbeyond.com/magic-items/9445262-life-turner
+Life's Flower Restorative	https://www.dndbeyond.com/magic-items/9445263-lifes-flower-restorative
+Light Sling	https://www.dndbeyond.com/magic-items/9445268-light-sling
+Lightning Khopesh	https://www.dndbeyond.com/magic-items/9445269-lightning-khopesh
+Lightscreen Hover Boots	https://www.dndbeyond.com/magic-items/9445270-lightscreen-hover-boots
+Lightseer's Gaze	https://www.dndbeyond.com/magic-items/9445271-lightseers-gaze
+Locket of the Stolen Heart	https://www.dndbeyond.com/magic-items/9445272-locket-of-the-stolen-heart
+Luckleaf	https://www.dndbeyond.com/magic-items/9445278-luckleaf
+Luna Moth Cape	https://www.dndbeyond.com/magic-items/9445279-luna-moth-cape
+Lupine Mask	https://www.dndbeyond.com/magic-items/9445280-lupine-mask
+Mace of the Priest	https://www.dndbeyond.com/magic-items/9445281-mace-of-the-priest
+Mace of the Pumpkin King	https://www.dndbeyond.com/magic-items/9445282-mace-of-the-pumpkin-king
+Mage Eater Scythe	https://www.dndbeyond.com/magic-items/9445284-mage-eater-scythe
+Magebane Poison	https://www.dndbeyond.com/magic-items/9445285-magebane-poison
+Magentan Sun-Saw (Uncommon)	https://www.dndbeyond.com/magic-items/9445286-magentan-sun-saw-uncommon
+Magentan Sun-Saw (Very Rare)	https://www.dndbeyond.com/magic-items/9445287-magentan-sun-saw-very-rare
+Mageplate Ring	https://www.dndbeyond.com/magic-items/9445289-mageplate-ring
+Magnificent Pocket Vanity	https://www.dndbeyond.com/magic-items/9445290-magnificent-pocket-vanity
+Mandible Bident	https://www.dndbeyond.com/magic-items/9445291-mandible-bident
+Mantle of Security	https://www.dndbeyond.com/magic-items/9445292-mantle-of-security
+Marlin Lunger	https://www.dndbeyond.com/magic-items/9445293-marlin-lunger
+Masks of the Sacred Beasts (Crocodile)	https://www.dndbeyond.com/magic-items/9445294-masks-of-the-sacred-beasts-crocodile
+Masks of the Sacred Beasts (Lion)	https://www.dndbeyond.com/magic-items/9445297-masks-of-the-sacred-beasts-lion
+Masks of the Sacred Beasts (Hawk)	https://www.dndbeyond.com/magic-items/9445295-masks-of-the-sacred-beasts-hawk
+Masks of the Sacred Beasts (Mule)	https://www.dndbeyond.com/magic-items/9445298-masks-of-the-sacred-beasts-mule
+Masks of the Sacred Beasts (Jackal)	https://www.dndbeyond.com/magic-items/9445296-masks-of-the-sacred-beasts-jackal
+Matron's Mug	https://www.dndbeyond.com/magic-items/9445300-matrons-mug
+Medusan Lavalier	https://www.dndbeyond.com/magic-items/9445302-medusan-lavalier
+Medusan Signet	https://www.dndbeyond.com/magic-items/9445303-medusan-signet
+Medzo's Crossbow	https://www.dndbeyond.com/magic-items/9445304-medzos-crossbow
+Meta Mantle	https://www.dndbeyond.com/magic-items/9445305-meta-mantle
+Meta Medallion	https://www.dndbeyond.com/magic-items/9445306-meta-medallion
+Mimicloak	https://www.dndbeyond.com/magic-items/9445307-mimicloak
+Mindmaster's Monocle	https://www.dndbeyond.com/magic-items/9445308-mindmasters-monocle
+Mistwalker Armor	https://www.dndbeyond.com/magic-items/9445309-mistwalker-armor
+Monarch Mantle	https://www.dndbeyond.com/magic-items/9445310-monarch-mantle
+Monster Tamer's Shield	https://www.dndbeyond.com/magic-items/9445315-monster-tamers-shield
+Monster Tamer's Sword	https://www.dndbeyond.com/magic-items/9445317-monster-tamers-sword
+Moonstone Bracers	https://www.dndbeyond.com/magic-items/9445318-moonstone-bracers
+Morath, Scepter of the Soul Vortex	https://www.dndbeyond.com/magic-items/9445319-morath-scepter-of-the-soul-vortex
+Mosshide Troll Belt	https://www.dndbeyond.com/magic-items/9445321-mosshide-troll-belt
+Mourningsteel Demi-Gauntlets	https://www.dndbeyond.com/magic-items/9445322-mourningsteel-demi-gauntlets
+Mourningsteel Ghost Candle	https://www.dndbeyond.com/magic-items/9445323-mourningsteel-ghost-candle
+Mourningsteel Half Plate	https://www.dndbeyond.com/magic-items/9445324-mourningsteel-half-plate
+Mourningsteel War Banner	https://www.dndbeyond.com/magic-items/9445325-mourningsteel-war-banner
+Murk Blowgun	https://www.dndbeyond.com/magic-items/9445326-murk-blowgun
+Myceliaweave Armor	https://www.dndbeyond.com/magic-items/9445327-myceliaweave-armor
+Night Owl's Half-Moon Spectacles	https://www.dndbeyond.com/magic-items/9445331-night-owls-half-moon-spectacles
+Nightmare Flask	https://www.dndbeyond.com/magic-items/9445332-nightmare-flask
+Nightstalker's Armor of the Northeastern Wind	https://www.dndbeyond.com/magic-items/9445333-nightstalkers-armor-of-the-northeastern-wind
+Nightstalker's Mask	https://www.dndbeyond.com/magic-items/9445334-nightstalkers-mask
+Nimbus, First Staff of the Thunderbirds	https://www.dndbeyond.com/magic-items/9445335-nimbus-first-staff-of-the-thunderbirds
+No-Stones	https://www.dndbeyond.com/magic-items/9445336-no-stones
+Novanite Armor	https://www.dndbeyond.com/magic-items/9445337-novanite-armor
+Oaken Candle	https://www.dndbeyond.com/magic-items/9445346-oaken-candle
+Oathkeeper's Resolve	https://www.dndbeyond.com/magic-items/9445347-oathkeepers-resolve
+Octavius's Saber	https://www.dndbeyond.com/magic-items/9445348-octaviuss-saber
+Ogramau's Graveyard	https://www.dndbeyond.com/magic-items/9445349-ogramaus-graveyard
+Ol' Stumpy	https://www.dndbeyond.com/magic-items/9445350-ol-stumpy
+Orb of Remembrance	https://www.dndbeyond.com/magic-items/9445351-orb-of-remembrance
+Orelia's Tome of Beast Familiars	https://www.dndbeyond.com/magic-items/9445352-orelias-tome-of-beast-familiars
+Orner's Venomous Crossbow	https://www.dndbeyond.com/magic-items/9445353-orners-venomous-crossbow
+Orostead Iced Tea (Common)	https://www.dndbeyond.com/magic-items/9445354-orostead-iced-tea-common
+Orostead Iced Tea (Very Rare)	https://www.dndbeyond.com/magic-items/9445355-orostead-iced-tea-very-rare
+Overseer's Spade	https://www.dndbeyond.com/magic-items/9445357-overseers-spade
+Owlbear Leather Armor	https://www.dndbeyond.com/magic-items/9445358-owlbear-leather-armor
+Pack of Revisibility Bombs	https://www.dndbeyond.com/magic-items/9445359-pack-of-revisibility-bombs
+Pegasus Quill	https://www.dndbeyond.com/magic-items/9445360-pegasus-quill
+Pennypuncher Slingshot	https://www.dndbeyond.com/magic-items/9445361-pennypuncher-slingshot
+Peregrine Spear	https://www.dndbeyond.com/magic-items/9445362-peregrine-spear
+Performer's Puppet	https://www.dndbeyond.com/magic-items/9445363-performers-puppet
+Periscope Rod	https://www.dndbeyond.com/magic-items/9445364-periscope-rod
+Phantom Walkers	https://www.dndbeyond.com/magic-items/9445365-phantom-walkers
+Phasing Bow	https://www.dndbeyond.com/magic-items/9445366-phasing-bow
+Phoenix Breastplate	https://www.dndbeyond.com/magic-items/9445372-phoenix-breastplate
+Phoenix Rocket Sword	https://www.dndbeyond.com/magic-items/9445373-phoenix-rocket-sword
+Pick and Pocket	https://www.dndbeyond.com/magic-items/9445374-pick-and-pocket
+Pisces Shield	https://www.dndbeyond.com/magic-items/9445376-pisces-shield
+Poison Armor of Amphibios	https://www.dndbeyond.com/magic-items/9445377-poison-armor-of-amphibios
+Pollinator Carapace	https://www.dndbeyond.com/magic-items/9445384-pollinator-carapace
+Pollinator Pants	https://www.dndbeyond.com/magic-items/9445385-pollinator-pants
+Pollinator Visor	https://www.dndbeyond.com/magic-items/9445386-pollinator-visor
+Poltergeist Candle Holder	https://www.dndbeyond.com/magic-items/9445387-poltergeist-candle-holder
+Power Collar	https://www.dndbeyond.com/magic-items/9445388-power-collar
+Prism Glasses	https://www.dndbeyond.com/magic-items/9445389-prism-glasses
+Prototype Thunderberd	https://www.dndbeyond.com/magic-items/9445390-prototype-thunderberd
+Prying Mace	https://www.dndbeyond.com/magic-items/9445391-prying-mace
+Quick Change Ring	https://www.dndbeyond.com/magic-items/9445393-quick-change-ring
+Quiver of Elemental Chaos	https://www.dndbeyond.com/magic-items/9445394-quiver-of-elemental-chaos
+Radiant War Pick	https://www.dndbeyond.com/magic-items/9445395-radiant-war-pick
+Realmswarden Greataxe	https://www.dndbeyond.com/magic-items/9445397-realmswarden-greataxe
+Red Queen's Burden	https://www.dndbeyond.com/magic-items/9445398-red-queens-burden
+Redeemer's Regards	https://www.dndbeyond.com/magic-items/9445399-redeemers-regards
+Redsmith Crucible Set	https://www.dndbeyond.com/magic-items/9445400-redsmith-crucible-set
+Redsmith Hammer	https://www.dndbeyond.com/magic-items/9445401-redsmith-hammer
+Rejuvenating Draft (Uncommon)	https://www.dndbeyond.com/magic-items/9445404-rejuvenating-draft-uncommon
+Rejuvenating Draft (Rare)	https://www.dndbeyond.com/magic-items/9445403-rejuvenating-draft-rare
+Rejuvenating Draft (Very Rare)	https://www.dndbeyond.com/magic-items/9445405-rejuvenating-draft-very-rare
+Rejuvenating Draft (Legendary)	https://www.dndbeyond.com/magic-items/9445402-rejuvenating-draft-legendary
+Reliquary of Holy Memories (Uncommon)	https://www.dndbeyond.com/magic-items/9445409-reliquary-of-holy-memories-uncommon
+Reliquary of Holy Memories (Rare)	https://www.dndbeyond.com/magic-items/9445408-reliquary-of-holy-memories-rare
+Reliquary of Holy Memories (Very Rare)	https://www.dndbeyond.com/magic-items/9445410-reliquary-of-holy-memories-very-rare
+Reliquary of Holy Memories (Legendary)	https://www.dndbeyond.com/magic-items/9445407-reliquary-of-holy-memories-legendary
+Riff's Dimensional Ripper	https://www.dndbeyond.com/magic-items/9445412-riffs-dimensional-ripper
+Rift Sheath	https://www.dndbeyond.com/magic-items/9445415-rift-sheath
+Ring of Changing Shapes	https://www.dndbeyond.com/magic-items/9445416-ring-of-changing-shapes
+Ring of Healer's Heroism	https://www.dndbeyond.com/magic-items/9445417-ring-of-healers-heroism
+Ring of Lunar Might	https://www.dndbeyond.com/magic-items/9445418-ring-of-lunar-might
+Ring of Misdirection	https://www.dndbeyond.com/magic-items/9445419-ring-of-misdirection
+Ring of Rituals	https://www.dndbeyond.com/magic-items/9445420-ring-of-rituals
+Ring of Solar's Sight	https://www.dndbeyond.com/magic-items/9445421-ring-of-solars-sight
+Ring of Stolen Alacrity	https://www.dndbeyond.com/magic-items/9445422-ring-of-stolen-alacrity
+Ring of the Arcane Berserker	https://www.dndbeyond.com/magic-items/9445423-ring-of-the-arcane-berserker
+Ring of the Assassin Lord	https://www.dndbeyond.com/magic-items/9445424-ring-of-the-assassin-lord
+Ring of the Mute Mage	https://www.dndbeyond.com/magic-items/9445425-ring-of-the-mute-mage
+Ring of the Split Mind	https://www.dndbeyond.com/magic-items/9445426-ring-of-the-split-mind
+Ring of Volleys	https://www.dndbeyond.com/magic-items/9445427-ring-of-volleys
+Rings of the True Companions	https://www.dndbeyond.com/magic-items/9445428-rings-of-the-true-companions
+Riptide Crossbow	https://www.dndbeyond.com/magic-items/9445429-riptide-crossbow
+Roaring Whip	https://www.dndbeyond.com/magic-items/9445430-roaring-whip
+Rod of Endless Light	https://www.dndbeyond.com/magic-items/9445431-rod-of-endless-light
+Rod of Refstophobia	https://www.dndbeyond.com/magic-items/9445432-rod-of-refstophobia
+Rod of Reverberation	https://www.dndbeyond.com/magic-items/9445433-rod-of-reverberation
+Rod of Storms	https://www.dndbeyond.com/magic-items/9445434-rod-of-storms
+Rod of the Magicycle	https://www.dndbeyond.com/magic-items/9445435-rod-of-the-magicycle
+Rod of Thought Projection	https://www.dndbeyond.com/magic-items/9445436-rod-of-thought-projection
+Rod of Water Absorption	https://www.dndbeyond.com/magic-items/9445437-rod-of-water-absorption
+Rope Caster	https://www.dndbeyond.com/magic-items/9445438-rope-caster
+Rose Quartz Koi	https://www.dndbeyond.com/magic-items/9445439-rose-quartz-koi
+Royal Blade of Amphibios	https://www.dndbeyond.com/magic-items/9445440-royal-blade-of-amphibios
+Royal Incinerator	https://www.dndbeyond.com/magic-items/9445441-royal-incinerator
+Rust Arrow	https://www.dndbeyond.com/magic-items/9445442-rust-arrow
+Sagittarian Vestments	https://www.dndbeyond.com/magic-items/9445455-sagittarian-vestments
+Salamander Flame Gauntlets	https://www.dndbeyond.com/magic-items/9445456-salamander-flame-gauntlets
+Sash of Sorcerous Synergy	https://www.dndbeyond.com/magic-items/9445457-sash-of-sorcerous-synergy
+Satchel of Beast Chow	https://www.dndbeyond.com/magic-items/9445458-satchel-of-beast-chow
+Scarlet Scourge	https://www.dndbeyond.com/magic-items/9445459-scarlet-scourge
+Scepter of Faith	https://www.dndbeyond.com/magic-items/9445460-scepter-of-faith
+Scorned Heart Breastplate	https://www.dndbeyond.com/magic-items/9445462-scorned-heart-breastplate
+Scorpio Armor	https://www.dndbeyond.com/magic-items/9445463-scorpio-armor
+Scorpion Lasher	https://www.dndbeyond.com/magic-items/9445466-scorpion-lasher
+Scroll of Mapping (Uncommon)	https://www.dndbeyond.com/magic-items/9445467-scroll-of-mapping-uncommon
+Scroll of Mapping (Very Rare)	https://www.dndbeyond.com/magic-items/9445469-scroll-of-mapping
+Scroll of Nightmares	https://www.dndbeyond.com/magic-items/9445470-scroll-of-nightmares
+Scroll of the Jester	https://www.dndbeyond.com/magic-items/9445471-scroll-of-the-jester
+Second Fiddle	https://www.dndbeyond.com/magic-items/9445472-second-fiddle
+Seeker's Compass	https://www.dndbeyond.com/magic-items/9445473-seekers-compass
+Seer's Starlight Cloak	https://www.dndbeyond.com/magic-items/9445474-seers-starlight-cloak
+Seraphim's Stiletto	https://www.dndbeyond.com/magic-items/9445475-seraphims-stiletto
+Shadow Tag	https://www.dndbeyond.com/magic-items/9445476-shadow-tag
+Shadow Weaver's Guise	https://www.dndbeyond.com/magic-items/9445477-shadow-weavers-guise
+Shadowscale Shroud	https://www.dndbeyond.com/magic-items/9445478-shadowscale-shroud
+Shield of the Justicars	https://www.dndbeyond.com/magic-items/9445479-shield-of-the-justicars
+Shifter's Shine (Common)	https://www.dndbeyond.com/magic-items/9445480-shifters-shine-common
+Shifter's Shine (Uncommon)	https://www.dndbeyond.com/magic-items/9445481-shifters-shine-uncommon
+Shimmering Spectacles	https://www.dndbeyond.com/magic-items/9445483-shimmering-spectacles
+Shipwright's Watch	https://www.dndbeyond.com/magic-items/9445484-shipwrights-watch
+Shooting Star	https://www.dndbeyond.com/magic-items/9445485-shooting-star
+Shortbow of Testing	https://www.dndbeyond.com/magic-items/9445486-shortbow-of-testing
+Siege Staff	https://www.dndbeyond.com/magic-items/9445492-siege-staff
+Silver Coin of Duvra	https://www.dndbeyond.com/magic-items/9445493-silver-coin-of-duvra
+Silver Eagle Studded Cuirass	https://www.dndbeyond.com/magic-items/9445494-silver-eagle-studded-cuirass
+Silver Star Cane	https://www.dndbeyond.com/magic-items/9445495-silver-star-cane
+Silverwind, the Cleansing Breeze	https://www.dndbeyond.com/magic-items/9445496-silverwind-the-cleansing-breeze
+Sir Varion's Helm	https://www.dndbeyond.com/magic-items/9445497-sir-varions-helm
+Sir Varion's Lance	https://www.dndbeyond.com/magic-items/9445498-sir-varions-lance
+Sir Varion's Mantle	https://www.dndbeyond.com/magic-items/9445499-sir-varions-mantle
+Sir Varion's Shield	https://www.dndbeyond.com/magic-items/9445500-sir-varions-shield
+Sky Anchor	https://www.dndbeyond.com/magic-items/9445501-sky-anchor
+Skyglider Shield	https://www.dndbeyond.com/magic-items/9445502-skyglider-shield
+Skylit Greaves	https://www.dndbeyond.com/magic-items/9445503-skylit-greaves
+Slaying Longbow	https://www.dndbeyond.com/magic-items/9445504-slaying-longbow
+Sleepytime Sheep Stuffy	https://www.dndbeyond.com/magic-items/9445505-sleepytime-sheep-stuffy
+Snake Charmer's Flute	https://www.dndbeyond.com/magic-items/9445506-snake-charmers-flute
+Snow Rider's Sleigh	https://www.dndbeyond.com/magic-items/9445507-snow-riders-sleigh
+Soul Pendant	https://www.dndbeyond.com/magic-items/9445508-soul-pendant
+Soul-Searing Scythe	https://www.dndbeyond.com/magic-items/9445509-soul-searing-scythe
+Sovereignseed Satchel	https://www.dndbeyond.com/magic-items/9445510-sovereignseed-satchel
+Spellfire Bow	https://www.dndbeyond.com/magic-items/9445512-spellfire-bow
+Spellsword	https://www.dndbeyond.com/magic-items/9445513-spellsword
+Spellwriter's Brace	https://www.dndbeyond.com/magic-items/9445514-spellwriters-brace
+Spirit Cleaver	https://www.dndbeyond.com/magic-items/9445515-spirit-cleaver
+Spirit Sheath	https://www.dndbeyond.com/magic-items/9445516-spirit-sheath
+Spiritwalker Breastplate	https://www.dndbeyond.com/magic-items/9445517-spiritwalker-breastplate
+Splinterguard	https://www.dndbeyond.com/magic-items/9445518-splinterguard
+Sream's Stoppered Oasis	https://www.dndbeyond.com/magic-items/9445519-sreams-stoppered-oasis
+Staff of Cubic Cultivation	https://www.dndbeyond.com/magic-items/9445520-staff-of-cubic-cultivation
+Staff of the Dream Shepherd	https://www.dndbeyond.com/magic-items/9445521-staff-of-the-dream-shepherd
+Staff of the Vineyard	https://www.dndbeyond.com/magic-items/9445522-staff-of-the-vineyard
+Stalagmight Geode	https://www.dndbeyond.com/magic-items/9445523-stalagmight-geode
+Stalwart Staff	https://www.dndbeyond.com/magic-items/9445524-stalwart-staff
+Starmetal Nova Armor	https://www.dndbeyond.com/magic-items/9445525-starmetal-nova-armor
+Starmetal Shard Spear	https://www.dndbeyond.com/magic-items/9445528-starmetal-shard-spear
+Starmetal Sliver	https://www.dndbeyond.com/magic-items/9445529-starmetal-sliver
+Status Signets	https://www.dndbeyond.com/magic-items/9445530-status-signets
+Steam Harpoon	https://www.dndbeyond.com/magic-items/9445531-steam-harpoon
+Stonemason's Companion	https://www.dndbeyond.com/magic-items/9445532-stonemasons-companion
+Storm Seer Lamp	https://www.dndbeyond.com/magic-items/9445533-storm-seer-lamp
+Stormbrewer Bracers	https://www.dndbeyond.com/magic-items/9445534-stormbrewer-bracers
+Storm's Eye Shield	https://www.dndbeyond.com/magic-items/9445535-storms-eye-shield
+Storyteller's Stein	https://www.dndbeyond.com/magic-items/9445536-storytellers-stein
+Stuffy Familiar	https://www.dndbeyond.com/magic-items/9445537-stuffy-familiar
+Stylist's Circlet	https://www.dndbeyond.com/magic-items/9445538-stylists-circlet
+Tarrasque Plate	https://www.dndbeyond.com/magic-items/9445539-tarrasque-plate
+Tea Weird	https://www.dndbeyond.com/magic-items/9445540-tea-weird
+Tempest Griffon Bracers	https://www.dndbeyond.com/magic-items/9445541-tempest-griffon-bracers
+Thalamus Thread	https://www.dndbeyond.com/magic-items/9445542-thalamus-thread
+The Griffon's Saddlebag	https://www.dndbeyond.com/magic-items/9445543-the-griffons-saddlebag
+Thomas's Dimensional Trousers	https://www.dndbeyond.com/magic-items/9445544-thomass-dimensional-trousers
+Tide Turner	https://www.dndbeyond.com/magic-items/9445545-tide-turner
+Titan Cricket Greaves	https://www.dndbeyond.com/magic-items/9445546-titan-cricket-greaves
+Titan's Tooth Claymore	https://www.dndbeyond.com/magic-items/9445547-titans-tooth-claymore
+Tome of Advanced Fighting Styles	https://www.dndbeyond.com/magic-items/9445548-tome-of-advanced-fighting-styles
+Tome of Lost Knowledge	https://www.dndbeyond.com/magic-items/9445549-tome-of-lost-knowledge
+Torrdok's Magnificent Forgery	https://www.dndbeyond.com/magic-items/9445550-torrdoks-magnificent-forgery
+Traitor's Gauntlet	https://www.dndbeyond.com/magic-items/9445551-traitors-gauntlet
+Trampling Crossbow	https://www.dndbeyond.com/magic-items/9445552-trampling-crossbow
+Tremor Spike	https://www.dndbeyond.com/magic-items/9445553-tremor-spike
+Turtle Brooch	https://www.dndbeyond.com/magic-items/9445555-turtle-brooch
+Tyrannosaurus Rax	https://www.dndbeyond.com/magic-items/9445556-tyrannosaurus-rax
+Underworld Asphodel Regalia	https://www.dndbeyond.com/magic-items/9445557-underworld-asphodel-regalia
+Urnblade	https://www.dndbeyond.com/magic-items/9445558-urnblade
+Vain Virtuoso's Violin	https://www.dndbeyond.com/magic-items/9445559-vain-virtuosos-violin
+Verax Weapon	https://www.dndbeyond.com/magic-items/9445582-verax-weapon
+Violet King's Promise	https://www.dndbeyond.com/magic-items/9445583-violet-kings-promise
+Viper Khopesh	https://www.dndbeyond.com/magic-items/9445584-viper-khopesh
+Voyage Collar	https://www.dndbeyond.com/magic-items/9445585-voyage-collar
+Vyra's Broken Path	https://www.dndbeyond.com/magic-items/9445586-vyras-broken-path
+Wand of Dowsing	https://www.dndbeyond.com/magic-items/9445587-wand-of-dowsing
+Wand of Gilding	https://www.dndbeyond.com/magic-items/9445588-wand-of-gilding
+Wand of Merriment	https://www.dndbeyond.com/magic-items/9445589-wand-of-merriment
+Wand of Necrosis	https://www.dndbeyond.com/magic-items/9445590-wand-of-necrosis
+Wand of Puppetry	https://www.dndbeyond.com/magic-items/9445591-wand-of-puppetry
+Wand of Stars	https://www.dndbeyond.com/magic-items/9445592-wand-of-stars
+Wand of the Alicorn	https://www.dndbeyond.com/magic-items/9445593-wand-of-the-alicorn
+Wand of the Frostrose	https://www.dndbeyond.com/magic-items/9445594-wand-of-the-frostrose
+Wardancer's Spear	https://www.dndbeyond.com/magic-items/9445596-wardancers-spear
+Warding Staff	https://www.dndbeyond.com/magic-items/9445597-warding-staff
+Warhammer of Eruptions	https://www.dndbeyond.com/magic-items/9445598-warhammer-of-eruptions
+Warp Anchor	https://www.dndbeyond.com/magic-items/9445600-warp-anchor
+War's Wager	https://www.dndbeyond.com/magic-items/9445601-wars-wager
+Waterskin of Voices	https://www.dndbeyond.com/magic-items/9445602-waterskin-of-voices
+Wavecutter	https://www.dndbeyond.com/magic-items/9445606-wavecutter
+Wayfinder Sphere	https://www.dndbeyond.com/magic-items/9445607-wayfinder-sphere
+Weapon of Verdict	https://www.dndbeyond.com/magic-items/9445608-weapon-of-verdict
+Weaving Wasp Needles	https://www.dndbeyond.com/magic-items/9445609-weaving-wasp-needles
+Webgrip Bow	https://www.dndbeyond.com/magic-items/9445610-webgrip-bow
+Whirling Weapons	https://www.dndbeyond.com/magic-items/9445635-whirling-weapons
+Whirlpool Dart	https://www.dndbeyond.com/magic-items/9445637-whirlpool-dart
+Whispergust Mote	https://www.dndbeyond.com/magic-items/9445638-whispergust-mote
+Widemouth Bucket	https://www.dndbeyond.com/magic-items/9445639-widemouth-bucket
+Widow's Tea	https://www.dndbeyond.com/magic-items/9445640-widows-tea
+Wildfire Ammunition	https://www.dndbeyond.com/magic-items/9445641-wildfire-ammunition
+Wildskin Armor	https://www.dndbeyond.com/magic-items/9445644-wildskin-armor
+Williwig's Time Stopper	https://www.dndbeyond.com/magic-items/9445645-williwigs-time-stopper
+Wind and Whirl	https://www.dndbeyond.com/magic-items/9445646-wind-and-whirl
+Wind Riders	https://www.dndbeyond.com/magic-items/9445647-wind-riders
+Wind-Up Merchant	https://www.dndbeyond.com/magic-items/9445648-wind-up-merchant
+Wisp Cloak	https://www.dndbeyond.com/magic-items/9445649-wisp-cloak
+Wispy Sour (Common)	https://www.dndbeyond.com/magic-items/9445650-wispy-sour-common
+Wispy Sour (Uncommon)	https://www.dndbeyond.com/magic-items/9445651-wispy-sour-uncommon
+Wraps of the Restless	https://www.dndbeyond.com/magic-items/9445653-wraps-of-the-restless
+Wyrmling Wristlet	https://www.dndbeyond.com/magic-items/9445654-wyrmling-wristlet
+Wyrmshide Bow	https://www.dndbeyond.com/magic-items/9445665-wyrmshide-bow
+Xibalban Blade	https://www.dndbeyond.com/magic-items/9445666-xibalban-blade
+Xorn-Sole Boots	https://www.dndbeyond.com/magic-items/9445667-xorn-sole-boots
+Yellow Harbinger's Path	https://www.dndbeyond.com/magic-items/9445675-yellow-harbingers-path

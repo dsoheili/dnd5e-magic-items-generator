@@ -36,16 +36,16 @@ magic_items_shop_predefined_rarities = [
 random_rarities_for_magic_items_shop = True
 
 magic_items_rarities_probabilities = {
-    "common": 0.40,
-    "uncommon_minor": 0.25,
-    "rare_minor": 0.05,
-    "very_rare_minor": 0.03,
-    "legendary_minor": 0.02,
+    "common": 0.20,
+    "uncommon_minor": 0.15,
+    "rare_minor": 0.10,
+    "very_rare_minor": 0.10,
+    "legendary_minor": 0.05,
     "uncommon_major": 0.15,
-    "rare_major": 0.04,
-    "very_rare_major": 0.03,
-    "legendary_major": 0.02,
-    "mythic": 0.01,
+    "rare_major": 0.10,
+    "very_rare_major": 0.10,
+    "legendary_major": 0.05,
+    "mythic": 0,
     "unknown": 0
 }
 
@@ -104,18 +104,18 @@ item_condition_mapping = {
 number_of_combined_shop_items = 12
 combined_shop_rarities_probabilities = {
     "basic"           : 0,
-    "common"          : 0.40,
-    "uncommon_minor"  : 0.30,
-    "rare_minor"      : 0,
+    "common"          : 0.15,
+    "uncommon_minor"  : 0.25,
+    "rare_minor"      : 0.15,
     "very_rare_minor" : 0,
     "legendary_minor" : 0,
-    "uncommon_major"  : 0.10,
-    "rare_major"      : 0,
+    "uncommon_major"  : 0.20,
+    "rare_major"      : 0.10,
     "very_rare_major" : 0,
     "legendary_major" : 0,
     "mythic"          : 0,
     "unknown"         : 0,
-    "level_0"         : 0.05,
+    "level_0"         : 0,
     "level_1"         : 0.10,
     "level_2"         : 0.05,
     "level_3"         : 0,
@@ -232,15 +232,15 @@ gui_info_text = """
 | 1d100 | Table  | Dice            | Max | Rarity           |
 |-------|--------|-----------------|-----|------------------|
 | 0     | 0  - Z | 4d100+1d20+1d10 | 430 | Basic            |
-| 1-35  | 1  - A | 1d100+2d20      | 140 | Common           |
-| 36-55 | 2  - B | 2d100           | 200 | Uncommon, minor  |
-| 56-65 | 3  - C | 1d100+3d20      | 160 | Rare, minor      |
-| 66-73 | 4  - D | 1d100           | 100 | Very Rare, minor |
+| 1-35  | 1  - A | 2d100           | 200 | Common           |
+| 36-55 | 2  - B | 3d100           | 300 | Uncommon, minor  |
+| 56-65 | 3  - C | 3d100           | 300 | Rare, minor      |
+| 66-73 | 4  - D | 1d100+1d20      | 120 | Very Rare, minor |
 | 74-75 | 5  - E | 1d100           | 100 | Legendary, minor |
-| 76-85 | 6  - F | 1d100+2d20      | 140 | Uncommon, major  |
-| 86-93 | 7  - G | 2d100+3d20      | 260 | Rare, major      |
-| 94-97 | 8  - H | 2d100           | 200 | Very Rare, major |
-| 98-99 | 9  - I | 1d100+2d20+1d10 | 150 | Legendary, major |
-| 100   | 10 - J | 3d20+1d10       | 70  | Mythic           |
+| 76-85 | 6  - F | 2d100+1d20      | 220 | Uncommon, major  |
+| 86-93 | 7  - G | 4d100           | 400 | Rare, major      |
+| 94-97 | 8  - H | 3d100           | 300 | Very Rare, major |
+| 98-99 | 9  - I | 2d100           | 200 | Legendary, major |
+| 100   | 10 - J | 1d100           | 100 | Mythic           |
 | N/A   | 11 - K | 1d12            | 12  | Unknown          |
 """
