@@ -1980,7 +1980,8 @@ Detective's Notebook	https://www.dndbeyond.com/magic-items/9445083-detectives-no
 Direstone Dwarven Key	https://www.dndbeyond.com/magic-items/9445084-direstone-dwarven-key
 Direstone Runic Wand	https://www.dndbeyond.com/magic-items/9445085-direstone-runic-wand
 Diviner's Dice	https://www.dndbeyond.com/magic-items/9445086-diviners-dice
-Djinn and Tonic	https://www.dndbeyond.com/magic-items/9445089-djinn-and-tonic
+Djinn and Tonic (Common)	https://www.dndbeyond.com/magic-items/9445087-djinn-and-tonic-common
+Djinn and Tonic (Rare)	https://www.dndbeyond.com/magic-items/9445088-djinn-and-tonic-rare
 Dominic's Field Guide to Language	https://www.dndbeyond.com/magic-items/9445090-dominics-field-guide-to-language
 Doom Bloom	https://www.dndbeyond.com/magic-items/9445091-doom-bloom
 Doubloon Diver's Goggles	https://www.dndbeyond.com/magic-items/9445092-doubloon-divers-goggles
@@ -2382,3 +2383,10 @@ Wyrmshide Bow	https://www.dndbeyond.com/magic-items/9445665-wyrmshide-bow
 Xibalban Blade	https://www.dndbeyond.com/magic-items/9445666-xibalban-blade
 Xorn-Sole Boots	https://www.dndbeyond.com/magic-items/9445667-xorn-sole-boots
 Yellow Harbinger's Path	https://www.dndbeyond.com/magic-items/9445675-yellow-harbingers-path
+Demon Skin	https://www.dndbeyond.com/magic-items/8225886-demon-skin
+Iggwilv's Horn	https://www.dndbeyond.com/magic-items/8225887-iggwilvs-horn
+Potion of Polychromy	https://www.dndbeyond.com/magic-items/8225888-potion-of-polychromy
+Tasha's Creeping Keelboat	https://www.dndbeyond.com/magic-items/8225889-tashas-creeping-keelboat
+Potion of Healing (Greater)	https://www.dndbeyond.com/magic-items/5133-potion-of-healing-greater
+Potion of Healing (Superior)	https://www.dndbeyond.com/magic-items/5134-potion-of-healing-superior
+Potion of Healing (Supreme)	https://www.dndbeyond.com/magic-items/5135-potion-of-healing-supreme

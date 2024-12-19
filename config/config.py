@@ -12,14 +12,14 @@ character_names = [
 # ----- Enchantments ------------
 # Determines if magic item shop applies curses/boons to items
 magic_item_enchantments_enabled = False
-curse_probability = 0.65
-blessing_probability = 0.05
+curse_probability               = 0.65
+blessing_probability            = 0.05
 # ---------------------------
 
 
 # ----- Magic Items Shop --------
 # Number of items available in the magic item shop
-number_of_magic_items_shop_items = 7
+number_of_magic_items_shop_items = 12
 
 default_magic_items_shop_rarity = "common"
 magic_items_shop_predefined_rarities = [
@@ -36,29 +36,29 @@ magic_items_shop_predefined_rarities = [
 random_rarities_for_magic_items_shop = True
 
 magic_items_rarities_probabilities = {
-    "common": 0.20,
-    "uncommon_minor": 0.15,
-    "rare_minor": 0.10,
+    "common"         : 0.20,
+    "uncommon_minor" : 0.15,
+    "rare_minor"     : 0.10,
     "very_rare_minor": 0.10,
     "legendary_minor": 0.05,
-    "uncommon_major": 0.15,
-    "rare_major": 0.10,
+    "uncommon_major" : 0.15,
+    "rare_major"     : 0.10,
     "very_rare_major": 0.10,
     "legendary_major": 0.05,
-    "mythic": 0,
-    "unknown": 0
+    "mythic"         : 0,
+    "unknown"        : 0
 }
 
 magic_items_rarity_ranges = {
-    (1, 40): 1,    # common
-    (41, 65): 2,   # uncommon_minor
-    (66, 80): 6,   # uncommon_major
-    (81, 85): 3,   # rare_minor
-    (86, 89): 7,   # rare_major
-    (90, 92): 4,   # very_rare_minor
-    (93, 95): 8,   # very_rare_major
-    (96, 97): 5,   # legendary_minor
-    (98, 99): 9,   # legendary_major
+    (1, 20)   : 1, # common
+    (21, 40)  : 2, # uncommon_minor
+    (41, 55)  : 6, # uncommon_major
+    (56, 70)  : 3, # rare_minor
+    (71, 80)  : 7, # rare_major
+    (81, 90)  : 4, # very_rare_minor
+    (91, 95)  : 8, # very_rare_major
+    (96, 97)  : 5, # legendary_minor
+    (98, 99)  : 9, # legendary_major
     (100, 100): 10 # mythic
 }
 
@@ -67,9 +67,9 @@ magic_items_rarity_ranges = {
 number_of_scroll_shop_items = 5
 scroll_rarities_probabilities = {
     "level_0": 0.25,
-    "level_1": 0.2,
+    "level_1": 0.20,
     "level_2": 0.15,
-    "level_3": 0.1,
+    "level_3": 0.10,
     "level_4": 0.08,
     "level_5": 0.07,
     "level_6": 0.05,
@@ -81,9 +81,9 @@ scroll_rarities_probabilities = {
 # ----- Potion Shop --------
 number_of_potion_shop_items = 5
 potion_rarities_probabilities = {
-    "common_potion": 0.38,
-    "uncommon_potion": 0.27,
-    "rare_potion": 0.20,
+    "common_potion"   : 0.38,
+    "uncommon_potion" : 0.27,
+    "rare_potion"     : 0.20,
     "very_rare_potion": 0.10,
     "legendary_potion": 0.05
 }
@@ -92,12 +92,12 @@ potion_rarities_probabilities = {
 number_of_basic_shop_items = 10
 
 item_condition_mapping = {
-    "mint":         1.00, # Item is in perfect condition
-    "lightly_used": 0.90, # Item has minimal signs of wear
-    "used":         0.75, # Item shows noticeable wear
+    "mint"        : 1.00, # Item is in perfect condition
+    "lightly_used": 0.80, # Item has minimal signs of wear
+    "used"        : 0.65, # Item shows noticeable wear
     "heavily_used": 0.50, # Item is functional but shows significant wear
-    "damaged":      0.25, # Item needs repair to be fully functional
-    "broken":       0.10  # Item is non-functional, requires major repairs
+    "damaged"     : 0.25, # Item needs repair to be fully functional
+    "broken"      : 0.10  # Item is non-functional, requires major repairs
 }
 
 # ----- Combined Shop --------
@@ -109,7 +109,7 @@ combined_shop_rarities_probabilities = {
     "rare_minor"      : 0.15,
     "very_rare_minor" : 0,
     "legendary_minor" : 0,
-    "uncommon_major"  : 0.20,
+    "uncommon_major"  : 0.15,
     "rare_major"      : 0.10,
     "very_rare_major" : 0,
     "legendary_major" : 0,
@@ -117,7 +117,7 @@ combined_shop_rarities_probabilities = {
     "unknown"         : 0,
     "level_0"         : 0,
     "level_1"         : 0.10,
-    "level_2"         : 0.05,
+    "level_2"         : 0.10,
     "level_3"         : 0,
     "level_4"         : 0,
     "level_5"         : 0,
@@ -133,97 +133,97 @@ combined_shop_rarities_probabilities = {
 }
 
 price_ranges = {
-    "basic": (50, 300),
-    "common": (300, 500),
-    "uncommon_minor": (501, 1000),
-    "rare_minor": (1001, 5000),
-    "very_rare_minor": (5001, 10000),
-    "legendary_minor": (10001, 20000),
-    "uncommon_major": (1000, 2000),
-    "rare_major": (5001, 10000),
-    "very_rare_major": (10001, 25000),
-    "legendary_major": (25001, 50000),
-    "mythic": (50001, 100000),
-    "unknown": (100000, 200000),
-    "level_0": (10, 50),
-    "level_1": (50, 100),
-    "level_2": (100, 250),
-    "level_3": (250, 500),
-    "level_4": (500, 1000),
-    "level_5": (1000, 2500),
-    "level_6": (2500, 5000),
-    "level_7": (5000, 10000),
-    "level_8": (10000, 15000),
-    "level_9": (15000, 25000),
-    "common_potion": (100, 500),
-    "uncommon_potion": (501, 1000),
-    "rare_potion": (1001, 5000),
+    "basic"           : (50, 300),
+    "common"          : (300, 500),
+    "uncommon_minor"  : (501, 1000),
+    "rare_minor"      : (1001, 5000),
+    "very_rare_minor" : (5001, 10000),
+    "legendary_minor" : (10001, 20000),
+    "uncommon_major"  : (1000, 2000),
+    "rare_major"      : (5001, 10000),
+    "very_rare_major" : (10001, 25000),
+    "legendary_major" : (25001, 50000),
+    "mythic"          : (50001, 100000),
+    "unknown"         : (100000, 200000),
+    "level_0"         : (10, 50),
+    "level_1"         : (50, 100),
+    "level_2"         : (100, 250),
+    "level_3"         : (250, 500),
+    "level_4"         : (500, 1000),
+    "level_5"         : (1000, 2500),
+    "level_6"         : (2500, 5000),
+    "level_7"         : (5000, 10000),
+    "level_8"         : (10000, 15000),
+    "level_9"         : (15000, 25000),
+    "common_potion"   : (100, 500),
+    "uncommon_potion" : (501, 1000),
+    "rare_potion"     : (1001, 5000),
     "very_rare_potion": (5001, 10000),
     "legendary_potion": (10001, 20000)
 }
 
 xlations = {
-    "basic": "Basic",
-    "common": "Common",
-    "uncommon_minor": "Uncommon, Minor",
-    "rare_minor": "Rare, Minor",
-    "very_rare_minor": "Very Rare, Minor",
-    "legendary_minor": "Legendary, Minor",
-    "uncommon_major": "Uncommon, Major",
-    "rare_major": "Rare, Major",
-    "very_rare_major": "Very Rare, Major",
-    "legendary_major": "Legendary, Major",
-    "mythic": "Mythic",
-    "unknown": "Unknown",
-    "level_0": "Spell Scroll (Cantrip)",
-    "level_1": "Spell Scroll (1st Level)",
-    "level_2": "Spell Scroll (2nd Level)",
-    "level_3": "Spell Scroll (3rd Level)",
-    "level_4": "Spell Scroll (4th Level)",
-    "level_5": "Spell Scroll (5th Level)",
-    "level_6": "Spell Scroll (6th Level)",
-    "level_7": "Spell Scroll (7th Level)",
-    "level_8": "Spell Scroll (8th Level)",
-    "level_9": "Spell Scroll (9th Level)",
-    "common_potion": "Common",
-    "uncommon_potion": "Uncommon",
-    "rare_potion": "Rare",
+    "basic"           : "Basic",
+    "common"          : "Common",
+    "uncommon_minor"  : "Uncommon, Minor",
+    "rare_minor"      : "Rare, Minor",
+    "very_rare_minor" : "Very Rare, Minor",
+    "legendary_minor" : "Legendary, Minor",
+    "uncommon_major"  : "Uncommon, Major",
+    "rare_major"      : "Rare, Major",
+    "very_rare_major" : "Very Rare, Major",
+    "legendary_major" : "Legendary, Major",
+    "mythic"          : "Mythic",
+    "unknown"         : "Unknown",
+    "level_0"         : "Spell Scroll (Cantrip)",
+    "level_1"         : "Spell Scroll (1st Level)",
+    "level_2"         : "Spell Scroll (2nd Level)",
+    "level_3"         : "Spell Scroll (3rd Level)",
+    "level_4"         : "Spell Scroll (4th Level)",
+    "level_5"         : "Spell Scroll (5th Level)",
+    "level_6"         : "Spell Scroll (6th Level)",
+    "level_7"         : "Spell Scroll (7th Level)",
+    "level_8"         : "Spell Scroll (8th Level)",
+    "level_9"         : "Spell Scroll (9th Level)",
+    "common_potion"   : "Common",
+    "uncommon_potion" : "Uncommon",
+    "rare_potion"     : "Rare",
     "very_rare_potion": "Very Rare",
     "legendary_potion": "Legendary",
-    "mint": "Mint",
-    "lightly_used": "Lightly Used",
-    "used": "Used",
-    "heavily_used": "Heavily Used",
-    "damaged": "Damaged",
-    "broken": "Broken"
+    "mint"            : "Mint",
+    "lightly_used"    : "Lightly Used",
+    "used"            : "Used",
+    "heavily_used"    : "Heavily Used",
+    "damaged"         : "Damaged",
+    "broken"          : "Broken"
 }
 
 emoticons = {
-    "basic": ":sparkles:",
-    "common": ":star:",
-    "uncommon_minor": ":star::star:",
-    "rare_minor": ":star::star::star:",
-    "very_rare_minor": ":star::star::star::star:",
-    "legendary_minor": ":star::star::star::star::star:",
-    "uncommon_major": ":star2::star2:",
-    "rare_major": ":star2::star2::star2:",
-    "very_rare_major": ":star2::star2::star2::star2:",
-    "legendary_major": ":star2::star2::star2::star2::star2:",
-    "mythic": ":sunny:",
-    "unknown": ":new_moon:",
-    "level_0": ":roll_of_paper:",
-    "level_1": ":scroll:",
-    "level_2": ":scroll::scroll:",
-    "level_3": ":scroll::scroll::scroll:",
-    "level_4": ":scroll::scroll::scroll::scroll:",
-    "level_5": ":scroll::scroll::scroll::scroll::scroll:",
-    "level_6": ":scroll::scroll::scroll::scroll::scroll::scroll:",
-    "level_7": ":scroll::scroll::scroll::scroll::scroll::scroll::scroll:",
-    "level_8": ":scroll::scroll::scroll::scroll::scroll::scroll::scroll::scroll:",
-    "level_9": ":scroll::scroll::scroll::scroll::scroll::scroll::scroll::scroll::scroll:",
-    "common_potion": ":alembic:",
-    "uncommon_potion": ":alembic::alembic:",
-    "rare_potion": ":alembic::alembic::alembic:",
+    "basic"           : ":sparkles:",
+    "common"          : ":star:",
+    "uncommon_minor"  : ":star::star:",
+    "rare_minor"      : ":star::star::star:",
+    "very_rare_minor" : ":star::star::star::star:",
+    "legendary_minor" : ":star::star::star::star::star:",
+    "uncommon_major"  : ":star2::star2:",
+    "rare_major"      : ":star2::star2::star2:",
+    "very_rare_major" : ":star2::star2::star2::star2:",
+    "legendary_major" : ":star2::star2::star2::star2::star2:",
+    "mythic"          : ":sunny:",
+    "unknown"         : ":new_moon:",
+    "level_0"         : ":roll_of_paper:",
+    "level_1"         : ":scroll:",
+    "level_2"         : ":scroll::scroll:",
+    "level_3"         : ":scroll::scroll::scroll:",
+    "level_4"         : ":scroll::scroll::scroll::scroll:",
+    "level_5"         : ":scroll::scroll::scroll::scroll::scroll:",
+    "level_6"         : ":scroll::scroll::scroll::scroll::scroll::scroll:",
+    "level_7"         : ":scroll::scroll::scroll::scroll::scroll::scroll::scroll:",
+    "level_8"         : ":scroll::scroll::scroll::scroll::scroll::scroll::scroll::scroll:",
+    "level_9"         : ":scroll::scroll::scroll::scroll::scroll::scroll::scroll::scroll::scroll:",
+    "common_potion"   : ":alembic:",
+    "uncommon_potion" : ":alembic::alembic:",
+    "rare_potion"     : ":alembic::alembic::alembic:",
     "very_rare_potion": ":alembic::alembic::alembic::alembic:",
     "legendary_potion": ":alembic::alembic::alembic::alembic::alembic:"
 }
