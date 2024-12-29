@@ -86,8 +86,8 @@ potion_rarities_probabilities = {
     "rare_potion"       : 0,
     "very_rare_potion"  : 0,
     "legendary_potion"  : 0,
-    "beneficial_potion" : 0.70,
-    "detrimental_potion": 0.30
+    "beneficial_potion" : 0.60,
+    "detrimental_potion": 0.40
 }
 
 # ----- Basic Shop --------
@@ -241,16 +241,16 @@ emoticons = {
 gui_info_text = """
 | 1d100 | Table  | Dice            | Max | Rarity           |
 |-------|--------|-----------------|-----|------------------|
-| 0     | 0  - Z | 4d100+1d20+1d10 | 430 | Basic            |
-| 1-35  | 1  - A | 2d100           | 200 | Common           |
-| 36-55 | 2  - B | 3d100           | 300 | Uncommon, minor  |
-| 56-65 | 3  - C | 3d100           | 300 | Rare, minor      |
-| 66-73 | 4  - D | 1d100+1d20      | 120 | Very Rare, minor |
-| 74-75 | 5  - E | 1d100           | 100 | Legendary, minor |
-| 76-85 | 6  - F | 2d100+1d20      | 220 | Uncommon, major  |
-| 86-93 | 7  - G | 4d100           | 400 | Rare, major      |
-| 94-97 | 8  - H | 3d100           | 300 | Very Rare, major |
+| 1-20  | 1  - A | 2d100           | 200 | Common           |
+| 21-40 | 2  - B | 3d100           | 300 | Uncommon, minor  |
+| 56-70 | 3  - C | 3d100           | 300 | Rare, minor      |
+| 81-90 | 4  - D | 1d100+1d20      | 120 | Very Rare, minor |
+| 96-97 | 5  - E | 1d100           | 100 | Legendary, minor |
+| 41-55 | 6  - F | 2d100+1d20      | 220 | Uncommon, major  |
+| 71-80 | 7  - G | 4d100           | 400 | Rare, major      |
+| 91-95 | 8  - H | 3d100           | 300 | Very Rare, major |
 | 98-99 | 9  - I | 2d100           | 200 | Legendary, major |
 | 100   | 10 - J | 1d100           | 100 | Mythic           |
 | N/A   | 11 - K | 1d12            | 12  | Unknown          |
+| 0     | 0  - Z | 4d100+1d20+1d10 | 430 | Basic            |
 """

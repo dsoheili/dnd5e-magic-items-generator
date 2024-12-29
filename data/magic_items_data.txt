@@ -28,7 +28,7 @@ Ammunition, +1	https://www.dndbeyond.com/magic-items/5407-ammunition-1
 Ammunition, +2	https://www.dndbeyond.com/magic-items/5410-ammunition-2
 Ammunition, +3	https://www.dndbeyond.com/magic-items/5411-ammunition-3
 Amulet of Health	https://www.dndbeyond.com/magic-items/4568-amulet-of-health
-Amulet of Proof Against Detection and Location	https://www.dndbeyond.com/magic-items/4569-amulet-of-proof-against-detection-and-location
+Amulet of Proof Against Detection And Location	https://www.dndbeyond.com/magic-items/4569-amulet-of-proof-against-detection-and-location
 Amulet of Protection from Turning	https://www.dndbeyond.com/magic-items/9288-amulet-of-protection-from-turning
 Amulet of the Black Skull	https://www.dndbeyond.com/magic-items/21712-amulet-of-the-black-skull
 Amulet of the Devout, +1	https://www.dndbeyond.com/magic-items/2411840-amulet-of-the-devout-1
