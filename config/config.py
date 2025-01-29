@@ -1,9 +1,10 @@
 # Player character names for GUI
 character_names = [
-    "Banana Bear",
+    "Anya",
     "Faewynn",
-    "Levanya",
+    "Josephine",
     "Nex",
+    "Silvanus",
     "Thalia",
     "Wabuu",
     "NPC"
@@ -66,8 +67,8 @@ magic_items_rarity_ranges = {
 # ----- Spell Scrolls Shop --------
 number_of_scroll_shop_items = 8
 scroll_rarities_probabilities = {
-    "level_0": 0.10,
-    "level_1": 0.20,
+    "level_0": 0.00,
+    "level_1": 0.30,
     "level_2": 0.20,
     "level_3": 0.20,
     "level_4": 0.10,

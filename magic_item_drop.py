@@ -82,19 +82,20 @@ table_number_var = tk.StringVar()
 table_number_entry = ttk.Entry(input_frame, textvariable=table_number_var)
 table_number_entry.grid(column=1, row=1, sticky=tk.EW)
 
-table_d100_label = ttk.Label(input_frame, text="1d100 roll:")
-table_d100_label.grid(column=0, row=2)
-
-table_d100_var = tk.StringVar()
-table_d100_entry = ttk.Entry(input_frame, textvariable=table_d100_var)
-table_d100_entry.grid(column=1, row=2, sticky=tk.EW)
-
 row_number_label = ttk.Label(input_frame, text="Row Number:")
 row_number_label.grid(column=0, row=3)
 
 row_number_var = tk.StringVar()
 row_number_entry = ttk.Entry(input_frame, textvariable=row_number_var)
 row_number_entry.grid(column=1, row=3, sticky=tk.EW)
+
+# TODO: Use a config to disable instead
+# table_d100_label = ttk.Label(input_frame, text="1d100 roll:")
+# table_d100_label.grid(column=0, row=2)
+
+# table_d100_var = tk.StringVar()
+# table_d100_entry = ttk.Entry(input_frame, textvariable=table_d100_var)
+# table_d100_entry.grid(column=1, row=2, sticky=tk.EW)
 
 generate_button = ttk.Button(input_frame, text="Generate Magic Item", command=generate_magic_item)
 generate_button.grid(column=0, row=4, columnspan=2, pady=10)

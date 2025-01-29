@@ -901,7 +901,7 @@ Thunderbuss	https://www.dndbeyond.com/magic-items/7102442-thunderbuss
 Timepiece of Travel	https://www.dndbeyond.com/magic-items/705948-timepiece-of-travel
 Tinderstrike	https://www.dndbeyond.com/magic-items/5592-tinderstrike
 Tome of Clear Thought	https://www.dndbeyond.com/magic-items/4781-tome-of-clear-thought
-Tome of Leadership and Influence	https://www.dndbeyond.com/magic-items/4782-tome-of-leadership-and-influence
+Tome of Leadership And Influence	https://www.dndbeyond.com/magic-items/4782-tome-of-leadership-and-influence
 Tome of the Stilled Tongue	https://www.dndbeyond.com/magic-items/5409-tome-of-the-stilled-tongue
 Tome of Understanding	https://www.dndbeyond.com/magic-items/4783-tome-of-understanding
 Topaz Annihilator	https://www.dndbeyond.com/magic-items/5917281-topaz-annihilator
@@ -2590,3 +2590,38 @@ Poison of Reflective Pain	https://www.dndbeyond.com/magic-items/9478897-poison-o
 Potion of Painful Thought Detection	https://www.dndbeyond.com/magic-items/9478901-potion-of-painful-thought-detection
 Potion of Rusting	https://www.dndbeyond.com/magic-items/9478906-potion-of-rusting
 Poison of Basilisk's Gaze	https://www.dndbeyond.com/magic-items/9478916-poison-of-basilisks-gaze
+Alluring Dye	https://www.dndbeyond.com/magic-items/9625449-alluring-dye
+Antlers of the True Path	https://www.dndbeyond.com/magic-items/9625450-antlers-of-the-true-path
+Band of Fruitfulness	https://www.dndbeyond.com/magic-items/9625451-band-of-fruitfulness
+Basilisk Crystal	https://www.dndbeyond.com/magic-items/9625452-basilisk-crystal
+Belt of the Weald	https://www.dndbeyond.com/magic-items/9625453-belt-of-the-weald
+Chronicle of Fools	https://www.dndbeyond.com/magic-items/9625454-chronicle-of-fools
+Cloak of Spines	https://www.dndbeyond.com/magic-items/9625455-cloak-of-spines
+Cogwork Wings	https://www.dndbeyond.com/magic-items/9625456-cogwork-wings
+Cream of Ooze Moisturizing Face Serum	https://www.dndbeyond.com/magic-items/9625458-cream-of-ooze-moisturizing-face-serum
+Crown of Daffodils	https://www.dndbeyond.com/magic-items/9625459-crown-of-daffodils
+Draught of Feather Shine	https://www.dndbeyond.com/magic-items/9625460-draught-of-feather-shine
+Draught of Slime Curse Cure	https://www.dndbeyond.com/magic-items/9625461-draught-of-slime-curse-cure
+Egg of Rebirth	https://www.dndbeyond.com/magic-items/9625462-egg-of-rebirth
+Eye of Starsight	https://www.dndbeyond.com/magic-items/9625463-eye-of-starsight
+Fangs of Guile	https://www.dndbeyond.com/magic-items/9625464-fangs-of-guile
+Feather Robe	https://www.dndbeyond.com/magic-items/9625465-feather-robe
+Flame of Ingenuity	https://www.dndbeyond.com/magic-items/9625466-flame-of-ingenuity
+Glowing Ember	https://www.dndbeyond.com/magic-items/9625468-glowing-ember
+Kwark's Wondrous Kernels	https://www.dndbeyond.com/magic-items/9625469-kwarks-wondrous-kernels
+Marotte of Chance	https://www.dndbeyond.com/magic-items/9625471-marotte-of-chance
+Pathfinder's Pebble	https://www.dndbeyond.com/magic-items/9625472-pathfinders-pebble
+Potion of Rest	https://www.dndbeyond.com/magic-items/9625474-potion-of-rest
+Recall Crystal	https://www.dndbeyond.com/magic-items/9625477-recall-crystal
+Red-Feather Bow	https://www.dndbeyond.com/magic-items/8019875-red-feather-bow
+Ring of Plant Speech	https://www.dndbeyond.com/magic-items/9625478-ring-of-plant-speech
+Ring of the Sky Hunter	https://www.dndbeyond.com/magic-items/9625479-ring-of-the-sky-hunter
+Saber of Unity	https://www.dndbeyond.com/magic-items/9625480-saber-of-unity
+Shroud of Ending	https://www.dndbeyond.com/magic-items/9625482-shroud-of-ending
+Slimeforged Blade	https://www.dndbeyond.com/magic-items/9625483-slimeforged-blade
+Staff of Climbing Ivy	https://www.dndbeyond.com/magic-items/9625484-staff-of-climbing-ivy
+Strig Feather Robe	https://www.dndbeyond.com/magic-items/9625485-strig-feather-robe
+Talon Tincture	https://www.dndbeyond.com/magic-items/9625486-talon-tincture
+Talons of the Squall	https://www.dndbeyond.com/magic-items/9625487-talons-of-the-squall
+The Thorn of Kren	https://www.dndbeyond.com/magic-items/9625488-the-thorn-of-kren
+Whistle of Freedom	https://www.dndbeyond.com/magic-items/9625490-whistle-of-freedom
