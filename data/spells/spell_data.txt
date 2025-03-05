@@ -687,3 +687,33 @@ True Resurrection	https://www.dndbeyond.com/spells/2619199-true-resurrection
 Umbral Storm	https://www.dndbeyond.com/spells/1731172-umbral-storm
 Weird	https://www.dndbeyond.com/spells/2619210-weird
 Wish	https://www.dndbeyond.com/spells/2619213-wish
+Can'trip	https://www.dndbeyond.com/spells/2840680-cantrip
+Concussion	https://www.dndbeyond.com/spells/2840679-concussion
+Magnetobolt	https://www.dndbeyond.com/spells/2840673-magnetobolt
+Pins & Needles	https://www.dndbeyond.com/spells/2840671-pins-needles
+Swarm	https://www.dndbeyond.com/spells/2840667-swarm
+Water Whip	https://www.dndbeyond.com/spells/2840661-water-whip
+Chameleon Skin	https://www.dndbeyond.com/spells/2840687-chameleon-skin
+Corrupting Ichor	https://www.dndbeyond.com/spells/2840677-corrupting-ichor
+Daydream	https://www.dndbeyond.com/spells/2840676-daydream
+Arcanomagnetic Repulsion	https://www.dndbeyond.com/spells/2840684-arcanomagnetic-repulsion
+Dreamwalk	https://www.dndbeyond.com/spells/2840674-dreamwalk
+Endoleech	https://www.dndbeyond.com/spells/2840666-endoleech
+Mortiferous Pulse	https://www.dndbeyond.com/spells/2840672-mortiferous-pulse
+Preserve	https://www.dndbeyond.com/spells/2840670-preserve
+Riptide	https://www.dndbeyond.com/spells/2840669-riptide
+Acid Rain	https://www.dndbeyond.com/spells/2840658-acid-rain
+Depth Charge	https://www.dndbeyond.com/spells/2840675-depth-charge
+Magnetite Shard	https://www.dndbeyond.com/spells/2840659-magnetite-shard
+Stench	https://www.dndbeyond.com/spells/2840668-stench
+Switcheroo	https://www.dndbeyond.com/spells/2840663-switcheroo
+Zippit!	https://www.dndbeyond.com/spells/2840660-zippit
+Aura of Impurity	https://www.dndbeyond.com/spells/2840683-aura-of-impurity
+Blinding Radiance	https://www.dndbeyond.com/spells/2840682-blinding-radiance
+Frogskin	https://www.dndbeyond.com/spells/2840665-frogskin
+Bone Cage	https://www.dndbeyond.com/spells/2840681-bone-cage
+Conjure Anomaly	https://www.dndbeyond.com/spells/2840678-conjure-anomaly
+Feverskin	https://www.dndbeyond.com/spells/2840686-feverskin
+Gravity Smash	https://www.dndbeyond.com/spells/2840664-gravity-smash
+Lungburst	https://www.dndbeyond.com/spells/2840662-lungburst
+Arcanomagnetic Storm	https://www.dndbeyond.com/spells/2840685-arcanomagnetic-storm

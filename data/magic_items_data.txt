@@ -2625,3 +2625,95 @@ Talon Tincture	https://www.dndbeyond.com/magic-items/9625486-talon-tincture
 Talons of the Squall	https://www.dndbeyond.com/magic-items/9625487-talons-of-the-squall
 The Thorn of Kren	https://www.dndbeyond.com/magic-items/9625488-the-thorn-of-kren
 Whistle of Freedom	https://www.dndbeyond.com/magic-items/9625490-whistle-of-freedom
+Aboleth Ramen (Uncommon)	https://www.dndbeyond.com/magic-items/9787706-aboleth-ramen-uncommon
+Aboleth Ramen (Rare)	https://www.dndbeyond.com/magic-items/9787705-aboleth-ramen-rare
+Aboleth Ramen (Very Rare)	https://www.dndbeyond.com/magic-items/9787707-aboleth-ramen-very-rare
+Aboleth Ramen (Legendary)	https://www.dndbeyond.com/magic-items/9787704-aboleth-ramen-legendary
+Astral Luggage (Uncommon)	https://www.dndbeyond.com/magic-items/9787709-astral-luggage-uncommon
+Astral Luggage (Very Rare)	https://www.dndbeyond.com/magic-items/9787710-astral-luggage-very-rare
+Bomboozler (Rare)	https://www.dndbeyond.com/magic-items/9787712-bomboozler-rare
+Bomboozler (Very Rare)	https://www.dndbeyond.com/magic-items/9787713-bomboozler-very-rare
+Breastplank	https://www.dndbeyond.com/magic-items/9787725-breastplank
+Broodmother's Embrace (Rare)	https://www.dndbeyond.com/magic-items/9787728-broodmothers-embrace-rare
+Broodmother's Embrace (Very Rare)	https://www.dndbeyond.com/magic-items/9787729-broodmothers-embrace-very-rare
+Broodmother's Embrace (Legendary)	https://www.dndbeyond.com/magic-items/9787727-broodmothers-embrace-legendary
+Broodmother's Eye	https://www.dndbeyond.com/magic-items/9787731-broodmothers-eye
+Broodslinger (Uncommon)	https://www.dndbeyond.com/magic-items/9787733-broodslinger-uncommon
+Broodslinger (Rare)	https://www.dndbeyond.com/magic-items/9787732-broodslinger-rare
+Broodslinger (Very Rare)	https://www.dndbeyond.com/magic-items/9787734-broodslinger-very-rare
+Caltrooze	https://www.dndbeyond.com/magic-items/9787736-caltrooze
+Dreamy the Lucid	https://www.dndbeyond.com/magic-items/9787738-dreamy-the-lucid
+Dumpleyengs (Uncommon)	https://www.dndbeyond.com/magic-items/9787741-dumpleyengs-uncommon
+Dumpleyengs (Rare)	https://www.dndbeyond.com/magic-items/9787740-dumpleyengs-rare
+Dumpleyengs (Very Rare)	https://www.dndbeyond.com/magic-items/9787742-dumpleyengs-very-rare
+Dumpleyengs (Legendary)	https://www.dndbeyond.com/magic-items/9787739-dumpleyengs-legendary
+Eyes of Googly	https://www.dndbeyond.com/magic-items/9787744-eyes-of-googly
+Flooze (Uncommon)	https://www.dndbeyond.com/magic-items/9787745-flooze-uncommon
+Flooze (Very Rare)	https://www.dndbeyond.com/magic-items/9787746-flooze-very-rare
+Goo Luck Dice	https://www.dndbeyond.com/magic-items/9787749-goo-luck-dice
+Grill of Barbecuing	https://www.dndbeyond.com/magic-items/9787750-grill-of-barbecuing
+Haemscale	https://www.dndbeyond.com/magic-items/9787778-haemscale
+Haemstrike	https://www.dndbeyond.com/magic-items/9787797-haemstrike
+Hammer Time (Uncommon Club)	https://www.dndbeyond.com/magic-items/9787798-hammer-time-uncommon-club
+Hammer Time (Very Rare Club)	https://www.dndbeyond.com/magic-items/9787804-hammer-time-very-rare-club
+Hammer Time (Uncommon Greatclub)	https://www.dndbeyond.com/magic-items/9787799-hammer-time-uncommon-greatclub
+Hammer Time (Very Rare Greatclub)	https://www.dndbeyond.com/magic-items/9787805-hammer-time-very-rare-greatclub
+Hammer Time (Uncommon Light Hammer)	https://www.dndbeyond.com/magic-items/9787800-hammer-time-uncommon-light-hammer
+Hammer Time (Very Rare Light Hammer)	https://www.dndbeyond.com/magic-items/9787806-hammer-time-very-rare-light-hammer
+Hammer Time (Uncommon Mace)	https://www.dndbeyond.com/magic-items/9787801-hammer-time-uncommon-mace
+Hammer Time (Very Rare Mace)	https://www.dndbeyond.com/magic-items/9787807-hammer-time-very-rare-mace
+Hammer Time (Uncommon Maul)	https://www.dndbeyond.com/magic-items/9787802-hammer-time-uncommon-maul
+Hammer Time (Very Rare Maul)	https://www.dndbeyond.com/magic-items/9787808-hammer-time-very-rare-maul
+Hammer Time (Uncommon Warhammer)	https://www.dndbeyond.com/magic-items/9787803-hammer-time-uncommon-warhammer
+Hammer Time (Very Rare Warhammer)	https://www.dndbeyond.com/magic-items/9787809-hammer-time-very-rare-warhammer
+Headbanger Lute (Uncommon Club)	https://www.dndbeyond.com/magic-items/9787811-headbanger-lute-uncommon-club
+Headbanger Lute (Very Rare Club)	https://www.dndbeyond.com/magic-items/9787813-headbanger-lute-very-rare-club
+Headbanger Lute (Uncommon Greatclub)	https://www.dndbeyond.com/magic-items/9787812-headbanger-lute-uncommon-greatclub
+Headbanger Lute (Very Rare Greatclub)	https://www.dndbeyond.com/magic-items/9787814-headbanger-lute-very-rare-greatclub
+Heliana's Guide to Monster Hunting (Uncommon)	https://www.dndbeyond.com/magic-items/9787816-helianas-guide-to-monster-hunting-uncommon
+Heliana's Guide to Monster Hunting (Very Rare)	https://www.dndbeyond.com/magic-items/9787817-helianas-guide-to-monster-hunting-very-rare
+Jello Shot (Uncommon)	https://www.dndbeyond.com/magic-items/9787821-jello-shot-uncommon
+Jello Shot (Rare)	https://www.dndbeyond.com/magic-items/9787820-jello-shot-rare
+Jello Shot (Very Rare)	https://www.dndbeyond.com/magic-items/9787822-jello-shot-very-rare
+Jello Shot (Legendary)	https://www.dndbeyond.com/magic-items/9787819-jello-shot-legendary
+L'Arsène's Quadnoculars	https://www.dndbeyond.com/magic-items/9787824-larsenes-quadnoculars
+Magnetite Curry (Uncommon)	https://www.dndbeyond.com/magic-items/9787827-magnetite-curry-uncommon
+Magnetite Curry (Rare)	https://www.dndbeyond.com/magic-items/9787826-magnetite-curry-rare
+Magnetite Curry (Very Rare)	https://www.dndbeyond.com/magic-items/9787828-magnetite-curry-very-rare
+Magnetite Curry (Legendary)	https://www.dndbeyond.com/magic-items/9787825-magnetite-curry-legendary
+Magnetite Horn	https://www.dndbeyond.com/magic-items/9787830-magnetite-horn
+Mawling Maul	https://www.dndbeyond.com/magic-items/9787843-mawling-maul
+Mimickey	https://www.dndbeyond.com/magic-items/9787844-mimickey
+Noradreno Mucorales	https://www.dndbeyond.com/magic-items/9787845-noradreno-mucorales
+Oozemat Coat	https://www.dndbeyond.com/magic-items/9787846-oozemat-coat
+Robes of Beaurêve (Rare)	https://www.dndbeyond.com/magic-items/9787848-robes-of-beaureve-rare
+Robes of Beaurêve (Legendary)	https://www.dndbeyond.com/magic-items/9787847-robes-of-beaureve-legendary
+Second Chance	https://www.dndbeyond.com/magic-items/9787850-second-chance
+Shard Crown (Rare)	https://www.dndbeyond.com/magic-items/9787852-shard-crown-rare
+Shard Crown (Very Rare)	https://www.dndbeyond.com/magic-items/9787853-shard-crown-very-rare
+Shard Crown (Legendary)	https://www.dndbeyond.com/magic-items/9787851-shard-crown-legendary
+Slime-in-a-Skull	https://www.dndbeyond.com/magic-items/9787858-slime-in-a-skull
+Snow Wolf Cowl (Uncommon)	https://www.dndbeyond.com/magic-items/9787860-snow-wolf-cowl-uncommon
+Snow Wolf Cowl (Rare)	https://www.dndbeyond.com/magic-items/9787859-snow-wolf-cowl-rare
+Snow Wolf Cowl (Very Rare)	https://www.dndbeyond.com/magic-items/9787861-snow-wolf-cowl-very-rare
+Spelleater Tome	https://www.dndbeyond.com/magic-items/9787865-spelleater-tome
+Uncommon Handaxe	https://www.dndbeyond.com/magic-items/9787871-time-splitter-uncommon-handaxe
+Time Splitter (Rare Handaxe)	https://www.dndbeyond.com/magic-items/9787868-time-splitter-rare-handaxe
+Time Splitter (Uncommon Battleaxe)	https://www.dndbeyond.com/magic-items/9787869-time-splitter-uncommon-battleaxe
+Time Splitter (Rare Battleaxe)	https://www.dndbeyond.com/magic-items/9787866-time-splitter-rare-battleaxe
+Time Splitter (Uncommon Greataxe)	https://www.dndbeyond.com/magic-items/9787870-time-splitter-uncommon-greataxe
+Time Splitter (Rare Greataxe)	https://www.dndbeyond.com/magic-items/9787867-time-splitter-rare-greataxe
+Tinytar	https://www.dndbeyond.com/magic-items/9787873-tinytar
+Tome of Living Memories (Uncommon)	https://www.dndbeyond.com/magic-items/9787875-tome-of-living-memories-uncommon
+Tome of Living Memories (Rare)	https://www.dndbeyond.com/magic-items/9787874-tome-of-living-memories-rare
+Tome of Living Memories (Very Rare)	https://www.dndbeyond.com/magic-items/9787876-tome-of-living-memories-very-rare
+Tongue Twister Tart (Uncommon)	https://www.dndbeyond.com/magic-items/9787880-tongue-twister-tart-uncommon
+Tongue Twister Tart (Rare)	https://www.dndbeyond.com/magic-items/9787879-tongue-twister-tart-rare
+Tongue Twister Tart (Very Rare)	https://www.dndbeyond.com/magic-items/9787881-tongue-twister-tart-very-rare
+Tongue Twister Tart (Legendary)	https://www.dndbeyond.com/magic-items/9787878-tongue-twister-tart-legendary
+Ventilation Unit D-20	https://www.dndbeyond.com/magic-items/9787883-ventilation-unit-d-20
+Bronze Wyrm's Breath Grenade	https://www.dndbeyond.com/magic-items/9787726-bronze-wyrms-breath-grenade
+Copper Wyrm's Breath Grenade	https://www.dndbeyond.com/magic-items/9787737-copper-wyrms-breath-grenade
+Brass Wyrm's Breath Grenade	https://www.dndbeyond.com/magic-items/9787715-brass-wyrms-breath-grenade
+Gold Wyrm's Breath Grenade	https://www.dndbeyond.com/magic-items/9787748-gold-wyrms-breath-grenade
+Silver Wyrm's Breath Grenade	https://www.dndbeyond.com/magic-items/9787855-silver-wyrms-breath-grenade

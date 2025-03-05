@@ -168,7 +168,7 @@ def stock_combined_shop_shelf():
 
         text = get_xlation(item)
         emoticons = get_emoticons(item)
-        price = str(get_item_price(item)) + " GP"
+        price = get_item_price(item)
         notes = ""
 
         # magic items handling
@@ -198,7 +198,7 @@ def stock_combined_shop_shelf():
         output_text += f"__**{item_name}**__\n"
         output_text += f"*{text}*\n"
         output_text += f"{emoticons}\n"
-        output_text += f":moneybag: {price}\n"
+        output_text += f":moneybag: {price:,} GP\n"
 
         if notes != "":
             output_text += f"{notes}\n"

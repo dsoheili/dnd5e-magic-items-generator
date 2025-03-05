@@ -245,9 +245,9 @@ gui_info_text = """
 | 1-20  | 1  - A | 2d100           | 200 | Common           |
 | 21-40 | 2  - B | 3d100           | 300 | Uncommon, minor  |
 | 56-70 | 3  - C | 3d100           | 300 | Rare, minor      |
-| 81-90 | 4  - D | 1d100+1d20      | 120 | Very Rare, minor |
+| 81-90 | 4  - D | 1d100+2d20      | 140 | Very Rare, minor |
 | 96-97 | 5  - E | 1d100           | 100 | Legendary, minor |
-| 41-55 | 6  - F | 2d100+1d20      | 220 | Uncommon, major  |
+| 41-55 | 6  - F | 2d100+2d20      | 240 | Uncommon, major  |
 | 71-80 | 7  - G | 4d100           | 400 | Rare, major      |
 | 91-95 | 8  - H | 3d100           | 300 | Very Rare, major |
 | 98-99 | 9  - I | 2d100           | 200 | Legendary, major |
