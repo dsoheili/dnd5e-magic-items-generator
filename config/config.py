@@ -68,15 +68,15 @@ magic_items_rarity_ranges = {
 number_of_scroll_shop_items = 8
 scroll_rarities_probabilities = {
     "level_0": 0.00,
-    "level_1": 0.30,
-    "level_2": 0.20,
-    "level_3": 0.20,
-    "level_4": 0.10,
-    "level_5": 0.05,
-    "level_6": 0.05,
-    "level_7": 0.04,
-    "level_8": 0.03,
-    "level_9": 0.03
+    "level_1": 0.10,
+    "level_2": 0.15,
+    "level_3": 0.15,
+    "level_4": 0.15,
+    "level_5": 0.15,
+    "level_6": 0.10,
+    "level_7": 0.10,
+    "level_8": 0.05,
+    "level_9": 0.05
 }
 
 # ----- Potion Shop --------
@@ -87,8 +87,8 @@ potion_rarities_probabilities = {
     "rare_potion"       : 0,
     "very_rare_potion"  : 0,
     "legendary_potion"  : 0,
-    "beneficial_potion" : 0.60,
-    "detrimental_potion": 0.40
+    "beneficial_potion" : 0.50,
+    "detrimental_potion": 0.50
 }
 
 # ----- Basic Shop --------
@@ -108,14 +108,14 @@ number_of_combined_shop_items = 12
 combined_shop_rarities_probabilities = {
     "basic"             : 0,
     "common"            : 0,
-    "uncommon_minor"    : 0.30,
+    "uncommon_minor"    : 0.10,
     "rare_minor"        : 0.25,
     "very_rare_minor"   : 0.10,
-    "legendary_minor"   : 0,
-    "uncommon_major"    : 0.15,
-    "rare_major"        : 0.10,
+    "legendary_minor"   : 0.10,
+    "uncommon_major"    : 0.10,
+    "rare_major"        : 0.15,
     "very_rare_major"   : 0.10,
-    "legendary_major"   : 0,
+    "legendary_major"   : 0.10,
     "mythic"            : 0,
     "unknown"           : 0,
     "level_0"           : 0,
@@ -242,12 +242,12 @@ emoticons = {
 gui_info_text = """
 | 1d100 | Table  | Dice            | Max | Rarity           |
 |-------|--------|-----------------|-----|------------------|
-| 1-20  | 1  - A | 2d100           | 200 | Common           |
-| 21-40 | 2  - B | 3d100           | 300 | Uncommon, minor  |
+| 1-20  | 1  - A | 3d100           | 200 | Common           |
+| 21-40 | 2  - B | 4d100           | 400 | Uncommon, minor  |
 | 56-70 | 3  - C | 3d100           | 300 | Rare, minor      |
 | 81-90 | 4  - D | 1d100+2d20      | 140 | Very Rare, minor |
 | 96-97 | 5  - E | 1d100           | 100 | Legendary, minor |
-| 41-55 | 6  - F | 2d100+2d20      | 240 | Uncommon, major  |
+| 41-55 | 6  - F | 2d100+3d20      | 260 | Uncommon, major  |
 | 71-80 | 7  - G | 4d100           | 400 | Rare, major      |
 | 91-95 | 8  - H | 3d100           | 300 | Very Rare, major |
 | 98-99 | 9  - I | 2d100           | 200 | Legendary, major |

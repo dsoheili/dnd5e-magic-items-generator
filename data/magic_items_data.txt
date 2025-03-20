@@ -2717,3 +2717,232 @@ Copper Wyrm's Breath Grenade	https://www.dndbeyond.com/magic-items/9787737-coppe
 Brass Wyrm's Breath Grenade	https://www.dndbeyond.com/magic-items/9787715-brass-wyrms-breath-grenade
 Gold Wyrm's Breath Grenade	https://www.dndbeyond.com/magic-items/9787748-gold-wyrms-breath-grenade
 Silver Wyrm's Breath Grenade	https://www.dndbeyond.com/magic-items/9787855-silver-wyrms-breath-grenade
+A New Look	https://www.dndbeyond.com/magic-items/9853506-a-new-look
+Anglerfish Helm	https://www.dndbeyond.com/magic-items/9853507-anglerfish-helm
+Animal Affinity	https://www.dndbeyond.com/magic-items/9853508-animal-affinity
+Arcane Solvent	https://www.dndbeyond.com/magic-items/9853509-arcane-solvent
+Astounding Vigor	https://www.dndbeyond.com/magic-items/9853510-astounding-vigor
+Audio Oddity	https://www.dndbeyond.com/magic-items/9853511-audio-oddity
+Baffled Candle	https://www.dndbeyond.com/magic-items/9853512-baffled-candle
+Beard Brew	https://www.dndbeyond.com/magic-items/9853514-beard-brew
+Beast Hide	https://www.dndbeyond.com/magic-items/9853515-beast-hide
+Bell of Resonance	https://www.dndbeyond.com/magic-items/9853516-bell-of-resonance
+Blessing of the Moon Spirit	https://www.dndbeyond.com/magic-items/9853518-blessing-of-the-moon-spirit
+Boots of the Stampede	https://www.dndbeyond.com/magic-items/9853522-boots-of-the-stampede
+Bottled Bind	https://www.dndbeyond.com/magic-items/9853523-bottled-bind
+Bottled Bomb	https://www.dndbeyond.com/magic-items/9853524-bottled-bomb
+Bottled Slime	https://www.dndbeyond.com/magic-items/9853525-bottled-slime
+Bottled Torch	https://www.dndbeyond.com/magic-items/9853526-bottled-torch
+Bowark's Bombastic Beer	https://www.dndbeyond.com/magic-items/9853527-bowarks-bombastic-beer
+Breakfast in a Bottle	https://www.dndbeyond.com/magic-items/9853528-breakfast-in-a-bottle
+Brute Brew	https://www.dndbeyond.com/magic-items/9853529-brute-brew
+Bubble Message	https://www.dndbeyond.com/magic-items/9853530-bubble-message
+Burnright Brand Hair Dryer	https://www.dndbeyond.com/magic-items/9853531-burnright-brand-hair-dryer
+Candlecap	https://www.dndbeyond.com/magic-items/9853533-candlecap
+Canseco Bat	https://www.dndbeyond.com/magic-items/9853535-canseco-bat
+Carbonated Snake	https://www.dndbeyond.com/magic-items/9853536-carbonated-snake
+Carla Cackletooth's Corruption Cocktail	https://www.dndbeyond.com/magic-items/9853537-carla-cackletooths-corruption-cocktail
+Cat's Eye	https://www.dndbeyond.com/magic-items/9853538-cats-eye
+Catspeed	https://www.dndbeyond.com/magic-items/9853539-catspeed
+Cave Diver	https://www.dndbeyond.com/magic-items/9853540-cave-diver
+Censer of Arguing Spirits	https://www.dndbeyond.com/magic-items/9853541-censer-of-arguing-spirits
+Chicken Chaser	https://www.dndbeyond.com/magic-items/9853542-chicken-chaser
+Cinderskin	https://www.dndbeyond.com/magic-items/9853543-cinderskin
+Claws of the Crab King	https://www.dndbeyond.com/magic-items/9853544-claws-of-the-crab-king
+Cloud-Touched Boomerang	https://www.dndbeyond.com/magic-items/9853545-cloud-touched-boomerang
+Coin's Edge	https://www.dndbeyond.com/magic-items/9853547-coins-edge
+Corrupted Pendant	https://www.dndbeyond.com/magic-items/9853549-corrupted-pendant
+Crafter's Brew	https://www.dndbeyond.com/magic-items/9853550-crafters-brew
+CRT TV and Chicken Timer	https://www.dndbeyond.com/magic-items/9853551-crt-tv-and-chicken-timer
+Crystal Clear	https://www.dndbeyond.com/magic-items/9853552-crystal-clear
+Cube of Cubes	https://www.dndbeyond.com/magic-items/9853553-cube-of-cubes
+Dancing Feet	https://www.dndbeyond.com/magic-items/9853555-dancing-feet
+Dancing Juice	https://www.dndbeyond.com/magic-items/9853556-dancing-juice
+Demonskin	https://www.dndbeyond.com/magic-items/9853559-demonskin
+Detective's Tonic	https://www.dndbeyond.com/magic-items/9853560-detectives-tonic
+Disappearing Act	https://www.dndbeyond.com/magic-items/9853561-disappearing-act
+Displacement Field	https://www.dndbeyond.com/magic-items/9853562-displacement-field
+Don't Hit Me Juice	https://www.dndbeyond.com/magic-items/9853564-dont-hit-me-juice
+Don't Eat Dirt	https://www.dndbeyond.com/magic-items/9853563-dont-eat-dirt
+Dragon Frog Transmutation	https://www.dndbeyond.com/magic-items/9853565-dragon-frog-transmutation
+Duck Foot	https://www.dndbeyond.com/magic-items/9853567-duck-foot
+Duko the Trickster's Elixir	https://www.dndbeyond.com/magic-items/9853568-duko-the-tricksters-elixir
+Durability	https://www.dndbeyond.com/magic-items/9853569-durability
+Eagle's Vision	https://www.dndbeyond.com/magic-items/9853570-eagles-vision
+Elder Elixir	https://www.dndbeyond.com/magic-items/9853571-elder-elixir
+Elixir of Echoes	https://www.dndbeyond.com/magic-items/9853572-elixir-of-echoes
+Elixir of Jipampa	https://www.dndbeyond.com/magic-items/9853573-elixir-of-jipampa
+Elixir of Omnimind	https://www.dndbeyond.com/magic-items/9853574-elixir-of-omnimind
+Enhanced Bottled Bomb	https://www.dndbeyond.com/magic-items/9853575-enhanced-bottled-bomb
+Enhanced Lightning Breath	https://www.dndbeyond.com/magic-items/9853576-enhanced-lightning-breath
+Enhanced Static Shock	https://www.dndbeyond.com/magic-items/9853577-enhanced-static-shock
+Epic Bottled Bomb	https://www.dndbeyond.com/magic-items/9853578-epic-bottled-bomb
+Essence of Great Rivers	https://www.dndbeyond.com/magic-items/9853579-essence-of-great-rivers
+Essence of the River Spirit	https://www.dndbeyond.com/magic-items/9853580-essence-of-the-river-spirit
+Essence of Umami	https://www.dndbeyond.com/magic-items/9853581-essence-of-umami
+Eye Kite	https://www.dndbeyond.com/magic-items/9853582-eye-kite
+Eyes of Akibu	https://www.dndbeyond.com/magic-items/9853583-eyes-of-akibu
+Face of Fugari	https://www.dndbeyond.com/magic-items/9853584-face-of-fugari
+Familiar's Collar	https://www.dndbeyond.com/magic-items/9853585-familiars-collar
+Field Cauldron	https://www.dndbeyond.com/magic-items/9853587-field-cauldron
+Fire Shield	https://www.dndbeyond.com/magic-items/9853589-fire-shield
+Fishermans Spear	https://www.dndbeyond.com/magic-items/9853591-fishermans-spear
+Flip and Skip	https://www.dndbeyond.com/magic-items/9853593-flip-and-skip
+Fluffplum Tonic	https://www.dndbeyond.com/magic-items/9853594-fluffplum-tonic
+Flying Broomstick	https://www.dndbeyond.com/magic-items/9853595-flying-broomstick
+Gametoy	https://www.dndbeyond.com/magic-items/9853597-gametoy
+Gardner's Solution	https://www.dndbeyond.com/magic-items/9853598-gardners-solution
+Gargoyle Hooch	https://www.dndbeyond.com/magic-items/9853599-gargoyle-hooch
+Glowskin	https://www.dndbeyond.com/magic-items/9853601-glowskin
+Gobble Gunk	https://www.dndbeyond.com/magic-items/9853602-gobble-gunk
+Grand Friendship	https://www.dndbeyond.com/magic-items/9853603-grand-friendship
+Grandma's Turnip Soup	https://www.dndbeyond.com/magic-items/9853604-grandmas-turnip-soup
+Guardian Spheres	https://www.dndbeyond.com/magic-items/9853608-guardian-spheres
+Healing Gas	https://www.dndbeyond.com/magic-items/9853612-healing-gas
+Herbalist's Aid	https://www.dndbeyond.com/magic-items/9853614-herbalists-aid
+Hero's Blade	https://www.dndbeyond.com/magic-items/9853617-heros-blade
+Heroism	https://www.dndbeyond.com/magic-items/9853615-heroism
+Heron's Eye Ring	https://www.dndbeyond.com/magic-items/9853616-herons-eye-ring
+Hidden Hand	https://www.dndbeyond.com/magic-items/9853618-hidden-hand
+Hindsight	https://www.dndbeyond.com/magic-items/9853619-hindsight
+Homegrown	https://www.dndbeyond.com/magic-items/9853620-homegrown
+Homeward Tonic	https://www.dndbeyond.com/magic-items/9853621-homeward-tonic
+Hover Hopper	https://www.dndbeyond.com/magic-items/9853622-hover-hopper
+Hsirebbig	https://www.dndbeyond.com/magic-items/9853623-hsirebbig
+Hunter's Speed	https://www.dndbeyond.com/magic-items/9853624-hunters-speed
+Hurler's Gloves	https://www.dndbeyond.com/magic-items/9853625-hurlers-gloves
+Illusion in a Bottle	https://www.dndbeyond.com/magic-items/9853626-illusion-in-a-bottle
+Incoming!	https://www.dndbeyond.com/magic-items/9853627-incoming
+Incredible Luck	https://www.dndbeyond.com/magic-items/9853628-incredible-luck
+Instaprint Camera	https://www.dndbeyond.com/magic-items/9853629-instaprint-camera
+Intoxicating Aroma	https://www.dndbeyond.com/magic-items/9853630-intoxicating-aroma
+Invisible Tonic	https://www.dndbeyond.com/magic-items/9853631-invisible-tonic
+Invulnerability	https://www.dndbeyond.com/magic-items/9853632-invulnerability
+Iron Belly	https://www.dndbeyond.com/magic-items/9853633-iron-belly
+Iron Mind	https://www.dndbeyond.com/magic-items/9853634-iron-mind
+Irresistible Charm	https://www.dndbeyond.com/magic-items/9853636-irresistible-charm
+Island Nectar	https://www.dndbeyond.com/magic-items/9853637-island-nectar
+Jabbadoon's Feather	https://www.dndbeyond.com/magic-items/9853638-jabbadoons-feather
+Keening Voice	https://www.dndbeyond.com/magic-items/9853640-keening-voice
+Keys to the Sandcastle	https://www.dndbeyond.com/magic-items/9853641-keys-to-the-sandcastle
+Keytar	https://www.dndbeyond.com/magic-items/9853642-keytar
+Kinetic Pop	https://www.dndbeyond.com/magic-items/9853643-kinetic-pop
+Ladybug Kinship	https://www.dndbeyond.com/magic-items/9853644-ladybug-kinship
+Lafula's Iron Teapot	https://www.dndbeyond.com/magic-items/9853645-lafulas-iron-teapot
+Language Lore	https://www.dndbeyond.com/magic-items/9853647-language-lore
+Last Resort	https://www.dndbeyond.com/magic-items/9853648-last-resort
+Life-Steal	https://www.dndbeyond.com/magic-items/9853649-life-steal
+Lifetime Supply	https://www.dndbeyond.com/magic-items/9853650-lifetime-supply
+Lightning Breath	https://www.dndbeyond.com/magic-items/9853653-lightning-breath
+Liquid Arcana	https://www.dndbeyond.com/magic-items/9853654-liquid-arcana
+Liquid Cat	https://www.dndbeyond.com/magic-items/9853655-liquid-cat
+Liquid Disguise	https://www.dndbeyond.com/magic-items/9853656-liquid-disguise
+Liquid Dispel	https://www.dndbeyond.com/magic-items/9853657-liquid-dispel
+Liquid Lockpick	https://www.dndbeyond.com/magic-items/9853658-liquid-lockpick
+Liquid Mending	https://www.dndbeyond.com/magic-items/9853659-liquid-mending
+Lunar Elixir	https://www.dndbeyond.com/magic-items/9853675-lunar-elixir
+Lunar Weapon	https://www.dndbeyond.com/magic-items/9853719-lunar-weapon
+Machine Oil	https://www.dndbeyond.com/magic-items/9853722-machine-oil
+Manifested Nostalgia	https://www.dndbeyond.com/magic-items/9853723-manifested-nostalgia
+Many Hands	https://www.dndbeyond.com/magic-items/9853724-many-hands
+Meditative Trance	https://www.dndbeyond.com/magic-items/9853726-meditative-trance
+Melodious Bird Calls	https://www.dndbeyond.com/magic-items/9853727-melodious-bird-calls
+Merriment	https://www.dndbeyond.com/magic-items/9853729-merriment
+Mind Over Might	https://www.dndbeyond.com/magic-items/9853730-mind-over-might
+Mind Transfer	https://www.dndbeyond.com/magic-items/9853731-mind-transfer
+Mosspot	https://www.dndbeyond.com/magic-items/9853733-mosspot
+Move A Thing	https://www.dndbeyond.com/magic-items/9853734-move-a-thing
+Musical Mixer	https://www.dndbeyond.com/magic-items/9853735-musical-mixer
+New Life	https://www.dndbeyond.com/magic-items/9853737-new-life
+Newly Found Magic	https://www.dndbeyond.com/magic-items/9853738-newly-found-magic
+Object Embodiment	https://www.dndbeyond.com/magic-items/9853739-object-embodiment
+Oiki's Pinwheel	https://www.dndbeyond.com/magic-items/9853740-oikis-pinwheel
+Oil of the Trademark Flourish	https://www.dndbeyond.com/magic-items/9853741-oil-of-the-trademark-flourish
+Only Members Jacket	https://www.dndbeyond.com/magic-items/9853742-only-members-jacket
+Painter's Sun Hat	https://www.dndbeyond.com/magic-items/9853743-painters-sun-hat
+Paradise Plumage	https://www.dndbeyond.com/magic-items/9853744-paradise-plumage
+Paranoia	https://www.dndbeyond.com/magic-items/9853745-paranoia
+Passing Memory	https://www.dndbeyond.com/magic-items/9853746-passing-memory
+Pathseeking	https://www.dndbeyond.com/magic-items/9853747-pathseeking
+Pendants of Belonging	https://www.dndbeyond.com/magic-items/9853748-pendants-of-belonging
+Perfect Memory	https://www.dndbeyond.com/magic-items/9853749-perfect-memory
+Phoenix Elixir	https://www.dndbeyond.com/magic-items/9853750-phoenix-elixir
+Photosynthetic Skin	https://www.dndbeyond.com/magic-items/9853751-photosynthetic-skin
+Pig Snout	https://www.dndbeyond.com/magic-items/9853752-pig-snout
+Pigment	https://www.dndbeyond.com/magic-items/9853753-pigment
+Pocket Portal	https://www.dndbeyond.com/magic-items/9853755-pocket-portal
+Pocket Stomach	https://www.dndbeyond.com/magic-items/9853756-pocket-stomach
+Potion of Attunement	https://www.dndbeyond.com/magic-items/9853757-potion-of-attunement
+Potion of Exertion	https://www.dndbeyond.com/magic-items/9853758-potion-of-exertion
+Potion of Fog	https://www.dndbeyond.com/magic-items/9853759-potion-of-fog
+Potion of Freezing	https://www.dndbeyond.com/magic-items/9853760-potion-of-freezing
+Potion of Healing Touch	https://www.dndbeyond.com/magic-items/9853761-potion-of-healing-touch
+Potion of Holistic Wellness	https://www.dndbeyond.com/magic-items/9853762-potion-of-holistic-wellness
+Potion of Reprieve	https://www.dndbeyond.com/magic-items/9853763-potion-of-reprieve
+Potion of Soft Steps	https://www.dndbeyond.com/magic-items/9853764-potion-of-soft-steps
+Prickleskin	https://www.dndbeyond.com/magic-items/9853765-prickleskin
+Projected Thoughts	https://www.dndbeyond.com/magic-items/9853766-projected-thoughts
+Pumpkin Patch Guard	https://www.dndbeyond.com/magic-items/9853767-pumpkin-patch-guard
+Punch Card	https://www.dndbeyond.com/magic-items/9853768-punch-card
+Rabbit's Speed	https://www.dndbeyond.com/magic-items/9853770-rabbits-speed
+Rapid Withdrawal	https://www.dndbeyond.com/magic-items/9853771-rapid-withdrawal
+Ratatam's Glowskin Elixir	https://www.dndbeyond.com/magic-items/9853773-ratatams-glowskin-elixir
+Respiratory Distress	https://www.dndbeyond.com/magic-items/9853774-respiratory-distress
+Roake's Clay Urn	https://www.dndbeyond.com/magic-items/9853775-roakes-clay-urn
+Rubberskin	https://www.dndbeyond.com/magic-items/9853776-rubberskin
+Ruby Red Bike	https://www.dndbeyond.com/magic-items/9853777-ruby-red-bike
+Scarf of Muffling	https://www.dndbeyond.com/magic-items/9853778-scarf-of-muffling
+Scuttling Lantern	https://www.dndbeyond.com/magic-items/9853780-scuttling-lantern
+Secret Path	https://www.dndbeyond.com/magic-items/9853781-secret-path
+Seeking Smoke	https://www.dndbeyond.com/magic-items/9853783-seeking-smoke
+Sensorius Maximus	https://www.dndbeyond.com/magic-items/9853784-sensorius-maximus
+Severed Reaction	https://www.dndbeyond.com/magic-items/9853785-severed-reaction
+Shadow Child	https://www.dndbeyond.com/magic-items/9853786-shadow-child
+Shadow Puppet	https://www.dndbeyond.com/magic-items/9853787-shadow-puppet
+Sharp Mind	https://www.dndbeyond.com/magic-items/9853788-sharp-mind
+Sheep Dragon Brew	https://www.dndbeyond.com/magic-items/9853789-sheep-dragon-brew
+Shepherd's Bane	https://www.dndbeyond.com/magic-items/9853791-shepherds-bane
+Sibling Purses	https://www.dndbeyond.com/magic-items/9853795-sibling-purses
+Simulacrum Elixir	https://www.dndbeyond.com/magic-items/9853797-simulacrum-elixir
+Sky Swimming	https://www.dndbeyond.com/magic-items/9853798-sky-swimming
+Slugskin	https://www.dndbeyond.com/magic-items/9853800-slugskin
+Soda Cans	https://www.dndbeyond.com/magic-items/9853801-soda-cans
+Soft Paw	https://www.dndbeyond.com/magic-items/9853802-soft-paw
+Solar Amulet	https://www.dndbeyond.com/magic-items/9853803-solar-amulet
+Spirit Appendage	https://www.dndbeyond.com/magic-items/9853805-spirit-appendage
+Spirit Armor	https://www.dndbeyond.com/magic-items/9853806-spirit-armor
+Spirit of Salyri	https://www.dndbeyond.com/magic-items/9853807-spirit-of-salyri
+Spirit Repellent	https://www.dndbeyond.com/magic-items/9853808-spirit-repellent
+Spirit Sweets	https://www.dndbeyond.com/magic-items/9853809-spirit-sweets
+Spiritual Rebuke	https://www.dndbeyond.com/magic-items/9853810-spiritual-rebuke
+Splinter Bow	https://www.dndbeyond.com/magic-items/9853811-splinter-bow
+Static Shock	https://www.dndbeyond.com/magic-items/9853817-static-shock
+Sticky Hand	https://www.dndbeyond.com/magic-items/9853818-sticky-hand
+Stink Brew	https://www.dndbeyond.com/magic-items/9853819-stink-brew
+Sunbaked Cassettes	https://www.dndbeyond.com/magic-items/9853820-sunbaked-cassettes
+Sunken Suitcase	https://www.dndbeyond.com/magic-items/9853821-sunken-suitcase
+Super Singing	https://www.dndbeyond.com/magic-items/9853822-super-singing
+Talisman of the Phoenix	https://www.dndbeyond.com/magic-items/9853823-talisman-of-the-phoenix
+Thunderbelch	https://www.dndbeyond.com/magic-items/9853825-thunderbelch
+Tiny Bubbles	https://www.dndbeyond.com/magic-items/9853826-tiny-bubbles
+Tiny Telekinesis	https://www.dndbeyond.com/magic-items/9853827-tiny-telekinesis
+Travel Wok	https://www.dndbeyond.com/magic-items/9853828-travel-wok
+Tunnel Vision	https://www.dndbeyond.com/magic-items/9853830-tunnel-vision
+Twin Telepathy	https://www.dndbeyond.com/magic-items/9853831-twin-telepathy
+Twin Vision	https://www.dndbeyond.com/magic-items/9853832-twin-vision
+Umbrella of Shielding	https://www.dndbeyond.com/magic-items/9853833-umbrella-of-shielding
+Umi's Powerful Undertow	https://www.dndbeyond.com/magic-items/9853835-umis-powerful-undertow
+Uncanny Focus	https://www.dndbeyond.com/magic-items/9853836-uncanny-focus
+Unified Might	https://www.dndbeyond.com/magic-items/9853837-unified-might
+Unknown Elixir	https://www.dndbeyond.com/magic-items/9853838-unknown-elixir
+Ups-A-Daisy	https://www.dndbeyond.com/magic-items/9853839-ups-a-daisy
+Vocal Stranger	https://www.dndbeyond.com/magic-items/9853842-vocal-stranger
+Water Breathing	https://www.dndbeyond.com/magic-items/9853846-water-breathing
+Weapon Master's Elixir	https://www.dndbeyond.com/magic-items/9853847-weapon-masters-elixir
+Weapon of the Sun and Moon	https://www.dndbeyond.com/magic-items/9853848-weapon-of-the-sun-and-moon
+Witch's Hidden Gem	https://www.dndbeyond.com/magic-items/9853850-witchs-hidden-gem
+Witch's Lament	https://www.dndbeyond.com/magic-items/9853851-witchs-lament
+Withered Will	https://www.dndbeyond.com/magic-items/9853852-withered-will
+Wonder Juice	https://www.dndbeyond.com/magic-items/9853853-wonder-juice
+Wrathful Spirit	https://www.dndbeyond.com/magic-items/9853854-wrathful-spirit
+Yappa Mask	https://www.dndbeyond.com/magic-items/9853855-yappa-mask
