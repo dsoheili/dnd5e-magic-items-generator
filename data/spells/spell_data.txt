@@ -717,3 +717,68 @@ Feverskin	https://www.dndbeyond.com/spells/2840686-feverskin
 Gravity Smash	https://www.dndbeyond.com/spells/2840664-gravity-smash
 Lungburst	https://www.dndbeyond.com/spells/2840662-lungburst
 Arcanomagnetic Storm	https://www.dndbeyond.com/spells/2840685-arcanomagnetic-storm
+Jolt	https://www.dndbeyond.com/spells/2857522-jolt
+Resilient Friendship	https://www.dndbeyond.com/spells/2857524-resilient-friendship
+Retrieve	https://www.dndbeyond.com/spells/2857542-retrieve
+Root Grab	https://www.dndbeyond.com/spells/2857543-root-grab
+Task	https://www.dndbeyond.com/spells/2857553-task
+Armament	https://www.dndbeyond.com/spells/2857557-armament
+Bubble Lift	https://www.dndbeyond.com/spells/2857561-bubble-lift
+Duplicate	https://www.dndbeyond.com/spells/2857526-duplicate
+Forest Guard	https://www.dndbeyond.com/spells/2857569-forest-guard
+Gift	https://www.dndbeyond.com/spells/2857941-gift
+Pacify Person	https://www.dndbeyond.com/spells/2857538-pacify-person
+Sand Structure	https://www.dndbeyond.com/spells/2857544-sand-structure
+Sprout Foliage	https://www.dndbeyond.com/spells/2857546-sprout-foliage
+Summon Vehicle	https://www.dndbeyond.com/spells/2857547-summon-vehicle
+Swallow Magic	https://www.dndbeyond.com/spells/2857528-swallow-magic
+Water Bullet	https://www.dndbeyond.com/spells/2857520-water-bullet
+Whelm Weapon	https://www.dndbeyond.com/spells/2857521-whelm-weapon
+At Your Side	https://www.dndbeyond.com/spells/2857558-at-your-side
+Beast Transmutation	https://www.dndbeyond.com/spells/2857559-beast-transmutation
+Control Animal	https://www.dndbeyond.com/spells/2857563-control-animal
+Counterspy	https://www.dndbeyond.com/spells/2857564-counterspy
+Ember Belly	https://www.dndbeyond.com/spells/2857530-ember-belly
+Monkey's Grasp	https://www.dndbeyond.com/spells/2857533-monkeys-grasp
+Mushroom Ballista	https://www.dndbeyond.com/spells/2857534-mushroom-ballista
+Obscure Object	https://www.dndbeyond.com/spells/2857531-obscure-object
+Pillar of Force	https://www.dndbeyond.com/spells/2857539-pillar-of-force
+Rageful Nimbus	https://www.dndbeyond.com/spells/2857549-rageful-nimbus
+Shared Vision	https://www.dndbeyond.com/spells/2857545-shared-vision
+Spell Signature	https://www.dndbeyond.com/spells/2857550-spell-signature
+Switched Form	https://www.dndbeyond.com/spells/2857548-switched-form
+Transparency	https://www.dndbeyond.com/spells/2857554-transparency
+Wind Sprint	https://www.dndbeyond.com/spells/2857556-wind-sprint
+Butterfly Storm	https://www.dndbeyond.com/spells/2857560-butterfly-storm
+Conjure Ocean	https://www.dndbeyond.com/spells/2857562-conjure-ocean
+Dara Blocks	https://www.dndbeyond.com/spells/2857566-dara-blocks
+Light Snare	https://www.dndbeyond.com/spells/2857536-light-snare
+Plummet	https://www.dndbeyond.com/spells/2857540-plummet
+Pogmo's Pot	https://www.dndbeyond.com/spells/2857541-pogmos-pot
+Vegetable Blade	https://www.dndbeyond.com/spells/2857555-vegetable-blade
+Pacify Monster	https://www.dndbeyond.com/spells/2857537-pacify-monster
+Storm Stallion	https://www.dndbeyond.com/spells/2857551-storm-stallion
+Create Spirit Train Stop	https://www.dndbeyond.com/spells/2857527-create-spirit-train-stop
+Festival King	https://www.dndbeyond.com/spells/2857568-festival-king
+Mass Levitate	https://www.dndbeyond.com/spells/2857532-mass-levitate
+Origami Bird Swarm	https://www.dndbeyond.com/spells/2857535-origami-bird-swarm
+Submerge	https://www.dndbeyond.com/spells/2857525-submerge
+Summon Jack-o'-Lantern	https://www.dndbeyond.com/spells/2857552-summon-jack-o-lantern
+Tamh Gon's Fiery Festival Feast	https://www.dndbeyond.com/spells/2857529-tamh-gons-fiery-festival-feast
+Crustacean Form	https://www.dndbeyond.com/spells/2857565-crustacean-form
+Divine Arrow	https://www.dndbeyond.com/spells/2857567-divine-arrow
+Finger Guns	https://www.dndbeyond.com/spells/2872690-finger-guns
+Moment to Think	https://www.dndbeyond.com/spells/2872694-moment-to-think
+Accelerate/Decelerate	https://www.dndbeyond.com/spells/2872684-accelerate-decelerate
+Clue	https://www.dndbeyond.com/spells/2872685-clue
+Delay	https://www.dndbeyond.com/spells/2872686-delay
+Memorize	https://www.dndbeyond.com/spells/2872693-memorize
+Rumor	https://www.dndbeyond.com/spells/2872698-rumor
+Defenestration	https://www.dndbeyond.com/spells/2872688-defenestration
+Hangover	https://www.dndbeyond.com/spells/2872692-hangover
+Recall	https://www.dndbeyond.com/spells/2872697-recall
+Polybrachia	https://www.dndbeyond.com/spells/2872696-polybrachia
+Dire Warning	https://www.dndbeyond.com/spells/2872687-dire-warning
+Mandy's Feral Follower	https://www.dndbeyond.com/spells/2872689-mandys-feral-follower
+Game of Fate	https://www.dndbeyond.com/spells/2872691-game-of-fate
+Paradox	https://www.dndbeyond.com/spells/2872695-paradox

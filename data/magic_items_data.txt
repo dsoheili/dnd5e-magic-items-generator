@@ -2946,3 +2946,8 @@ Withered Will	https://www.dndbeyond.com/magic-items/9853852-withered-will
 Wonder Juice	https://www.dndbeyond.com/magic-items/9853853-wonder-juice
 Wrathful Spirit	https://www.dndbeyond.com/magic-items/9853854-wrathful-spirit
 Yappa Mask	https://www.dndbeyond.com/magic-items/9853855-yappa-mask
+Frog Prince Statuette	https://www.dndbeyond.com/magic-items/9918630-frog-prince-statuette
+Leonora's Throne of Indolence	https://www.dndbeyond.com/magic-items/9918631-leonoras-throne-of-indolence
+Memento Mori	https://www.dndbeyond.com/magic-items/9918632-memento-mori
+Portable Cannonballs	https://www.dndbeyond.com/magic-items/9918633-portable-cannonballs
+Ring of Barrels	https://www.dndbeyond.com/magic-items/9918634-ring-of-barrels
