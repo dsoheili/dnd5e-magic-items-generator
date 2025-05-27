@@ -1,12 +1,7 @@
 # Player character names for GUI
 character_names = [
-    "Anya",
-    "Faewynn",
-    "Josephine",
-    "Nex",
-    "Silvanus",
-    "Thalia",
-    "Wabuu",
+    "Player_1",
+    "Player_2",
     "NPC"
 ]
 
@@ -106,21 +101,21 @@ item_condition_mapping = {
 # ----- Combined Shop --------
 number_of_combined_shop_items = 12
 combined_shop_rarities_probabilities = {
-    "basic"             : 0,
-    "common"            : 0,
-    "uncommon_minor"    : 0,
-    "rare_minor"        : 0.25,
-    "very_rare_minor"   : 0.15,
-    "legendary_minor"   : 0.15,
-    "uncommon_major"    : 0,
-    "rare_major"        : 0.15,
-    "very_rare_major"   : 0.15,
-    "legendary_major"   : 0.15,
+    "basic"             : 0.35,
+    "common"            : 0.40,
+    "uncommon_minor"    : 0.15,
+    "rare_minor"        : 0,
+    "very_rare_minor"   : 0,
+    "legendary_minor"   : 0,
+    "uncommon_major"    : 0.05,
+    "rare_major"        : 0,
+    "very_rare_major"   : 0,
+    "legendary_major"   : 0,
     "mythic"            : 0,
     "unknown"           : 0,
-    "level_0"           : 0,
-    "level_1"           : 0,
-    "level_2"           : 0,
+    "level_0"           : 0.02,
+    "level_1"           : 0.02,
+    "level_2"           : 0.01,
     "level_3"           : 0,
     "level_4"           : 0,
     "level_5"           : 0,
@@ -138,35 +133,35 @@ combined_shop_rarities_probabilities = {
 }
 
 price_ranges = {
-    "basic"             : (50, 300),
-    "common"            : (300, 500),
-    "uncommon_minor"    : (501, 1000),
-    "rare_minor"        : (1001, 5000),
-    "very_rare_minor"   : (5001, 10000),
-    "legendary_minor"   : (10001, 20000),
-    "uncommon_major"    : (1000, 2000),
-    "rare_major"        : (5001, 10000),
-    "very_rare_major"   : (10001, 25000),
-    "legendary_major"   : (25001, 50000),
-    "mythic"            : (50001, 100000),
-    "unknown"           : (100000, 200000),
-    "level_0"           : (10, 50),
-    "level_1"           : (200, 400),
-    "level_2"           : (400, 800),
-    "level_3"           : (1000, 2000),
-    "level_4"           : (2000, 4000),
-    "level_5"           : (4000, 10000),
-    "level_6"           : (10000, 15000),
-    "level_7"           : (15000, 25000),
-    "level_8"           : (25000, 30000),
-    "level_9"           : (30000, 40000),
-    "common_potion"     : (100, 500),
-    "uncommon_potion"   : (501, 1000),
-    "rare_potion"       : (1001, 5000),
-    "very_rare_potion"  : (5001, 10000),
-    "legendary_potion"  : (10001, 20000),
-    "beneficial_potion" : (600, 1200),
-    "detrimental_potion": (700, 1500)
+    "basic"             : (50, 100),
+    "common"            : (100, 200),
+    "uncommon_minor"    : (320, 480),
+    "rare_minor"        : (3200, 4800),
+    "very_rare_minor"   : (32000, 48000),
+    "legendary_minor"   : (160000, 240000),
+    "uncommon_major"    : (400, 600),
+    "rare_major"        : (4000, 6000),
+    "very_rare_major"   : (40000, 60000),
+    "legendary_major"   : (200000, 300000),
+    "mythic"            : (250000, 400000),
+    "unknown"           : (500000, 1000000),
+    "level_0"           : (50, 50),
+    "level_1"           : (100, 100),
+    "level_2"           : (200, 200),
+    "level_3"           : (400, 400),
+    "level_4"           : (800, 800),
+    "level_5"           : (1600, 1600),
+    "level_6"           : (3200, 3200),
+    "level_7"           : (6400, 6400),
+    "level_8"           : (12800, 12800),
+    "level_9"           : (25600, 25600),
+    "common_potion"     : (50, 50),
+    "uncommon_potion"   : (200, 200),
+    "rare_potion"       : (2000, 2000),
+    "very_rare_potion"  : (20000, 20000),
+    "legendary_potion"  : (100000, 100000),
+    "beneficial_potion" : (800, 1200),
+    "detrimental_potion": (600, 900)
 }
 
 xlations = {
@@ -242,7 +237,7 @@ emoticons = {
 gui_info_text = """
 | 1d100 | Table  | Dice            | Max | Rarity           |
 |-------|--------|-----------------|-----|------------------|
-| 1-20  | 1  - A | 3d100           | 200 | Common           |
+| 1-20  | 1  - A | 3d100           | 300 | Common           |
 | 21-40 | 2  - B | 4d100           | 400 | Uncommon, minor  |
 | 56-70 | 3  - C | 3d100           | 300 | Rare, minor      |
 | 81-90 | 4  - D | 1d100+2d20      | 140 | Very Rare, minor |

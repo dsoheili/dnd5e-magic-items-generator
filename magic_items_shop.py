@@ -171,6 +171,8 @@ def stock_combined_shop_shelf():
         price = get_item_price(item)
         notes = ""
 
+        price = f"{price:,} GP"
+
         # magic items handling
         if item in magic_items_rarities_probabilities:
             item_name = get_magic_item(item)
@@ -198,7 +200,7 @@ def stock_combined_shop_shelf():
         output_text += f"__**{item_name}**__\n"
         output_text += f"*{text}*\n"
         output_text += f"{emoticons}\n"
-        output_text += f":moneybag: {price:,} GP\n"
+        output_text += f":moneybag: {price}\n"
 
         if notes != "":
             output_text += f"{notes}\n"
