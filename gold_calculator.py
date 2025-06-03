@@ -4,28 +4,35 @@ from common.common_methods import *
 from config.config import *
 
 def calculate_gp_drop(cr, num_monsters):
+    """Calculate gold drop for monsters using simple ranges"""
     total_gp = 0
+    
+    # Find the appropriate range for this CR
+    min_gold, max_gold = get_gold_range_for_cr(cr)
+    
     for _ in range(num_monsters):
-        if cr == 0:
-            gp_drop = roll_multiple_dice(1, 10, 0)
-        elif 0.125 <= cr <= 0.5:
-            gp_drop = roll_multiple_dice(2, 10, 5)
-        elif cr == 1:
-            gp_drop = roll_multiple_dice(4, 10, 10)
-        elif 2 <= cr <= 3:
-            gp_drop = roll_multiple_dice(6, 20, 30)
-        elif 4 <= cr <= 5:
-            gp_drop = roll_multiple_dice(8, 50, 100)
-        elif 6 <= cr <= 10:
-            gp_drop = roll_multiple_dice(10, 100, 200)
-        elif 11 <= cr <= 15:
-            gp_drop = roll_multiple_dice(15, 100, 500)
-        elif 16 <= cr <= 20:
-            gp_drop = roll_multiple_dice(20, 100, 1000)
-        elif cr >= 21:
-            gp_drop = roll_multiple_dice(25, 200, 2000)
+        gp_drop = random.randint(min_gold, max_gold)
         total_gp += gp_drop
+    
     return total_gp
+
+def get_gold_range_for_cr(cr):
+    """Get gold range for a specific CR, with fallback logic"""
+    # Direct match first
+    if cr in gold_drop_by_cr:
+        return gold_drop_by_cr[cr]
+    
+    # Find closest CR if exact match not found
+    available_crs = sorted(gold_drop_by_cr.keys())
+    
+    if cr < available_crs[0]:
+        return gold_drop_by_cr[available_crs[0]]
+    elif cr > available_crs[-1]:
+        return gold_drop_by_cr[available_crs[-1]]
+    else:
+        # Find the closest CR
+        closest_cr = min(available_crs, key=lambda x: abs(x - cr))
+        return gold_drop_by_cr[closest_cr]
 
 def submit_cr():
     try:

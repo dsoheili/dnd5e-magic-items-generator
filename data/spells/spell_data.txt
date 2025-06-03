@@ -782,3 +782,26 @@ Dire Warning	https://www.dndbeyond.com/spells/2872687-dire-warning
 Mandy's Feral Follower	https://www.dndbeyond.com/spells/2872689-mandys-feral-follower
 Game of Fate	https://www.dndbeyond.com/spells/2872691-game-of-fate
 Paradox	https://www.dndbeyond.com/spells/2872695-paradox
+Bacterial Barrage	https://www.dndbeyond.com/spells/2939320-bacterial-barrage
+Comet Shards	https://www.dndbeyond.com/spells/2939332-comet-shards
+Delerium Orb	https://www.dndbeyond.com/spells/2221551-delerium-orb
+Infect	https://www.dndbeyond.com/spells/2939322-infect
+Biohazard	https://www.dndbeyond.com/spells/2939328-biohazard
+Caustic Grip	https://www.dndbeyond.com/spells/2939321-caustic-grip
+Controlled Mutation	https://www.dndbeyond.com/spells/2939329-controlled-mutation
+Warp Bolt	https://www.dndbeyond.com/spells/2221560-warp-bolt
+Purge Contamination	https://www.dndbeyond.com/spells/2939319-purge-contamination
+Venomous Aura	https://www.dndbeyond.com/spells/2939325-venomous-aura
+Weave the Elder Sign	https://www.dndbeyond.com/spells/2939331-weave-the-elder-sign
+Blood Worm	https://www.dndbeyond.com/spells/2939323-blood-worm
+Delerium Blast	https://www.dndbeyond.com/spells/2221550-delerium-blast
+Forced Evolution	https://www.dndbeyond.com/spells/2221552-forced-evolution
+Siphon Time	https://www.dndbeyond.com/spells/2939334-siphon-time
+Conjure the Deep Haze	https://www.dndbeyond.com/spells/2221547-conjure-the-deep-haze
+Septic Shock	https://www.dndbeyond.com/spells/2939324-septic-shock
+Siphon Contamination	https://www.dndbeyond.com/spells/2221559-siphon-contamination
+Storm of Contamination	https://www.dndbeyond.com/spells/2939330-storm-of-contamination
+Vile Necrosis	https://www.dndbeyond.com/spells/2939327-vile-necrosis
+Grievous Wounds	https://www.dndbeyond.com/spells/2939326-grievous-wounds
+Octarine Spray	https://www.dndbeyond.com/spells/2221554-octarine-spray
+Banish to the Space Between Worlds	https://www.dndbeyond.com/spells/2939333-banish-to-the-space-between-worlds

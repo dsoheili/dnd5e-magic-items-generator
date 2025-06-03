@@ -60,18 +60,18 @@ magic_items_rarity_ranges = {
 
 
 # ----- Spell Scrolls Shop --------
-number_of_scroll_shop_items = 8
+number_of_scroll_shop_items = 4
 scroll_rarities_probabilities = {
     "level_0": 0.00,
-    "level_1": 0.10,
-    "level_2": 0.15,
-    "level_3": 0.15,
-    "level_4": 0.15,
-    "level_5": 0.15,
-    "level_6": 0.10,
-    "level_7": 0.10,
-    "level_8": 0.05,
-    "level_9": 0.05
+    "level_1": 0.60,
+    "level_2": 0.25,
+    "level_3": 0.10,
+    "level_4": 0.03,
+    "level_5": 0.02,
+    "level_6": 0.00,
+    "level_7": 0.00,
+    "level_8": 0.00,
+    "level_9": 0.00
 }
 
 # ----- Potion Shop --------
@@ -99,7 +99,7 @@ item_condition_mapping = {
 }
 
 # ----- Combined Shop --------
-number_of_combined_shop_items = 12
+number_of_combined_shop_items = 4
 combined_shop_rarities_probabilities = {
     "basic"             : 0.35,
     "common"            : 0.40,
@@ -162,6 +162,40 @@ price_ranges = {
     "legendary_potion"  : (100000, 100000),
     "beneficial_potion" : (800, 1200),
     "detrimental_potion": (600, 900)
+}
+
+# Simple gold drop ranges: CR -> (min_gold, max_gold) per monster
+gold_drop_by_cr = {
+    0:     (1, 5),        # avg 3 gp
+    0.125: (2, 8),        # avg 5 gp
+    0.25:  (3, 10),       # avg 6.5 gp
+    0.5:   (5, 15),       # avg 10 gp
+    1:     (10, 30),      # avg 20 gp
+    2:     (25, 75),      # avg 50 gp
+    3:     (40, 120),     # avg 80 gp
+    4:     (75, 200),     # avg 137 gp
+    5:     (100, 300),    # avg 200 gp
+    6:     (150, 450),    # avg 300 gp
+    7:     (200, 600),    # avg 400 gp
+    8:     (300, 800),    # avg 550 gp
+    9:     (400, 1000),   # avg 700 gp
+    10:    (500, 1500),   # avg 1000 gp
+    11:    (750, 2000),   # avg 1375 gp
+    12:    (1000, 2500),  # avg 1750 gp
+    13:    (1250, 3000),  # avg 2125 gp
+    14:    (1500, 3500),  # avg 2500 gp
+    15:    (2000, 4000),  # avg 3000 gp
+    16:    (2500, 5000),  # avg 3750 gp
+    17:    (3000, 6000),  # avg 4500 gp
+    18:    (4000, 8000),  # avg 6000 gp
+    19:    (5000, 10000), # avg 7500 gp
+    20:    (6000, 12000), # avg 9000 gp
+    21:    (8000, 15000), # avg 11500 gp
+    22:    (10000, 18000),# avg 14000 gp
+    23:    (12000, 20000),# avg 16000 gp
+    24:    (15000, 25000),# avg 20000 gp
+    25:    (18000, 30000),# avg 24000 gp
+    30:    (25000, 50000),# avg 37500 gp
 }
 
 xlations = {
@@ -243,7 +277,7 @@ gui_info_text = """
 | 81-90 | 4  - D | 1d100+2d20      | 140 | Very Rare, minor |
 | 96-97 | 5  - E | 1d100           | 100 | Legendary, minor |
 | 41-55 | 6  - F | 2d100+3d20      | 260 | Uncommon, major  |
-| 71-80 | 7  - G | 4d100           | 400 | Rare, major      |
+| 71-80 | 7  - G | 4d100+2d20      | 440 | Rare, major      |
 | 91-95 | 8  - H | 3d100           | 300 | Very Rare, major |
 | 98-99 | 9  - I | 2d100           | 200 | Legendary, major |
 | 100   | 10 - J | 1d100           | 100 | Mythic           |

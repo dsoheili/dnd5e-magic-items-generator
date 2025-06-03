@@ -2951,3 +2951,61 @@ Leonora's Throne of Indolence	https://www.dndbeyond.com/magic-items/9918631-leon
 Memento Mori	https://www.dndbeyond.com/magic-items/9918632-memento-mori
 Portable Cannonballs	https://www.dndbeyond.com/magic-items/9918633-portable-cannonballs
 Ring of Barrels	https://www.dndbeyond.com/magic-items/9918634-ring-of-barrels
+Amulet of Incineration	https://www.dndbeyond.com/magic-items/10131710-amulet-of-incineration
+Amulet of Primal Wisdom	https://www.dndbeyond.com/magic-items/10131751-amulet-of-primal-wisdom
+Aqua Delerium	https://www.dndbeyond.com/magic-items/10132961-aqua-delerium
+Aqua Expurgo	https://www.dndbeyond.com/magic-items/10133025-aqua-expurgo
+Blade of Retribution	https://www.dndbeyond.com/magic-items/10185091-blade-of-retribution
+Bracers of Arc Lightning	https://www.dndbeyond.com/magic-items/10133101-bracers-of-arc-lightning
+Champion's Weapon	https://www.dndbeyond.com/magic-items/10185129-champions-weapon
+Charged Gauntlets	https://www.dndbeyond.com/magic-items/10185131-charged-gauntlets
+Charm of Swarms	https://www.dndbeyond.com/magic-items/10185132-charm-of-swarms
+Circlet of Valor	https://www.dndbeyond.com/magic-items/10185133-circlet-of-valor
+Cold Snap Circlet	https://www.dndbeyond.com/magic-items/10185134-cold-snap-circlet
+Crest of the Sacred Flame	https://www.dndbeyond.com/magic-items/10185135-crest-of-the-sacred-flame
+Crimson Blade	https://www.dndbeyond.com/magic-items/10185136-crimson-blade
+Dazing Hammer	https://www.dndbeyond.com/magic-items/10185142-dazing-hammer
+Electric Charge Ring	https://www.dndbeyond.com/magic-items/10185145-electric-charge-ring
+Everhot Stew Pot	https://www.dndbeyond.com/magic-items/10185146-everhot-stew-pot
+Familiar Figurine	https://www.dndbeyond.com/magic-items/10185147-familiar-figurine
+Fractal Key	https://www.dndbeyond.com/magic-items/10135861-fractal-key
+Frozen Armor	https://www.dndbeyond.com/magic-items/10185148-frozen-armor
+Ghost Sight Bow	https://www.dndbeyond.com/magic-items/10185161-ghost-sight-bow
+Giant Femur Club	https://www.dndbeyond.com/magic-items/10185167-giant-femur-club
+Gloves of Ratling Agility	https://www.dndbeyond.com/magic-items/10185168-gloves-of-ratling-agility
+Greater Rejuvenation Potion	https://www.dndbeyond.com/magic-items/10185169-greater-rejuvenation-potion
+Hag-Stitched Troll Leather Armor	https://www.dndbeyond.com/magic-items/10185174-hag-stitched-troll-leather-armor
+Hammer of Chaos	https://www.dndbeyond.com/magic-items/10185175-hammer-of-chaos
+Hazewind Cape	https://www.dndbeyond.com/magic-items/10185176-hazewind-cape
+Heart String Harp	https://www.dndbeyond.com/magic-items/10185177-heart-string-harp
+Helm of Burning Rage	https://www.dndbeyond.com/magic-items/10185178-helm-of-burning-rage
+Inexhaustible Armor	https://www.dndbeyond.com/magic-items/10185179-inexhaustible-armor
+Injector's Crossbow	https://www.dndbeyond.com/magic-items/10185192-injectors-crossbow
+Mantle of Otherworldly Charisma	https://www.dndbeyond.com/magic-items/10185198-mantle-of-otherworldly-charisma
+Manual of Occult Anatomy (Rare)	https://www.dndbeyond.com/magic-items/10185200-manual-of-occult-anatomy-rare
+Manual of Occult Anatomy (Very Rare)	https://www.dndbeyond.com/magic-items/10185201-manual-of-occult-anatomy-very-rare
+Manual of Occult Anatomy (Legendary)	https://www.dndbeyond.com/magic-items/10185199-manual-of-occult-anatomy-legendary
+Mask of Monstrous Forms	https://www.dndbeyond.com/magic-items/10185203-mask-of-monstrous-forms
+Monster Hunter's Weapon, +1	https://www.dndbeyond.com/magic-items/10185316-monster-hunters-weapon
+Monster Hunter's Weapon, +2	https://www.dndbeyond.com/magic-items/10185316-monster-hunters-weapon
+Monster Hunter's Weapon, +3	https://www.dndbeyond.com/magic-items/10185316-monster-hunters-weapon
+Necromancer's Armor	https://www.dndbeyond.com/magic-items/10185320-necromancers-armor
+Pelt of the Pack Lord	https://www.dndbeyond.com/magic-items/10185324-pelt-of-the-pack-lord
+Pendant of Prismatic Protection	https://www.dndbeyond.com/magic-items/10185325-pendant-of-prismatic-protection
+Potion of Controlled Mutation	https://www.dndbeyond.com/magic-items/10185326-potion-of-controlled-mutation
+Rat Tooth Dagger	https://www.dndbeyond.com/magic-items/10185329-rat-tooth-dagger
+Reflector Shield	https://www.dndbeyond.com/magic-items/10185330-reflector-shield
+Rejuvenation Potion	https://www.dndbeyond.com/magic-items/10185331-rejuvenation-potion
+Retracer Boots	https://www.dndbeyond.com/magic-items/10185332-retracer-boots
+Scroll of Spell Power	https://www.dndbeyond.com/magic-items/10185335-scroll-of-spell-power
+Scythed Arm Blades	https://www.dndbeyond.com/magic-items/10185336-scythed-arm-blades
+Swashbuckler's Boots	https://www.dndbeyond.com/magic-items/10185339-swashbucklers-boots
+Sword Between Worlds	https://www.dndbeyond.com/magic-items/10185340-sword-between-worlds
+Talon Gloves	https://www.dndbeyond.com/magic-items/10185341-talon-gloves
+Tentacle Whip	https://www.dndbeyond.com/magic-items/10185342-tentacle-whip
+Time Dilation Medallion	https://www.dndbeyond.com/magic-items/10185343-time-dilation-medallion
+Trollblood Potion	https://www.dndbeyond.com/magic-items/10185344-trollblood-potion
+Vampire Blood Potion	https://www.dndbeyond.com/magic-items/10185345-vampire-blood-potion
+Wand of Jinxes	https://www.dndbeyond.com/magic-items/10185346-wand-of-jinxes
+Wand of the Precocious Apprentice	https://www.dndbeyond.com/magic-items/10185347-wand-of-the-precocious-apprentice
+Whirling Bonesaw	https://www.dndbeyond.com/magic-items/10185349-whirling-bonesaw

@@ -93,7 +93,7 @@ row_number_entry.grid(column=1, row=3, sticky=tk.EW)
 # table_d100_label = ttk.Label(input_frame, text="1d100 roll:")
 # table_d100_label.grid(column=0, row=2)
 
-# table_d100_var = tk.StringVar()
+table_d100_var = tk.StringVar()
 # table_d100_entry = ttk.Entry(input_frame, textvariable=table_d100_var)
 # table_d100_entry.grid(column=1, row=2, sticky=tk.EW)
 
