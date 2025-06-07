@@ -271,18 +271,18 @@ emoticons = {
 }
 
 gui_info_text = """
-| 1d100 | Table  | Dice            | Max | Rarity           |
-|-------|--------|-----------------|-----|------------------|
-| 1-20  | 1  - A | 3d100           | 300 | Common           |
-| 21-40 | 2  - B | 4d100           | 400 | Uncommon, minor  |
-| 56-70 | 3  - C | 3d100           | 300 | Rare, minor      |
-| 81-90 | 4  - D | 1d100+2d20      | 140 | Very Rare, minor |
-| 96-97 | 5  - E | 1d100           | 100 | Legendary, minor |
-| 41-55 | 6  - F | 2d100+3d20      | 260 | Uncommon, major  |
-| 71-80 | 7  - G | 4d100+2d20      | 440 | Rare, major      |
-| 91-95 | 8  - H | 3d100           | 300 | Very Rare, major |
-| 98-99 | 9  - I | 2d100           | 200 | Legendary, major |
-| 100   | 10 - J | 1d100           | 100 | Mythic           |
-| N/A   | 11 - K | 1d12            | 12  | Unknown          |
-| 0     | 0  - Z | 4d100+1d20+1d10 | 430 | Basic            |
+| Tab | Dice            | Rarity           |
+|-----|-----------------|------------------|
+| A   | 3d100           | Common           |
+| B   | 4d100           | Uncommon, minor  |
+| C   | 3d100           | Rare, minor      |
+| D   | 1d100+2d20      | Very Rare, minor |
+| E   | 1d100           | Legendary, minor |
+| F   | 2d100+3d20      | Uncommon, major  |
+| G   | 4d100+2d20      | Rare, major      |
+| H   | 3d100           | Very Rare, major |
+| I   | 2d100           | Legendary, major |
+| J   | 1d100           | Mythic           |
+| K   | 1d12            | Unknown          |
+| Z   | 4d100+1d20+1d10 | Basic            |
 """
