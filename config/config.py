@@ -1,7 +1,9 @@
 # Player character names for GUI
 character_names = [
-    "Player_1",
-    "Player_2",
+    "Gepeu",
+    "Gnilbert",
+    "Sally",
+    "Zokira",
     "NPC"
 ]
 
@@ -75,7 +77,7 @@ scroll_rarities_probabilities = {
 }
 
 # ----- Potion Shop --------
-number_of_potion_shop_items = 8
+number_of_potion_shop_items = 4
 potion_rarities_probabilities = {
     "common_potion"     : 0,
     "uncommon_potion"   : 0,
