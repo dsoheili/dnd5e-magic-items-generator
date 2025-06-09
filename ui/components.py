@@ -12,23 +12,40 @@ class OutputDisplay:
     
     def __init__(self, parent):
         self.parent = parent
+        self.right_frame = None  # Initialize as None
+        self.links_frame = None
         self.create_widgets()
         
     def create_widgets(self):
         """Create the output display widgets."""
-        # Create container frame
-        container = ttk.Frame(self.parent)
-        container.pack(fill=tk.BOTH, expand=True)
+        # Create main styled container
+        style = ttk.Style()
+        style.configure('Output.TLabelframe', background='#f0f0f0')
+        style.configure('Output.TLabelframe.Label', background='#f0f0f0', font=('Segoe UI', 10, 'bold'))
         
-        # Discord output section
-        discord_frame = ttk.LabelFrame(container, text="Discord Output (Copy/Paste)", padding="5")
+        main_frame = ttk.LabelFrame(self.parent, text="📤 Generated Output", padding="10", style='Output.TLabelframe')
+        main_frame.pack(fill=tk.BOTH, expand=True)
+        
+        # Store references
+        self.main_container = self.parent
+        self.main_frame = main_frame
+        
+        # Create horizontal paned window for side-by-side layout
+        self.paned_window = ttk.PanedWindow(main_frame, orient=tk.HORIZONTAL)
+        self.paned_window.pack(fill=tk.BOTH, expand=True)
+        
+        # Left side - Discord output
+        left_frame = ttk.Frame(self.paned_window)
+        self.paned_window.add(left_frame, weight=3)
+        
+        discord_frame = ttk.LabelFrame(left_frame, text="Discord Output (Copy/Paste)", padding="5")
         discord_frame.pack(fill=tk.BOTH, expand=True)
         
         # Create scrolled text widget
         self.output_text = scrolledtext.ScrolledText(
             discord_frame,
             wrap=tk.WORD,
-            width=80,
+            width=60,
             height=20,
             font=('Consolas', 11)
         )
@@ -42,11 +59,8 @@ class OutputDisplay:
         )
         copy_btn.pack(pady=(5, 0))
         
-        # Links section
-        self.links_frame = ttk.LabelFrame(container, text="Quick Links", padding="5")
-        self.links_container = None
-        self.links_canvas = None
-        self.links_scrollbar = None
+        # Right side will be created when needed
+        self.left_frame = left_frame  # Store reference
         
     def display_result(self, text, url=None):
         """Display single item result."""
@@ -66,7 +80,6 @@ class OutputDisplay:
         
         # Show links if any
         urls = results.get('urls', [])
-        # Filter out empty strings and None values
         valid_urls = [url for url in urls if url and url.strip()]
         
         if valid_urls:
@@ -76,82 +89,168 @@ class OutputDisplay:
             
     def show_links(self, urls):
         """Display clickable links."""
-        # Clear existing links widgets
-        if self.links_canvas:
-            self.links_canvas.destroy()
-        if self.links_scrollbar:
-            self.links_scrollbar.destroy()
-        if self.links_container:
-            self.links_container.destroy()
-            
         # Filter out empty URLs
         valid_urls = [url for url in urls if url and url.strip()]
         
         if not valid_urls:
             self.hide_links()
             return
+        
+        # Clean up any existing right frame
+        self.cleanup_right_frame()
+        
+        # Create fresh right frame
+        self.right_frame = ttk.Frame(self.paned_window)
+        self.paned_window.add(self.right_frame, weight=2)
+        
+        # Create links frame
+        self.links_frame = ttk.LabelFrame(self.right_frame, text="🔗 Quick Links", padding="10")
+        self.links_frame.pack(fill=tk.BOTH, expand=True)
+        
+        # For single URL (Magic Item Generator)
+        if len(valid_urls) == 1:
+            url = valid_urls[0]
             
-        self.links_frame.pack(fill=tk.X, pady=(10, 0))
-        
-        # Create scrollable frame for links
-        self.links_canvas = tk.Canvas(self.links_frame, height=min(150, len(valid_urls) * 35))
-        self.links_scrollbar = ttk.Scrollbar(self.links_frame, orient="vertical", command=self.links_canvas.yview)
-        self.links_container = ttk.Frame(self.links_canvas)
-        
-        self.links_canvas.configure(yscrollcommand=self.links_scrollbar.set)
-        canvas_frame = self.links_canvas.create_window((0, 0), window=self.links_container, anchor="nw")
-        
-        self.links_canvas.pack(side="left", fill="both", expand=True)
-        self.links_scrollbar.pack(side="right", fill="y")
-        
-        # Create link buttons in a grid (2 columns for space efficiency)
-        for i, url in enumerate(valid_urls):
-            # Extract item name from URL or use generic label
-            label = f"Link {i+1}"
-            if "/" in url:
-                parts = url.split("/")[-1].replace("-", " ").title()
-                label = parts[:35] + "..." if len(parts) > 35 else parts
-                    
+            # Extract item name
+            item_name = self.extract_item_name(url)
+            
+            # Create centered frame
+            center_frame = ttk.Frame(self.links_frame)
+            center_frame.pack(expand=True)
+            
+            # Create nice button
             link_btn = ttk.Button(
-                self.links_container,
-                text=label,
-                command=lambda u=url: webbrowser.open(u)
+                center_frame,
+                text=item_name,
+                command=lambda: webbrowser.open(url),
+                style='Generate.TButton'
             )
-            row = i // 2
-            col = i % 2
-            link_btn.grid(row=row, column=col, padx=5, pady=2, sticky="ew")
-        
-        # Configure grid weights
-        self.links_container.columnconfigure(0, weight=1)
-        self.links_container.columnconfigure(1, weight=1)
-        
-        # Update scroll region
-        self.links_container.update_idletasks()
-        self.links_canvas.configure(scrollregion=self.links_canvas.bbox("all"))
+            link_btn.pack(pady=20, padx=20)
+            
+            # Add description
+            desc_label = ttk.Label(
+                center_frame,
+                text="Click to view item details",
+                font=('Segoe UI', 9, 'italic'),
+                foreground='#666666'
+            )
+            desc_label.pack()
+            
+        else:
+            # Multiple URLs (Shop Generator)
+            # Create scrolled frame with proper space
+            canvas = tk.Canvas(self.links_frame, bg='#f0f0f0', highlightthickness=0)
+            scrollbar = ttk.Scrollbar(self.links_frame, orient="vertical", command=canvas.yview)
+            scrollable_frame = ttk.Frame(canvas)
+            
+            scrollable_frame.bind(
+                "<Configure>",
+                lambda e: canvas.configure(scrollregion=canvas.bbox("all"))
+            )
+            
+            canvas_window = canvas.create_window((0, 0), window=scrollable_frame, anchor="nw")
+            
+            # Configure canvas
+            canvas.configure(yscrollcommand=scrollbar.set)
+            
+            # Bind mouse wheel
+            def _on_mousewheel(event):
+                canvas.yview_scroll(int(-1*(event.delta/120)), "units")
                 
+            # Bind to canvas and all children
+            canvas.bind("<MouseWheel>", _on_mousewheel)
+            canvas.bind("<Enter>", lambda e: canvas.bind_all("<MouseWheel>", _on_mousewheel))
+            canvas.bind("<Leave>", lambda e: canvas.unbind_all("<MouseWheel>"))
+            
+            # Update canvas window width when canvas is resized
+            def configure_canvas(event):
+                canvas.itemconfig(canvas_window, width=event.width)
+                
+            canvas.bind('<Configure>', configure_canvas)
+            
+            # Create item buttons - one per row for clarity
+            for i, url in enumerate(valid_urls):
+                item_name = self.extract_item_name(url)
+                
+                # Create frame for each item
+                item_frame = ttk.Frame(scrollable_frame, relief=tk.RIDGE, borderwidth=1)
+                item_frame.pack(fill=tk.X, padx=10, pady=5)
+                
+                # Item button
+                link_btn = ttk.Button(
+                    item_frame,
+                    text=f"{i+1}. {item_name}",
+                    command=lambda u=url: webbrowser.open(u)
+                )
+                link_btn.pack(fill=tk.X, padx=10, pady=10)
+            
+            # Pack canvas and scrollbar
+            canvas.pack(side="left", fill="both", expand=True)
+            scrollbar.pack(side="right", fill="y")
+            
+            # Add count label
+            count_label = ttk.Label(
+                self.links_frame,
+                text=f"{len(valid_urls)} items with links",
+                font=('Segoe UI', 9, 'italic'),
+                foreground='#666666'
+            )
+            count_label.pack(pady=(5, 0))
+                
+    def cleanup_right_frame(self):
+        """Completely remove and destroy the right frame."""
+        if self.right_frame and self.right_frame.winfo_exists():
+            try:
+                # Remove from paned window
+                if self.right_frame in self.paned_window.panes():
+                    self.paned_window.remove(self.right_frame)
+                # Destroy the frame
+                self.right_frame.destroy()
+            except:
+                pass  # Frame already destroyed
+                
+        # Reset references
+        self.right_frame = None
+        self.links_frame = None
+        
     def hide_links(self):
         """Hide the links section."""
-        self.links_frame.pack_forget()
+        self.cleanup_right_frame()
+            
+    def extract_item_name(self, url):
+        """Extract a clean item name from URL."""
+        item_name = "Unknown Item"
         
+        if "dndbeyond.com" in url and "magic-items" in url:
+            # Extract from D&D Beyond URL
+            parts = url.split("/")
+            if len(parts) >= 2:
+                raw_name = parts[-1]
+                # Remove ID prefix if present (e.g., "215718-ring-of-protection")
+                if "-" in raw_name and raw_name.split("-")[0].isdigit():
+                    raw_name = "-".join(raw_name.split("-")[1:])
+                item_name = raw_name.replace("-", " ").title()
+        elif "/" in url:
+            # Generic URL parsing
+            item_name = url.split("/")[-1].replace("-", " ").replace("_", " ").title()
+            
+        return item_name
+            
     def copy_to_clipboard(self):
         """Copy the output text to clipboard."""
         text = self.output_text.get("1.0", tk.END).strip()
         if text:
-            self.parent.clipboard_clear()
-            self.parent.clipboard_append(text)
-            
-            # Show temporary success message
+            self.main_container.clipboard_clear()
+            self.main_container.clipboard_append(text)
             self.show_copy_success()
             
     def show_copy_success(self):
         """Show a temporary success message."""
         success_label = ttk.Label(
-            self.parent,
+            self.left_frame,
             text="✓ Copied to clipboard!",
             foreground="green",
             font=('Segoe UI', 10, 'bold')
         )
         success_label.pack()
-        
-        # Remove after 2 seconds
-        self.parent.after(2000, success_label.destroy)
+        self.main_container.after(2000, success_label.destroy)

@@ -230,10 +230,8 @@ class MagicItemTab:
         
     def create_output(self, parent):
         """Create output section that takes up most space."""
-        output_frame = ttk.LabelFrame(parent, text="📤 Generated Output", padding="10", style='Generator.TLabelframe')
-        output_frame.pack(fill=tk.BOTH, expand=True)
-        
-        self.output_display = OutputDisplay(output_frame)
+        # Don't wrap in another LabelFrame - let OutputDisplay handle its own structure
+        self.output_display = OutputDisplay(parent)
         
     def generate_item(self):
         """Generate a magic item based on current inputs."""
