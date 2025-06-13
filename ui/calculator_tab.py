@@ -66,69 +66,266 @@ class CalculatorTab:
             font=('Segoe UI', 9, 'italic'),
             foreground='#666666'
         )
-        desc.pack(anchor=tk.W, pady=(0, 15))
+        desc.pack(anchor=tk.W, pady=(0, 5))
         
-        # Input frame
-        input_frame = ttk.Frame(calc_frame)
-        input_frame.pack(fill=tk.X, pady=(0, 15))
-        
-        # CR input
-        cr_label = ttk.Label(input_frame, text="Challenge Rating (CR):", font=('Segoe UI', 9))
-        cr_label.grid(row=0, column=0, sticky=tk.W, pady=5)
-        
-        self.cr_var = tk.StringVar()
-        cr_entry = ttk.Entry(input_frame, textvariable=self.cr_var, width=15, font=('Segoe UI', 9))
-        cr_entry.grid(row=0, column=1, sticky=tk.W, pady=5, padx=(10, 0))
-        
-        # CR help text
-        cr_help = ttk.Label(
-            input_frame,
-            text="e.g., 0.5, 1, 5, 10",
-            font=('Segoe UI', 8, 'italic'),
-            foreground='#999999'
+        # Instructions
+        instructions = ttk.Label(
+            calc_frame,
+            text="Add monster groups with count and CR",
+            font=('Segoe UI', 8),
+            foreground='#888888'
         )
-        cr_help.grid(row=0, column=2, sticky=tk.W, padx=(10, 0))
+        instructions.pack(anchor=tk.W, pady=(0, 10))
         
-        # Number of monsters
-        monsters_label = ttk.Label(input_frame, text="Number of Monsters:", font=('Segoe UI', 9))
-        monsters_label.grid(row=1, column=0, sticky=tk.W, pady=5)
+        # Monster groups frame
+        groups_container = ttk.LabelFrame(calc_frame, text="Monster Groups", padding="5")
+        groups_container.pack(fill=tk.BOTH, expand=True, pady=(0, 10))
         
-        self.num_monsters_var = tk.StringVar(value="1")
-        monsters_entry = ttk.Entry(input_frame, textvariable=self.num_monsters_var, width=15, font=('Segoe UI', 9))
-        monsters_entry.grid(row=1, column=1, sticky=tk.W, pady=5, padx=(10, 0))
+        # Scrollable frame for groups
+        self.groups_canvas = tk.Canvas(groups_container, height=150, bg='#f0f0f0', highlightthickness=0)
+        scrollbar = ttk.Scrollbar(groups_container, orient="vertical", command=self.groups_canvas.yview)
+        self.groups_frame = ttk.Frame(self.groups_canvas)
         
-        # Separator
-        separator1 = ttk.Separator(calc_frame, orient='horizontal')
-        separator1.pack(fill=tk.X, pady=10)
+        self.groups_frame.bind(
+            "<Configure>",
+            lambda e: self.groups_canvas.configure(scrollregion=self.groups_canvas.bbox("all"))
+        )
+        
+        self.groups_canvas.create_window((0, 0), window=self.groups_frame, anchor="nw")
+        self.groups_canvas.configure(yscrollcommand=scrollbar.set)
+        
+        # Bind mouse wheel
+        def _on_mousewheel(event):
+            self.groups_canvas.yview_scroll(int(-1*(event.delta/120)), "units")
+        
+        self.groups_canvas.bind("<MouseWheel>", _on_mousewheel)
+        self.groups_canvas.bind("<Enter>", lambda e: self.groups_canvas.bind_all("<MouseWheel>", _on_mousewheel))
+        self.groups_canvas.bind("<Leave>", lambda e: self.groups_canvas.unbind_all("<MouseWheel>"))
+        
+        self.groups_canvas.pack(side="left", fill="both", expand=True)
+        scrollbar.pack(side="right", fill="y")
+        
+        # Store group entries
+        self.monster_groups = []
+        
+        # Common CR values with display names
+        self.cr_values = ["0", "1/8", "1/4", "1/2", "1", "2", "3", "4", "5", "6", "7", "8", 
+                         "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20",
+                         "21", "22", "23", "24", "25", "26", "27", "28", "29", "30"]
+        
+        # CR mapping for calculations
+        self.cr_mapping = {
+            "0": 0, "1/8": 0.125, "1/4": 0.25, "1/2": 0.5,
+            "1": 1, "2": 2, "3": 3, "4": 4, "5": 5, "6": 6, "7": 7, "8": 8,
+            "9": 9, "10": 10, "11": 11, "12": 12, "13": 13, "14": 14, "15": 15,
+            "16": 16, "17": 17, "18": 18, "19": 19, "20": 20, "21": 21, "22": 22,
+            "23": 23, "24": 24, "25": 25, "26": 26, "27": 27, "28": 28, "29": 29, "30": 30
+        }
+        
+        # Add first group
+        self.add_monster_group()
+        
+        # Buttons frame
+        buttons_frame = ttk.Frame(calc_frame)
+        buttons_frame.pack(fill=tk.X, pady=(5, 0))
+        
+        # Add group button
+        add_btn = ttk.Button(
+            buttons_frame,
+            text="➕ Add Group",
+            command=self.add_monster_group,
+            width=15
+        )
+        add_btn.pack(side=tk.LEFT, padx=(0, 5))
         
         # Calculate button
         calc_btn = ttk.Button(
-            calc_frame,
-            text="🎲 Calculate Gold Drop",
+            buttons_frame,
+            text="🎲 Calculate",
             command=self.calculate_gold,
-            style='Calculate.TButton'
+            style='Calculate.TButton',
+            width=15
         )
-        calc_btn.pack(anchor=tk.W, pady=(0, 15))
+        calc_btn.pack(side=tk.LEFT, padx=(0, 5))
         
-        # Result display
-        result_frame = ttk.LabelFrame(calc_frame, text="📊 Result", padding="10")
-        result_frame.pack(fill=tk.BOTH, expand=True)
+        # Clear button
+        clear_btn = ttk.Button(
+            buttons_frame,
+            text="Clear",
+            command=self.clear_monster_groups,
+            width=10
+        )
+        clear_btn.pack(side=tk.LEFT)
+        
+        # Result display - more spacious
+        result_frame = ttk.LabelFrame(calc_frame, text="📊 Result", padding="15")
+        result_frame.pack(fill=tk.BOTH, pady=(15, 0))
         
         self.gold_result = tk.Text(
             result_frame,
+            height=4,
+            width=40,
+            font=('Segoe UI', 12),
+            wrap=tk.WORD,
+            relief=tk.FLAT,
+            background='#f8f8f8',
+            borderwidth=0
+        )
+        self.gold_result.pack(fill=tk.BOTH, padx=5, pady=5)
+        
+        # Breakdown display (smaller, for DM eyes only)
+        breakdown_frame = ttk.LabelFrame(calc_frame, text="Calculation Breakdown", padding="10")
+        breakdown_frame.pack(fill=tk.X, pady=(10, 0))
+        
+        self.breakdown_text = tk.Text(
+            breakdown_frame,
             height=6,
             width=40,
-            font=('Segoe UI', 11),
+            font=('Segoe UI', 9),
             wrap=tk.WORD,
-            relief=tk.GROOVE,
-            background='#ffffff',
-            borderwidth=1
+            relief=tk.FLAT,
+            background='#f5f5f5',
+            foreground='#666666',
+            borderwidth=0
         )
-        self.gold_result.pack(fill=tk.BOTH, expand=True)
+        self.breakdown_text.pack(fill=tk.X)
         
-        # Add example text
-        self.gold_result.insert(tk.END, "Enter CR and number of monsters,\nthen click Calculate.")
+        # Default text
+        self.gold_result.insert(tk.END, "Add monster groups and click Calculate.")
         self.gold_result.configure(state='disabled')
+        self.breakdown_text.configure(state='disabled')
+        
+    def add_monster_group(self):
+        """Add a new monster group entry."""
+        # Compact frame
+        group_frame = ttk.Frame(self.groups_frame)
+        group_frame.pack(fill=tk.X, padx=5, pady=3)
+        
+        # Count label and spinbox
+        ttk.Label(group_frame, text="Count:", font=('Segoe UI', 9)).pack(side=tk.LEFT, padx=(5, 3))
+        
+        count_var = tk.StringVar(value="1")
+        count_spin = ttk.Spinbox(
+            group_frame,
+            from_=1,
+            to=999,
+            textvariable=count_var,
+            width=8,
+            font=('Segoe UI', 9)
+        )
+        count_spin.pack(side=tk.LEFT, padx=(0, 10))
+        
+        # CR label and dropdown
+        ttk.Label(group_frame, text="CR:", font=('Segoe UI', 9)).pack(side=tk.LEFT, padx=(0, 3))
+        
+        cr_var = tk.StringVar(value="1")
+        cr_combo = ttk.Combobox(
+            group_frame,
+            textvariable=cr_var,
+            values=self.cr_values,
+            state="readonly",
+            width=8,
+            font=('Segoe UI', 9)
+        )
+        cr_combo.pack(side=tk.LEFT, padx=(0, 10))
+        
+        # Small remove button
+        remove_btn = tk.Button(
+            group_frame,
+            text="✕",
+            command=lambda: self.remove_monster_group(group_frame),
+            font=('Segoe UI', 8),
+            fg='red',
+            bg='#f0f0f0',
+            bd=1,
+            padx=2,
+            pady=0
+        )
+        remove_btn.pack(side=tk.LEFT)
+        
+        # Store the group
+        self.monster_groups.append({
+            'frame': group_frame,
+            'count_var': count_var,
+            'cr_var': cr_var
+        })
+        
+    def remove_monster_group(self, frame):
+        """Remove a monster group."""
+        # Find and remove from list
+        self.monster_groups = [g for g in self.monster_groups if g['frame'] != frame]
+        # Destroy the frame
+        frame.destroy()
+        
+    def clear_monster_groups(self):
+        """Clear all monster groups."""
+        for group in self.monster_groups:
+            group['frame'].destroy()
+        self.monster_groups = []
+        # Add one empty group
+        self.add_monster_group()
+        
+    def calculate_gold(self):
+        """Calculate gold drop based on all monster groups."""
+        try:
+            total_gold = 0
+            valid_groups = 0
+            breakdown = []
+            
+            for group in self.monster_groups:
+                count_str = group['count_var'].get().strip()
+                cr_str = group['cr_var'].get().strip()
+                
+                if count_str and cr_str:
+                    count = int(count_str)
+                    # Use the mapping to convert display value to actual CR
+                    if cr_str in self.cr_mapping:
+                        cr_value = self.cr_mapping[cr_str]
+                    else:
+                        cr_value = float(cr_str)  # Fallback for any unmapped values
+                    
+                    # Calculate gold for this group
+                    group_gold = self.gold_calc.calculate_drop(cr_value, count)
+                    total_gold += group_gold
+                    valid_groups += 1
+                    
+                    # Add to breakdown
+                    avg_per_monster = group_gold // count if count > 0 else 0
+                    breakdown.append(f"{count}x CR {cr_str}: {group_gold:,} gp (avg {avg_per_monster:,} gp each)")
+            
+            if valid_groups == 0:
+                raise ValueError("No valid monster groups")
+            
+            # Update main result
+            self.gold_result.configure(state='normal')
+            self.gold_result.delete("1.0", tk.END)
+            self.gold_result.insert(
+                tk.END,
+                f"**Encounter Rewards**\n\n"
+                f"Gold Found: {total_gold:,} gp"
+            )
+            self.gold_result.configure(state='disabled')
+            
+            # Update breakdown
+            self.breakdown_text.configure(state='normal')
+            self.breakdown_text.delete("1.0", tk.END)
+            breakdown_str = "\n".join(breakdown)
+            self.breakdown_text.insert(tk.END, f"Breakdown by group:\n\n{breakdown_str}\n\nTotal: {total_gold:,} gp")
+            self.breakdown_text.configure(state='disabled')
+            
+        except ValueError as e:
+            self.gold_result.configure(state='normal')
+            self.gold_result.delete("1.0", tk.END)
+            self.gold_result.insert(
+                tk.END,
+                "❌ Error:\n\n"
+                "Please enter valid numbers for\ncount and CR in at least one group."
+            )
+            self.gold_result.configure(state='disabled')
+            
+            self.breakdown_text.configure(state='normal')
+            self.breakdown_text.delete("1.0", tk.END)
+            self.breakdown_text.configure(state='disabled')
         
     def create_price_calculator(self, parent):
         """Create item price calculator section."""
@@ -213,35 +410,6 @@ class CalculatorTab:
         self.price_result.insert(tk.END, "Select rarity and condition,\nthen click Calculate.")
         self.price_result.configure(state='disabled')
         
-    def calculate_gold(self):
-        """Calculate gold drop based on CR and number of monsters."""
-        try:
-            cr = float(self.cr_var.get())
-            num_monsters = int(self.num_monsters_var.get())
-            
-            total_gold = self.gold_calc.calculate_drop(cr, num_monsters)
-            avg_per_monster = total_gold // num_monsters if num_monsters > 0 else 0
-            
-            self.gold_result.configure(state='normal')
-            self.gold_result.delete("1.0", tk.END)
-            self.gold_result.insert(
-                tk.END,
-                f"🏆 Calculation Results:\n\n"
-                f"Total Gold Dropped: {total_gold:,} gp\n"
-                f"Average per Monster: {avg_per_monster:,} gp\n\n"
-                f"CR {cr} × {num_monsters} monster(s)"
-            )
-            self.gold_result.configure(state='disabled')
-        except ValueError:
-            self.gold_result.configure(state='normal')
-            self.gold_result.delete("1.0", tk.END)
-            self.gold_result.insert(
-                tk.END,
-                "❌ Error:\n\n"
-                "Please enter valid numbers for\nCR and monster count."
-            )
-            self.gold_result.configure(state='disabled')
-            
     def calculate_price(self):
         """Calculate item price based on rarity and condition."""
         rarity = self.rarity_var.get()

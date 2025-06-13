@@ -805,3 +805,12 @@ Vile Necrosis	https://www.dndbeyond.com/spells/2939327-vile-necrosis
 Grievous Wounds	https://www.dndbeyond.com/spells/2939326-grievous-wounds
 Octarine Spray	https://www.dndbeyond.com/spells/2221554-octarine-spray
 Banish to the Space Between Worlds	https://www.dndbeyond.com/spells/2939333-banish-to-the-space-between-worlds
+Concealed Shot	https://www.dndbeyond.com/spells/2943204-concealed-shot
+Finger Guns	https://www.dndbeyond.com/spells/2872690-finger-guns
+Ballistic Smite	https://www.dndbeyond.com/spells/2943208-ballistic-smite
+Conjure Cover	https://www.dndbeyond.com/spells/2943203-conjure-cover
+Perforating Shot	https://www.dndbeyond.com/spells/2943205-perforating-shot
+Jam Weapon	https://www.dndbeyond.com/spells/2943209-jam-weapon
+Jethro's Instant Reload	https://www.dndbeyond.com/spells/2943207-jethros-instant-reload
+Conjure Cannonball	https://www.dndbeyond.com/spells/2943206-conjure-cannonball
+Antiballistics Field	https://www.dndbeyond.com/spells/2943202-antiballistics-field

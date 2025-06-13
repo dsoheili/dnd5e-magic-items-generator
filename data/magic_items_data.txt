@@ -3009,3 +3009,22 @@ Vampire Blood Potion	https://www.dndbeyond.com/magic-items/10185345-vampire-bloo
 Wand of Jinxes	https://www.dndbeyond.com/magic-items/10185346-wand-of-jinxes
 Wand of the Precocious Apprentice	https://www.dndbeyond.com/magic-items/10185347-wand-of-the-precocious-apprentice
 Whirling Bonesaw	https://www.dndbeyond.com/magic-items/10185349-whirling-bonesaw
+Assault Rifle	https://www.dndbeyond.com/equipment/120-assault-rifle
+Blunderbuss	https://www.dndbeyond.com/equipment/111-blunderbuss
+Bullets (10)	https://www.dndbeyond.com/equipment/737-bullets-10
+Cannon	https://www.dndbeyond.com/equipment/116-cannon
+Cannonballs (5)	https://www.dndbeyond.com/equipment/738-cannonballs-5
+Double-Barrel Shotgun	https://www.dndbeyond.com/equipment/112-double-barrel-shotgun
+Flare Gun	https://www.dndbeyond.com/equipment/118-flare-gun
+Flares (5)	https://www.dndbeyond.com/equipment/739-flares-5
+Gatling Gun	https://www.dndbeyond.com/equipment/117-gatling-gun
+Handgun	https://www.dndbeyond.com/equipment/119-handgun
+Hunting Rifle	https://www.dndbeyond.com/equipment/113-hunting-rifle
+Magnum	https://www.dndbeyond.com/equipment/121-magnum
+Parlor Gun	https://www.dndbeyond.com/equipment/114-parlor-gun
+Pump Shotgun	https://www.dndbeyond.com/equipment/122-pump-shotgun
+Revolver	https://www.dndbeyond.com/equipment/115-revolver
+Shells (10)	https://www.dndbeyond.com/equipment/740-shells-10
+Shot (10)	https://www.dndbeyond.com/equipment/741-shot-10
+Sniper Rifle	https://www.dndbeyond.com/equipment/123-sniper-rifle
+Submachine Gun	https://www.dndbeyond.com/equipment/124-submachine-gun
