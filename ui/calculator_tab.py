@@ -125,6 +125,29 @@ class CalculatorTab:
         # Add first group
         self.add_monster_group()
         
+        # Party size frame
+        party_frame = ttk.Frame(calc_frame)
+        party_frame.pack(fill=tk.X, pady=(10, 5))
+        
+        ttk.Label(party_frame, text="Party Size:", font=('Segoe UI', 9)).pack(side=tk.LEFT, padx=(0, 10))
+        self.party_size_var = tk.StringVar(value="4")
+        party_spin = ttk.Spinbox(
+            party_frame,
+            from_=1,
+            to=10,
+            textvariable=self.party_size_var,
+            width=10,
+            font=('Segoe UI', 9)
+        )
+        party_spin.pack(side=tk.LEFT)
+        
+        ttk.Label(
+            party_frame, 
+            text="(for splitting gold evenly)",
+            font=('Segoe UI', 8, 'italic'),
+            foreground='#888888'
+        ).pack(side=tk.LEFT, padx=(10, 0))
+        
         # Buttons frame
         buttons_frame = ttk.Frame(calc_frame)
         buttons_frame.pack(fill=tk.X, pady=(5, 0))
@@ -163,7 +186,7 @@ class CalculatorTab:
         
         self.gold_result = tk.Text(
             result_frame,
-            height=4,
+            height=6,
             width=40,
             font=('Segoe UI', 12),
             wrap=tk.WORD,
@@ -265,6 +288,19 @@ class CalculatorTab:
         # Add one empty group
         self.add_monster_group()
         
+    def format_remainder(self, remainder_gp):
+        """Format remainder as gp and/or sp."""
+        if remainder_gp >= 1:
+            gp_part = int(remainder_gp)
+            sp_part = int((remainder_gp - gp_part) * 10)
+            if sp_part > 0:
+                return f"{gp_part} gp {sp_part} sp"
+            else:
+                return f"{gp_part} gp"
+        else:
+            sp_part = int(remainder_gp * 10)
+            return f"{sp_part} sp"
+        
     def calculate_gold(self):
         """Calculate gold drop based on all monster groups."""
         try:
@@ -296,21 +332,41 @@ class CalculatorTab:
             if valid_groups == 0:
                 raise ValueError("No valid monster groups")
             
+            # Get party size
+            party_size = int(self.party_size_var.get())
+            
+            # Calculate per-player share
+            gold_per_player = total_gold // party_size
+            remainder = total_gold % party_size
+            
             # Update main result
             self.gold_result.configure(state='normal')
             self.gold_result.delete("1.0", tk.END)
-            self.gold_result.insert(
-                tk.END,
-                f"**Encounter Rewards**\n\n"
-                f"Gold Found: {total_gold:,} gp"
-            )
+            
+            result_text = f"**Gold Found:** {total_gold:,} gp\n"
+            
+            if party_size > 1:
+                result_text += f"\nSplit {party_size} ways:\n"
+                result_text += f"Each player: {gold_per_player:,} gp"
+                if remainder > 0:
+                    result_text += f"\nLeftover: {self.format_remainder(remainder)}"
+            
+            self.gold_result.insert(tk.END, result_text)
             self.gold_result.configure(state='disabled')
             
             # Update breakdown
             self.breakdown_text.configure(state='normal')
             self.breakdown_text.delete("1.0", tk.END)
             breakdown_str = "\n".join(breakdown)
-            self.breakdown_text.insert(tk.END, f"Breakdown by group:\n\n{breakdown_str}\n\nTotal: {total_gold:,} gp")
+            breakdown_text = f"Breakdown by group:\n\n{breakdown_str}\n\nTotal: {total_gold:,} gp"
+            
+            if party_size > 1:
+                breakdown_text += f"\n\nParty split calculation:"
+                breakdown_text += f"\n{total_gold:,} ÷ {party_size} = {gold_per_player:,} gp each"
+                if remainder > 0:
+                    breakdown_text += f"\nRemainder: {remainder} gp = {self.format_remainder(remainder)}"
+            
+            self.breakdown_text.insert(tk.END, breakdown_text)
             self.breakdown_text.configure(state='disabled')
             
         except ValueError as e:
@@ -427,10 +483,9 @@ class CalculatorTab:
             self.price_result.delete("1.0", tk.END)
             self.price_result.insert(
                 tk.END,
-                f"💎 Price Calculation:\n\n"
                 f"Base Price (Mint): {base_price:,} gp\n"
                 f"Condition: {condition_display} ({condition_percent}%)\n"
-                f"Adjusted Price: {adjusted_price:,} gp\n\n"
+                f"Offered Price: {adjusted_price:,} gp\n\n"
                 f"Item: {rarity_display}"
             )
             self.price_result.configure(state='disabled')
