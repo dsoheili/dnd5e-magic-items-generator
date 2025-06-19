@@ -814,3 +814,43 @@ Jam Weapon	https://www.dndbeyond.com/spells/2943209-jam-weapon
 Jethro's Instant Reload	https://www.dndbeyond.com/spells/2943207-jethros-instant-reload
 Conjure Cannonball	https://www.dndbeyond.com/spells/2943206-conjure-cannonball
 Antiballistics Field	https://www.dndbeyond.com/spells/2943202-antiballistics-field
+Blood Bolt	https://www.dndbeyond.com/spells/2952580-blood-bolt
+Dissolution	https://www.dndbeyond.com/spells/2952594-dissolution
+Eye Burn	https://www.dndbeyond.com/spells/2952595-eye-burn
+Mysterious Presence	https://www.dndbeyond.com/spells/2952608-mysterious-presence
+Ancestral Communion	https://www.dndbeyond.com/spells/2952579-ancestral-communion
+Captivate Undead	https://www.dndbeyond.com/spells/2952584-captivate-undead
+Devil's Due	https://www.dndbeyond.com/spells/2952593-devils-due
+Hungering Blade	https://www.dndbeyond.com/spells/2952600-hungering-blade
+Blood Sacrifice	https://www.dndbeyond.com/spells/2952581-blood-sacrifice
+Chain of Conviction	https://www.dndbeyond.com/spells/2952585-chain-of-conviction
+Chorus of the Lost	https://www.dndbeyond.com/spells/2952586-chorus-of-the-lost
+Harrowing Ballad	https://www.dndbeyond.com/spells/2952599-harrowing-ballad
+Sanguine Secrets	https://www.dndbeyond.com/spells/2952613-sanguine-secrets
+Summer Winds	https://www.dndbeyond.com/spells/2952616-summer-winds
+Unraveling Whisper	https://www.dndbeyond.com/spells/2952617-unraveling-whisper
+Veil of the Reaper	https://www.dndbeyond.com/spells/2952618-veil-of-the-reaper
+Creeping Rot	https://www.dndbeyond.com/spells/2952588-creeping-rot
+Crimson Harvest	https://www.dndbeyond.com/spells/2952589-crimson-harvest
+Crooked Ward	https://www.dndbeyond.com/spells/2952590-crooked-ward
+Culling Sickle	https://www.dndbeyond.com/spells/2952591-culling-sickle
+Cursed Cacophony	https://www.dndbeyond.com/spells/2952592-cursed-cacophony
+Harvest Moonglow	https://www.dndbeyond.com/spells/2952598-harvest-moonglow
+Isolation	https://www.dndbeyond.com/spells/2952602-isolation
+Martyr	https://www.dndbeyond.com/spells/2952604-martyr
+Mist of Mourning	https://www.dndbeyond.com/spells/2952606-mist-of-mourning
+Sanctum of the Flock	https://www.dndbeyond.com/spells/2952612-sanctum-of-the-flock
+Scarlet Dawn	https://www.dndbeyond.com/spells/2952614-scarlet-dawn
+Shadow Drain	https://www.dndbeyond.com/spells/2952615-shadow-drain
+Buried Alive	https://www.dndbeyond.com/spells/2952582-buried-alive
+Call of the Wild	https://www.dndbeyond.com/spells/2952583-call-of-the-wild
+Consuming Pyre	https://www.dndbeyond.com/spells/2952587-consuming-pyre
+Intrusive Despair	https://www.dndbeyond.com/spells/2952601-intrusive-despair
+Murder of Crows	https://www.dndbeyond.com/spells/2952607-murder-of-crows
+Puppet Master	https://www.dndbeyond.com/spells/2952609-puppet-master
+Sacrificial Siphon	https://www.dndbeyond.com/spells/2952610-sacrificial-siphon
+Sanctum of the Shepherd	https://www.dndbeyond.com/spells/2952611-sanctum-of-the-shepherd
+Field of Reaping	https://www.dndbeyond.com/spells/2952596-field-of-reaping
+Lucky Charm	https://www.dndbeyond.com/spells/2952603-lucky-charm
+Mirrored Agony	https://www.dndbeyond.com/spells/2952605-mirrored-agony
+Ghastly Charge	https://www.dndbeyond.com/spells/2952597-ghastly-charge

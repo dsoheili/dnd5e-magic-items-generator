@@ -279,9 +279,9 @@ gui_info_text = """
 | D   | 1d100+2d20      | Very Rare, minor |
 | E   | 1d100           | Legendary, minor |
 | F   | 2d100+3d20      | Uncommon, major  |
-| G   | 4d100+2d20      | Rare, major      |
-| H   | 3d100           | Very Rare, major |
-| I   | 2d100           | Legendary, major |
+| G   | 5d100           | Rare, major      |
+| H   | 3d100+1d20      | Very Rare, major |
+| I   | 2d100+2d20      | Legendary, major |
 | J   | 1d100           | Mythic           |
 | K   | 1d12            | Unknown          |
 | Z   | 4d100+1d20+1d10 | Basic            |

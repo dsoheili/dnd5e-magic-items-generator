@@ -3028,3 +3028,108 @@ Shells (10)	https://www.dndbeyond.com/equipment/740-shells-10
 Shot (10)	https://www.dndbeyond.com/equipment/741-shot-10
 Sniper Rifle	https://www.dndbeyond.com/equipment/123-sniper-rifle
 Submachine Gun	https://www.dndbeyond.com/equipment/124-submachine-gun
+Amber Birdcage	https://www.dndbeyond.com/magic-items/10241300-amber-birdcage
+Axe of the Galloping Headsman, +1	https://www.dndbeyond.com/magic-items/10241301-axe-of-the-galloping-headsman-1
+Axe of the Galloping Headsman, +2	https://www.dndbeyond.com/magic-items/10241302-axe-of-the-galloping-headsman-2
+Axe of the Galloping Headsman, +3	https://www.dndbeyond.com/magic-items/10241303-axe-of-the-galloping-headsman-3
+Banjo of Ol' Jericho Sticks, +1	https://www.dndbeyond.com/magic-items/10241305-banjo-of-ol-jericho-sticks-1
+Banjo of Ol' Jericho Sticks, +2	https://www.dndbeyond.com/magic-items/10241306-banjo-of-ol-jericho-sticks-2
+Banjo of Ol' Jericho Sticks, +3	https://www.dndbeyond.com/magic-items/10241307-banjo-of-ol-jericho-sticks-3
+Bell of the Dusk Mother, +1	https://www.dndbeyond.com/magic-items/10241309-bell-of-the-dusk-mother-1
+Bell of the Dusk Mother, +2	https://www.dndbeyond.com/magic-items/10241310-bell-of-the-dusk-mother-2
+Bell of the Dusk Mother, +3	https://www.dndbeyond.com/magic-items/10241311-bell-of-the-dusk-mother-3
+Black Candle	https://www.dndbeyond.com/magic-items/10241313-black-candle
+Bloody Fiddle	https://www.dndbeyond.com/magic-items/10241314-bloody-fiddle
+Blunderbuss of the Grinning Sinner, +1	https://www.dndbeyond.com/magic-items/10241315-blunderbuss-of-the-grinning-sinner-1
+Blunderbuss of the Grinning Sinner, +2	https://www.dndbeyond.com/magic-items/10241316-blunderbuss-of-the-grinning-sinner-2
+Blunderbuss of the Grinning Sinner, +3	https://www.dndbeyond.com/magic-items/10241317-blunderbuss-of-the-grinning-sinner-3
+Cane of Phillip Druskenvald, +1	https://www.dndbeyond.com/magic-items/10241319-cane-of-phillip-druskenvald-1
+Cane of Phillip Druskenvald, +2	https://www.dndbeyond.com/magic-items/10241320-cane-of-phillip-druskenvald-2
+Cane of Phillip Druskenvald, +3	https://www.dndbeyond.com/magic-items/10241321-cane-of-phillip-druskenvald-3
+Cauldron of the Vermintoll Coven, +1	https://www.dndbeyond.com/magic-items/10241427-cauldron-of-the-vermintoll-coven-1
+Cauldron of the Vermintoll Coven, +2	https://www.dndbeyond.com/magic-items/10241428-cauldron-of-the-vermintoll-coven-2
+Cauldron of the Vermintoll Coven, +3	https://www.dndbeyond.com/magic-items/10241429-cauldron-of-the-vermintoll-coven-3
+Chunk of Oozing Fungus	https://www.dndbeyond.com/magic-items/10241324-chunk-of-oozing-fungus
+Crown of the Barrow King, +1	https://www.dndbeyond.com/magic-items/10241325-crown-of-the-barrow-king-1
+Crown of the Barrow King, +2	https://www.dndbeyond.com/magic-items/10241326-crown-of-the-barrow-king-2
+Crown of the Barrow King, +3	https://www.dndbeyond.com/magic-items/10241327-crown-of-the-barrow-king-3
+Cutlass of Briggsy Kratch, +1	https://www.dndbeyond.com/magic-items/10241329-cutlass-of-briggsy-kratch-1
+Cutlass of Briggsy Kratch, +2	https://www.dndbeyond.com/magic-items/10241330-cutlass-of-briggsy-kratch-2
+Cutlass of Briggsy Kratch, +3	https://www.dndbeyond.com/magic-items/10241331-cutlass-of-briggsy-kratch-3
+Devilbone Button	https://www.dndbeyond.com/magic-items/10241333-devilbone-button
+Draught of the Red Hunger	https://www.dndbeyond.com/magic-items/10241334-draught-of-the-red-hunger
+Elixir of Fogwalking	https://www.dndbeyond.com/magic-items/10241335-elixir-of-fogwalking
+Eye of the White Worm, +1	https://www.dndbeyond.com/magic-items/10241336-eye-of-the-white-worm-1
+Eye of the White Worm, +2	https://www.dndbeyond.com/magic-items/10241337-eye-of-the-white-worm-2
+Eye of the White Worm, +3	https://www.dndbeyond.com/magic-items/10241338-eye-of-the-white-worm-3
+Green Ribbon	https://www.dndbeyond.com/magic-items/10241340-green-ribbon
+Haint Hooch	https://www.dndbeyond.com/magic-items/10241341-haint-hooch
+Harvest Brew	https://www.dndbeyond.com/magic-items/10241342-harvest-brew
+Hide of the Brimstone Behemoth	https://www.dndbeyond.com/magic-items/10241346-hide-of-the-brimstone-behemoth
+Hide of the Brimstone Behemoth, +1	https://www.dndbeyond.com/magic-items/10241343-hide-of-the-brimstone-behemoth-1
+Hide of the Brimstone Behemoth, +2	https://www.dndbeyond.com/magic-items/10241344-hide-of-the-brimstone-behemoth-2
+Hide of the Brimstone Behemoth, +3	https://www.dndbeyond.com/magic-items/10241345-hide-of-the-brimstone-behemoth-3
+Hook of the Tall Man, +1	https://www.dndbeyond.com/magic-items/10241347-hook-of-the-tall-man-1
+Hook of the Tall Man, +2	https://www.dndbeyond.com/magic-items/10241348-hook-of-the-tall-man-2
+Hook of the Tall Man, +3	https://www.dndbeyond.com/magic-items/10241349-hook-of-the-tall-man-3
+Hypnovulfen Figure	https://www.dndbeyond.com/magic-items/10241351-hypnovulfen-figure
+Idol of the Beast of Blight, +1	https://www.dndbeyond.com/magic-items/10241352-idol-of-the-beast-of-blight-1
+Idol of the Beast of Blight, +2	https://www.dndbeyond.com/magic-items/10241353-idol-of-the-beast-of-blight-2
+Idol of the Beast of Blight, +3	https://www.dndbeyond.com/magic-items/10241354-idol-of-the-beast-of-blight-3
+Jinxed Poker Chip	https://www.dndbeyond.com/magic-items/10241356-jinxed-poker-chip
+Jinxed Rum	https://www.dndbeyond.com/magic-items/10241357-jinxed-rum
+Lantern of the Chained Reaper, +1	https://www.dndbeyond.com/magic-items/10241358-lantern-of-the-chained-reaper-1
+Lantern of the Chained Reaper, +2	https://www.dndbeyond.com/magic-items/10241359-lantern-of-the-chained-reaper-2
+Lantern of the Chained Reaper, +3	https://www.dndbeyond.com/magic-items/10241360-lantern-of-the-chained-reaper-3
+Lilypad Tonic	https://www.dndbeyond.com/magic-items/10241362-lilypad-tonic
+Marotte of the Lord of Fools, +1	https://www.dndbeyond.com/magic-items/10241363-marotte-of-the-lord-of-fools-1
+Marotte of the Lord of Fools, +2	https://www.dndbeyond.com/magic-items/10241364-marotte-of-the-lord-of-fools-2
+Marotte of the Lord of Fools, +3	https://www.dndbeyond.com/magic-items/10241365-marotte-of-the-lord-of-fools-3
+Mask of Lethica Nightborne, +1	https://www.dndbeyond.com/magic-items/10241367-mask-of-lethica-nightborne-1
+Mask of Lethica Nightborne, +2	https://www.dndbeyond.com/magic-items/10241368-mask-of-lethica-nightborne-2
+Mask of Lethica Nightborne, +3	https://www.dndbeyond.com/magic-items/10241369-mask-of-lethica-nightborne-3
+Midwife Shears	https://www.dndbeyond.com/magic-items/10241371-midwife-shears
+Nectar of the Green Man	https://www.dndbeyond.com/magic-items/10241372-nectar-of-the-green-man
+Nightwatcher Potion	https://www.dndbeyond.com/magic-items/10241373-nightwatcher-potion
+Planchette of Adela Druskenvald, +1	https://www.dndbeyond.com/magic-items/10241374-planchette-of-adela-druskenvald-1
+Planchette of Adela Druskenvald, +2	https://www.dndbeyond.com/magic-items/10241375-planchette-of-adela-druskenvald-2
+Planchette of Adela Druskenvald, +3	https://www.dndbeyond.com/magic-items/10241376-planchette-of-adela-druskenvald-3
+Reaper's Revenge	https://www.dndbeyond.com/magic-items/10241378-reapers-revenge
+Revelry Suit	https://www.dndbeyond.com/magic-items/10241379-revelry-suit
+Runestone of the Wild Titan, +1	https://www.dndbeyond.com/magic-items/10241380-runestone-of-the-wild-titan-1
+Runestone of the Wild Titan, +2	https://www.dndbeyond.com/magic-items/10241381-runestone-of-the-wild-titan-2
+Runestone of the Wild Titan, +3	https://www.dndbeyond.com/magic-items/10241382-runestone-of-the-wild-titan-3
+Scythe of the Harvest Terror, +1	https://www.dndbeyond.com/magic-items/10241384-scythe-of-the-harvest-terror-1
+Scythe of the Harvest Terror, +2	https://www.dndbeyond.com/magic-items/10241385-scythe-of-the-harvest-terror-2
+Scythe of the Harvest Terror, +3	https://www.dndbeyond.com/magic-items/10241386-scythe-of-the-harvest-terror-3
+Shield of Marius Renathyr, +1	https://www.dndbeyond.com/magic-items/10241388-shield-of-marius-renathyr-1
+Shield of Marius Renathyr, +2	https://www.dndbeyond.com/magic-items/10241389-shield-of-marius-renathyr-2
+Shield of Marius Renathyr, +3	https://www.dndbeyond.com/magic-items/10241390-shield-of-marius-renathyr-3
+Shovel of Yorgrim, +1	https://www.dndbeyond.com/magic-items/10241392-shovel-of-yorgrim-1
+Shovel of Yorgrim, +2	https://www.dndbeyond.com/magic-items/10241393-shovel-of-yorgrim-2
+Shovel of Yorgrim, +3	https://www.dndbeyond.com/magic-items/10241394-shovel-of-yorgrim-3
+Sight of Sin	https://www.dndbeyond.com/magic-items/10241395-sight-of-sin
+Silence of the Drowned	https://www.dndbeyond.com/magic-items/10241396-silence-of-the-drowned
+Staff of Farryn of the Greenwood, +1	https://www.dndbeyond.com/magic-items/10241397-staff-of-farryn-of-the-greenwood-1
+Staff of Farryn of the Greenwood, +2	https://www.dndbeyond.com/magic-items/10241398-staff-of-farryn-of-the-greenwood-2
+Staff of Farryn of the Greenwood, +3	https://www.dndbeyond.com/magic-items/10241399-staff-of-farryn-of-the-greenwood-3
+Sword of the Crimson Abbot, +1	https://www.dndbeyond.com/magic-items/10241400-sword-of-the-crimson-abbot-1
+Sword of the Crimson Abbot, +2	https://www.dndbeyond.com/magic-items/10241401-sword-of-the-crimson-abbot-2
+Sword of the Crimson Abbot, +3	https://www.dndbeyond.com/magic-items/10241402-sword-of-the-crimson-abbot-3
+The Bag	https://www.dndbeyond.com/magic-items/10241403-the-bag
+Tincture of Mourning	https://www.dndbeyond.com/magic-items/10241404-tincture-of-mourning
+Tooth of the Jinxed Leviathan, +1	https://www.dndbeyond.com/magic-items/10241405-tooth-of-the-jinxed-leviathan-1
+Tooth of the Jinxed Leviathan, +2	https://www.dndbeyond.com/magic-items/10241406-tooth-of-the-jinxed-leviathan-2
+Tooth of the Jinxed Leviathan, +3	https://www.dndbeyond.com/magic-items/10241407-tooth-of-the-jinxed-leviathan-3
+Toy Riverboat	https://www.dndbeyond.com/magic-items/10241408-toy-riverboat
+Veil of the Weeping Widow, +1	https://www.dndbeyond.com/magic-items/10241409-veil-of-the-weeping-widow-1
+Veil of the Weeping Widow, +2	https://www.dndbeyond.com/magic-items/10241410-veil-of-the-weeping-widow-2
+Veil of the Weeping Widow, +3	https://www.dndbeyond.com/magic-items/10241411-veil-of-the-weeping-widow-3
+Visage of the Old Ways, +1	https://www.dndbeyond.com/magic-items/10241412-visage-of-the-old-ways-2
+Visage of the Old Ways, +2	https://www.dndbeyond.com/magic-items/10241413-visage-of-the-old-ways-4
+Visage of the Old Ways, +3	https://www.dndbeyond.com/magic-items/10241414-visage-of-the-old-ways-6
+Whistle of the Vagrant, +1	https://www.dndbeyond.com/magic-items/10241415-whistle-of-the-vagrant-1
+Whistle of the Vagrant, +2	https://www.dndbeyond.com/magic-items/10241416-whistle-of-the-vagrant-2
+Whistle of the Vagrant, +3	https://www.dndbeyond.com/magic-items/10241417-whistle-of-the-vagrant-3
+Withered Hand	https://www.dndbeyond.com/magic-items/10241418-withered-hand
+Wytchwood Sap	https://www.dndbeyond.com/magic-items/10241419-wytchwood-sap
