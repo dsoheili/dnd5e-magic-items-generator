@@ -101,23 +101,23 @@ item_condition_mapping = {
 }
 
 # ----- Combined Shop --------
-number_of_combined_shop_items = 4
+number_of_combined_shop_items = 10
 combined_shop_rarities_probabilities = {
     "basic"             : 0.0,
-    "common"            : 0.50,
-    "uncommon_minor"    : 0.25,
+    "common"            : 0.25,
+    "uncommon_minor"    : 0.20,
     "rare_minor"        : 0,
     "very_rare_minor"   : 0,
     "legendary_minor"   : 0,
-    "uncommon_major"    : 0.25,
+    "uncommon_major"    : 0.20,
     "rare_major"        : 0,
     "very_rare_major"   : 0,
     "legendary_major"   : 0,
     "mythic"            : 0,
     "unknown"           : 0,
     "level_0"           : 0.0,
-    "level_1"           : 0.0,
-    "level_2"           : 0.0,
+    "level_1"           : 0.15,
+    "level_2"           : 0.10,
     "level_3"           : 0,
     "level_4"           : 0,
     "level_5"           : 0,
@@ -130,8 +130,8 @@ combined_shop_rarities_probabilities = {
     "rare_potion"       : 0,
     "very_rare_potion"  : 0,
     "legendary_potion"  : 0,
-    "beneficial_potion" : 0,
-    "detrimental_potion": 0
+    "beneficial_potion" : 0.05,
+    "detrimental_potion": 0.05
 }
 
 price_ranges = {
@@ -162,8 +162,8 @@ price_ranges = {
     "rare_potion"       : (2000, 2000),
     "very_rare_potion"  : (20000, 20000),
     "legendary_potion"  : (100000, 100000),
-    "beneficial_potion" : (800, 1200),
-    "detrimental_potion": (600, 900)
+    "beneficial_potion" : (400, 900),
+    "detrimental_potion": (400, 900)
 }
 
 # Simple gold drop ranges: CR -> (min_gold, max_gold) per monster
@@ -266,8 +266,8 @@ emoticons = {
     "rare_potion"       : ":alembic::alembic::alembic:",
     "very_rare_potion"  : ":alembic::alembic::alembic::alembic:",
     "legendary_potion"  : ":alembic::alembic::alembic::alembic::alembic:",
-    "beneficial_potion" : ":champagne::champagne::champagne:",
-    "detrimental_potion": ":test_tube::test_tube::test_tube:"
+    "beneficial_potion" : ":champagne:",
+    "detrimental_potion": ":test_tube:"
 }
 
 gui_info_text = """
@@ -283,6 +283,6 @@ gui_info_text = """
 | H   | 3d100+1d20      | Very Rare, major |
 | I   | 2d100+2d20      | Legendary, major |
 | J   | 1d100           | Mythic           |
-| K   | 1d12            | Unknown          |
+| K   | 1d20            | Unknown          |
 | Z   | 4d100+1d20+1d10 | Basic            |
 """

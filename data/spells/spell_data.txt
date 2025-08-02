@@ -854,3 +854,35 @@ Field of Reaping	https://www.dndbeyond.com/spells/2952596-field-of-reaping
 Lucky Charm	https://www.dndbeyond.com/spells/2952603-lucky-charm
 Mirrored Agony	https://www.dndbeyond.com/spells/2952605-mirrored-agony
 Ghastly Charge	https://www.dndbeyond.com/spells/2952597-ghastly-charge
+Cat's Spring	https://www.dndbeyond.com/spells/2984813-cats-spring
+Chant of Thoth	https://www.dndbeyond.com/spells/2984814-chant-of-thoth
+Confounding Shadows	https://www.dndbeyond.com/spells/2984808-confounding-shadows
+Evil Eye	https://www.dndbeyond.com/spells/2984825-evil-eye
+Body Warping of Gorgoroth	https://www.dndbeyond.com/spells/2984810-body-warping-of-gorgoroth
+Create Mist of R'lyeh	https://www.dndbeyond.com/spells/2984819-create-mist-of-rlyeh
+Tide of Darkness	https://www.dndbeyond.com/spells/2984830-tide-of-darkness
+Umbral Tendril	https://www.dndbeyond.com/spells/2984831-umbral-tendril
+Awaken Portal	https://www.dndbeyond.com/spells/2993042-awaken-portal
+Breath of the Deep	https://www.dndbeyond.com/spells/2984811-breath-of-the-deep
+Clutch of Darkness	https://www.dndbeyond.com/spells/2984815-clutch-of-darkness
+Feline Grace	https://www.dndbeyond.com/spells/2984826-feline-grace
+Worm's Repast	https://www.dndbeyond.com/spells/2993047-worms-repast
+Curse of the Putrid Husk	https://www.dndbeyond.com/spells/2984820-curse-of-the-putrid-husk
+Doom	https://www.dndbeyond.com/spells/2984822-doom
+Phantom Panther	https://www.dndbeyond.com/spells/2984818-phantom-panther
+Shadowy Eruption	https://www.dndbeyond.com/spells/2984828-shadowy-eruption
+Voorish Sign	https://www.dndbeyond.com/spells/2984832-voorish-sign
+Daydreamer's Curse	https://www.dndbeyond.com/spells/2993043-daydreamers-curse
+Dust of Suleiman	https://www.dndbeyond.com/spells/2984823-dust-of-suleiman
+Fist of Yog-Sothoth	https://www.dndbeyond.com/spells/2984817-fist-of-yog-sothoth
+Outcast's Curse	https://www.dndbeyond.com/spells/2993045-outcasts-curse
+Sage's Curse	https://www.dndbeyond.com/spells/2993046-sages-curse
+Contact Deity	https://www.dndbeyond.com/spells/2984816-contact-deity
+Dismiss Deity	https://www.dndbeyond.com/spells/2984821-dismiss-deity
+Ectoplasmic Expulsion	https://www.dndbeyond.com/spells/2993044-ectoplasmic-expulsion
+Feline Chaos	https://www.dndbeyond.com/spells/2984809-feline-chaos
+Summon Shadow	https://www.dndbeyond.com/spells/2984829-summon-shadow
+Red Sign	https://www.dndbeyond.com/spells/2984827-red-sign
+Dread Curse of Azathoth	https://www.dndbeyond.com/spells/2984824-dread-curse-of-azathoth
+Call Deity	https://www.dndbeyond.com/spells/2984812-call-deity
+Wave of Oblivion	https://www.dndbeyond.com/spells/2984833-wave-of-oblivion
