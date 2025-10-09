@@ -886,3 +886,104 @@ Red Sign	https://www.dndbeyond.com/spells/2984827-red-sign
 Dread Curse of Azathoth	https://www.dndbeyond.com/spells/2984824-dread-curse-of-azathoth
 Call Deity	https://www.dndbeyond.com/spells/2984812-call-deity
 Wave of Oblivion	https://www.dndbeyond.com/spells/2984833-wave-of-oblivion
+Calling Card	https://www.dndbeyond.com/spells/3014221-calling-card
+Frightful Start	https://www.dndbeyond.com/spells/3014240-frightful-start
+Holy Word	https://www.dndbeyond.com/spells/3014244-holy-word
+Hunter Sense	https://www.dndbeyond.com/spells/3014245-hunter-sense
+Illusory Instrument	https://www.dndbeyond.com/spells/3014246-illusory-instrument
+Preserve	https://www.dndbeyond.com/spells/3014277-preserve
+Arcane Aegis	https://www.dndbeyond.com/spells/3014203-arcane-aegis
+Assisted Aim	https://www.dndbeyond.com/spells/3014204-assisted-aim
+Binding Pledge	https://www.dndbeyond.com/spells/3014205-binding-pledge
+Blood Rush	https://www.dndbeyond.com/spells/3014210-blood-rush
+Bloodbane Rune	https://www.dndbeyond.com/spells/3014207-bloodbane-rune
+Boil Blood	https://www.dndbeyond.com/spells/3014218-boil-blood
+Consumption	https://www.dndbeyond.com/spells/3014213-consumption
+Creeping Touch	https://www.dndbeyond.com/spells/3014216-creeping-touch
+Crimson Lash	https://www.dndbeyond.com/spells/3014222-crimson-lash
+Ghost Light	https://www.dndbeyond.com/spells/3014241-ghost-light
+Intaglio	https://www.dndbeyond.com/spells/3014248-intaglio
+Neutralize Aura	https://www.dndbeyond.com/spells/3014272-neutralize-aura
+Somnolence	https://www.dndbeyond.com/spells/3014290-somnolence
+Thorn Armor	https://www.dndbeyond.com/spells/3014252-thorn-armor
+Tremor	https://www.dndbeyond.com/spells/3014253-tremor
+Vampiric Claws	https://www.dndbeyond.com/spells/3014255-vampiric-claws
+Vibrating Humors	https://www.dndbeyond.com/spells/3014256-vibrating-humors
+Bloat	https://www.dndbeyond.com/spells/3014206-bloat
+Blood Wisp	https://www.dndbeyond.com/spells/3014217-blood-wisp
+Bloodletter	https://www.dndbeyond.com/spells/3014208-bloodletter
+Dazing Blast	https://www.dndbeyond.com/spells/3014215-dazing-blast
+Enspelled Armament	https://www.dndbeyond.com/spells/3014229-enspelled-armament
+Fiend Flesh	https://www.dndbeyond.com/spells/3014236-fiend-flesh
+Life Tether	https://www.dndbeyond.com/spells/3014260-life-tether
+Overgrow	https://www.dndbeyond.com/spells/3014273-overgrow
+Sanguine Shield	https://www.dndbeyond.com/spells/3014284-sanguine-shield
+Seal Spellcasting	https://www.dndbeyond.com/spells/3014285-seal-spellcasting
+Sense Lifeblood	https://www.dndbeyond.com/spells/3014286-sense-lifeblood
+Summon Plant	https://www.dndbeyond.com/spells/3014251-summon-plant
+Theft of Vitae	https://www.dndbeyond.com/spells/3014234-theft-of-vitae
+Wilting Smite	https://www.dndbeyond.com/spells/3014294-wilting-smite
+Wrack	https://www.dndbeyond.com/spells/3014296-wrack
+Blood Bond	https://www.dndbeyond.com/spells/3014209-blood-bond
+Call the Rabid Beast	https://www.dndbeyond.com/spells/3014220-call-the-rabid-beast
+Conjure Plants	https://www.dndbeyond.com/spells/3014235-conjure-plants
+Curse of Fastidious Pride	https://www.dndbeyond.com/spells/3014300-curse-of-fastidious-pride
+Curse of Ravenous Hunger	https://www.dndbeyond.com/spells/3014264-curse-of-ravenous-hunger
+Elemental Exhalation	https://www.dndbeyond.com/spells/3014226-elemental-exhalation
+Emmeline's Essence Infusion	https://www.dndbeyond.com/spells/3014227-emmelines-essence-infusion
+Extract Iron	https://www.dndbeyond.com/spells/3014231-extract-iron
+Flash Fever	https://www.dndbeyond.com/spells/3014237-flash-fever
+Maelfa's Quickened Class	https://www.dndbeyond.com/spells/3014267-maelfas-quickened-class
+Mirror Spell	https://www.dndbeyond.com/spells/3014270-mirror-spell
+Reanimate	https://www.dndbeyond.com/spells/3014279-reanimate
+Sanguine Poppet	https://www.dndbeyond.com/spells/3014283-sanguine-poppet
+Serpent Tongue	https://www.dndbeyond.com/spells/3014287-serpent-tongue
+Suffocate	https://www.dndbeyond.com/spells/3014228-suffocate
+Summon Sea Spirit	https://www.dndbeyond.com/spells/3014302-summon-sea-spirit
+Circle of Scarlet	https://www.dndbeyond.com/spells/3014233-circle-of-scarlet
+Consume Mind	https://www.dndbeyond.com/spells/3014212-consume-mind
+Curse of Damned Aging	https://www.dndbeyond.com/spells/3014298-curse-of-damned-aging
+Curse of Foul Blight	https://www.dndbeyond.com/spells/3014301-curse-of-foul-blight
+Curse of Lost Sentiment	https://www.dndbeyond.com/spells/3014263-curse-of-lost-sentiment
+Dark Sacrament	https://www.dndbeyond.com/spells/3014224-dark-sacrament
+Primordial Power	https://www.dndbeyond.com/spells/3014278-primordial-power
+Ride the Lightning	https://www.dndbeyond.com/spells/3014281-ride-the-lightning
+Shared Judgement	https://www.dndbeyond.com/spells/3014288-shared-judgement
+Shroud Blood	https://www.dndbeyond.com/spells/3014289-shroud-blood
+Supernal Smite	https://www.dndbeyond.com/spells/3014232-supernal-smite
+Viscous Sheath	https://www.dndbeyond.com/spells/3014257-viscous-sheath
+Curse of Ill-Fated Fortune	https://www.dndbeyond.com/spells/3014261-curse-of-ill-fated-fortune
+Curse of Insatiable Greed	https://www.dndbeyond.com/spells/3014262-curse-of-insatiable-greed
+Greater Animate Dead	https://www.dndbeyond.com/spells/3014242-greater-animate-dead
+Incite Riot	https://www.dndbeyond.com/spells/3014247-incite-riot
+Investiture of Venom	https://www.dndbeyond.com/spells/3014249-investiture-of-venom
+Little Death	https://www.dndbeyond.com/spells/3014266-little-death
+Magic Mirror	https://www.dndbeyond.com/spells/3014268-magic-mirror
+Mortality	https://www.dndbeyond.com/spells/3014271-mortality
+Spirit Swarm	https://www.dndbeyond.com/spells/3014291-spirit-swarm
+Splattering Smite	https://www.dndbeyond.com/spells/3014292-splattering-smite
+Blood Tide	https://www.dndbeyond.com/spells/3014211-blood-tide
+Chains of Beleth	https://www.dndbeyond.com/spells/3014230-chains-of-beleth
+Crown of Radiance	https://www.dndbeyond.com/spells/3014223-crown-of-radiance
+Curse of Conceited Obsession	https://www.dndbeyond.com/spells/3014201-curse-of-conceited-obsession
+Curse of Crushing Sensation	https://www.dndbeyond.com/spells/3014299-curse-of-crushing-sensation
+Curse of Uncontrollable Wrath	https://www.dndbeyond.com/spells/3014265-curse-of-uncontrollable-wrath
+Earth Worm	https://www.dndbeyond.com/spells/3014225-earth-worm
+Heartseeker	https://www.dndbeyond.com/spells/3014243-heartseeker
+Melting Curse	https://www.dndbeyond.com/spells/3014269-melting-curse
+Weave Numen	https://www.dndbeyond.com/spells/3014259-weave-numen
+Arboreal Curse	https://www.dndbeyond.com/spells/3014202-arboreal-curse
+Burst Forth	https://www.dndbeyond.com/spells/3014219-burst-forth
+Fleshcrawl	https://www.dndbeyond.com/spells/3014239-fleshcrawl
+Power Word Maim	https://www.dndbeyond.com/spells/3014276-power-word-maim
+Sanguine Fusillade	https://www.dndbeyond.com/spells/3014282-sanguine-fusillade
+Creeping Death	https://www.dndbeyond.com/spells/3014214-creeping-death
+Flense	https://www.dndbeyond.com/spells/3014238-flense
+Lifesink	https://www.dndbeyond.com/spells/3014250-lifesink
+Red Rain	https://www.dndbeyond.com/spells/3014280-red-rain
+Undead Enthrallment	https://www.dndbeyond.com/spells/3014254-undead-enthrallment
+Wall of Gloom	https://www.dndbeyond.com/spells/3014258-wall-of-gloom
+Perfection	https://www.dndbeyond.com/spells/3014274-perfection
+Phoenix Flames	https://www.dndbeyond.com/spells/3014275-phoenix-flames
+Steal Immortality	https://www.dndbeyond.com/spells/3014293-steal-immortality
+Wipe Face	https://www.dndbeyond.com/spells/3014295-wipe-face

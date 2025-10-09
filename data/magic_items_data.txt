@@ -3139,3 +3139,32 @@ Whistle of the Vagrant, +2	https://www.dndbeyond.com/magic-items/10241416-whistl
 Whistle of the Vagrant, +3	https://www.dndbeyond.com/magic-items/10241417-whistle-of-the-vagrant-3
 Withered Hand	https://www.dndbeyond.com/magic-items/10241418-withered-hand
 Wytchwood Sap	https://www.dndbeyond.com/magic-items/10241419-wytchwood-sap
+Book of Dzyan	https://www.dndbeyond.com/magic-items/10378274-book-of-dzyan
+Cooperative Blade	https://www.dndbeyond.com/magic-items/10414291-cooperative-blade
+Crimson Fulcrum Lens	https://www.dndbeyond.com/magic-items/10414292-crimson-fulcrum-lens
+Drover's Band	https://www.dndbeyond.com/magic-items/10414293-drovers-band
+Ebon Fulcrum Lens	https://www.dndbeyond.com/magic-items/10414294-ebon-fulcrum-lens
+Edge of Dissolution	https://www.dndbeyond.com/magic-items/10414300-edge-of-dissolution
+Emerald Fulcrum Lens	https://www.dndbeyond.com/magic-items/10414301-emerald-fulcrum-lens
+Folding Drums	https://www.dndbeyond.com/magic-items/10414302-folding-drums
+Fulcrum Lattice	https://www.dndbeyond.com/magic-items/10414303-fulcrum-lattice
+Gauntlight	https://www.dndbeyond.com/magic-items/10414304-gauntlight
+Hunter's Brooch	https://www.dndbeyond.com/magic-items/10414305-hunters-brooch
+Ichthyosis Mutagen	https://www.dndbeyond.com/magic-items/10414306-ichthyosis-mutagen
+Lantern of Empty Light	https://www.dndbeyond.com/magic-items/10414307-lantern-of-empty-light
+Necronomicon	https://www.dndbeyond.com/magic-items/10378275-necronomicon
+Ochre Fulcrum Lens	https://www.dndbeyond.com/magic-items/10414308-ochre-fulcrum-lens
+Pnakotic Manuscripts	https://www.dndbeyond.com/magic-items/10378276-pnakotic-manuscripts
+Seven Cryptical Books of Hsan	https://www.dndbeyond.com/magic-items/10378277-seven-cryptical-books-of-hsan
+Shadowed Thieves' Tools	https://www.dndbeyond.com/magic-items/10414309-shadowed-thieves-tools
+The King in Yellow	https://www.dndbeyond.com/magic-items/10378278-the-king-in-yellow
+The Whispering Reeds	https://www.dndbeyond.com/magic-items/10414310-the-whispering-reeds
+Thresholds of Truth	https://www.dndbeyond.com/magic-items/10414311-thresholds-of-truth
+Cap of Vanishing	https://www.dndbeyond.com/magic-items/10674153-cap-of-vanishing
+Cloak of Billowing (Stranger Things)	https://www.dndbeyond.com/magic-items/10674154-cloak-of-billowing-stranger-things
+Dread Helm (Stranger Things)	https://www.dndbeyond.com/magic-items/10674155-dread-helm-stranger-things
+Holly's Handy Haversack	https://www.dndbeyond.com/magic-items/10674156-hollys-handy-haversack
+Pipes of Pestilence	https://www.dndbeyond.com/magic-items/10674157-pipes-of-pestilence
+Poison Soaked Kukri	https://www.dndbeyond.com/magic-items/10674158-poison-soaked-kukri
+Speaking Stones	https://www.dndbeyond.com/magic-items/10674159-speaking-stones
+Spiked Shield	https://www.dndbeyond.com/magic-items/10674160-spiked-shield

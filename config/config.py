@@ -1,10 +1,11 @@
 # Player character names for GUI
 character_names = [
+    "NPC",
+    "Brambletail",
     "Gepeu",
     "Gnilbert",
     "Sally",
-    "Zokira",
-    "NPC"
+    "Zokira"
 ]
 
 # ----- Enchantments ------------
@@ -104,13 +105,13 @@ item_condition_mapping = {
 number_of_combined_shop_items = 10
 combined_shop_rarities_probabilities = {
     "basic"             : 0.0,
-    "common"            : 0.25,
+    "common"            : 0.15,
     "uncommon_minor"    : 0.20,
-    "rare_minor"        : 0,
+    "rare_minor"        : 0.05,
     "very_rare_minor"   : 0,
     "legendary_minor"   : 0,
     "uncommon_major"    : 0.20,
-    "rare_major"        : 0,
+    "rare_major"        : 0.05,
     "very_rare_major"   : 0,
     "legendary_major"   : 0,
     "mythic"            : 0,
@@ -118,7 +119,7 @@ combined_shop_rarities_probabilities = {
     "level_0"           : 0.0,
     "level_1"           : 0.15,
     "level_2"           : 0.10,
-    "level_3"           : 0,
+    "level_3"           : 0.05,
     "level_4"           : 0,
     "level_5"           : 0,
     "level_6"           : 0,
@@ -162,8 +163,8 @@ price_ranges = {
     "rare_potion"       : (2000, 2000),
     "very_rare_potion"  : (20000, 20000),
     "legendary_potion"  : (100000, 100000),
-    "beneficial_potion" : (400, 900),
-    "detrimental_potion": (400, 900)
+    "beneficial_potion" : (300, 600),
+    "detrimental_potion": (300, 600)
 }
 
 # Simple gold drop ranges: CR -> (min_gold, max_gold) per monster
