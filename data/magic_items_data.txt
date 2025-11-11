@@ -722,7 +722,7 @@ Ring of Truth Telling	https://www.dndbeyond.com/magic-items/254338-ring-of-truth
 Ring of Warmth	https://www.dndbeyond.com/magic-items/9228972-ring-of-warmth
 Ring of Water Walking	https://www.dndbeyond.com/magic-items/9228973-ring-of-water-walking
 Ring of Winter	https://www.dndbeyond.com/magic-items/21727-ring-of-winter
-Ring of X-ray Vision	https://www.dndbeyond.com/magic-items/9228974-ring-of-x-ray-vision
+Ring of X-Ray Vision	https://www.dndbeyond.com/magic-items/9228974-ring-of-x-ray-vision
 Rings of Shared Suffering	https://www.dndbeyond.com/magic-items/215718-rings-of-shared-suffering
 Robe of Eyes	https://www.dndbeyond.com/magic-items/9228976-robe-of-eyes
 Robe of Scintillating Colors	https://www.dndbeyond.com/magic-items/9228977-robe-of-scintillating-colors
@@ -2976,6 +2976,18 @@ Everhot Stew Pot	https://www.dndbeyond.com/magic-items/10185146-everhot-stew-pot
 Familiar Figurine	https://www.dndbeyond.com/magic-items/10185147-familiar-figurine
 Fractal Key	https://www.dndbeyond.com/magic-items/10135861-fractal-key
 Frozen Armor	https://www.dndbeyond.com/magic-items/10185148-frozen-armor
+Frozen Padded	https://www.dndbeyond.com/magic-items/10185155-frozen-padded-armor
+Frozen Leather	https://www.dndbeyond.com/magic-items/10185154-frozen-leather-armor
+Frozen Studded Leather	https://www.dndbeyond.com/magic-items/10185160-frozen-studded-leather-armor
+Frozen Hide	https://www.dndbeyond.com/magic-items/10185153-frozen-hide-armor
+Frozen Chain Shirt	https://www.dndbeyond.com/magic-items/10185151-frozen-chain-shirt
+Frozen Scale Mail	https://www.dndbeyond.com/magic-items/10185158-frozen-scale-mail
+Frozen Breastplate	https://www.dndbeyond.com/magic-items/10185149-frozen-breastplate
+Frozen Half Plate	https://www.dndbeyond.com/magic-items/10185152-frozen-half-plate-armor
+Frozen Ring Mail	https://www.dndbeyond.com/magic-items/10185157-frozen-ring-mail
+Frozen Chain Mail	https://www.dndbeyond.com/magic-items/10185150-frozen-chain-mail
+Frozen Splint	https://www.dndbeyond.com/magic-items/10185159-frozen-splint-armor
+Frozen Plate	https://www.dndbeyond.com/magic-items/10185156-frozen-plate-armor
 Ghost Sight Bow	https://www.dndbeyond.com/magic-items/10185161-ghost-sight-bow
 Giant Femur Club	https://www.dndbeyond.com/magic-items/10185167-giant-femur-club
 Gloves of Ratling Agility	https://www.dndbeyond.com/magic-items/10185168-gloves-of-ratling-agility
@@ -3168,3 +3180,23 @@ Pipes of Pestilence	https://www.dndbeyond.com/magic-items/10674157-pipes-of-pest
 Poison Soaked Kukri	https://www.dndbeyond.com/magic-items/10674158-poison-soaked-kukri
 Speaking Stones	https://www.dndbeyond.com/magic-items/10674159-speaking-stones
 Spiked Shield	https://www.dndbeyond.com/magic-items/10674160-spiked-shield
+Adventurer's Ring	https://www.dndbeyond.com/magic-items/10771753-adventurers-ring
+Thayan Spell Tattoo	https://www.dndbeyond.com/magic-items/10771756-thayan-spell-tattoo
+Windskiff	https://www.dndbeyond.com/magic-items/10771757-windskiff
+Calimemnon Crystal	https://www.dndbeyond.com/magic-items/10771760-calimemnon-crystal
+Crown of Horns	https://www.dndbeyond.com/magic-items/10771761-crown-of-horns
+Domestic Wonder	https://www.dndbeyond.com/magic-items/10771754-domestic-wonder
+Flying Wonder	https://www.dndbeyond.com/magic-items/10771762-flying-wonder
+Gyrocopter Wonder	https://www.dndbeyond.com/magic-items/10771763-gyrocopter-wonder
+Harper Pin	https://www.dndbeyond.com/magic-items/10771764-harper-pin
+Mobility Wonder	https://www.dndbeyond.com/magic-items/10771766-mobility-wonder
+Orb of Damara	https://www.dndbeyond.com/magic-items/10771767-orb-of-damara
+Tome of the Dragon	https://www.dndbeyond.com/magic-items/10771768-tome-of-the-dragon
+Arcane Battery	https://www.dndbeyond.com/magic-items/10828740-arcane-battery
+Brooch of the Elements	https://www.dndbeyond.com/magic-items/10828741-brooch-of-the-elements
+Fork of Eddy Summoning	https://www.dndbeyond.com/magic-items/10828742-fork-of-eddy-summoning
+Hat of Vortexes	https://www.dndbeyond.com/magic-items/10828743-hat-of-vortexes
+Magen Handbell	https://www.dndbeyond.com/magic-items/10828744-magen-handbell
+Mask of Changed Appearance	https://www.dndbeyond.com/magic-items/10828745-mask-of-changed-appearance
+Mythallar Bracelet	https://www.dndbeyond.com/magic-items/10828746-mythallar-bracelet
+Mythallar Cloak	https://www.dndbeyond.com/magic-items/10828747-mythallar-cloak

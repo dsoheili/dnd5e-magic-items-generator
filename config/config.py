@@ -104,22 +104,22 @@ item_condition_mapping = {
 # ----- Combined Shop --------
 number_of_combined_shop_items = 10
 combined_shop_rarities_probabilities = {
-    "basic"             : 0.0,
+    "basic"             : 0,
     "common"            : 0.15,
-    "uncommon_minor"    : 0.20,
+    "uncommon_minor"    : 0.35,
     "rare_minor"        : 0.05,
     "very_rare_minor"   : 0,
     "legendary_minor"   : 0,
-    "uncommon_major"    : 0.20,
+    "uncommon_major"    : 0.40,
     "rare_major"        : 0.05,
     "very_rare_major"   : 0,
     "legendary_major"   : 0,
     "mythic"            : 0,
     "unknown"           : 0,
-    "level_0"           : 0.0,
-    "level_1"           : 0.15,
-    "level_2"           : 0.10,
-    "level_3"           : 0.05,
+    "level_0"           : 0,
+    "level_1"           : 0,
+    "level_2"           : 0,
+    "level_3"           : 0,
     "level_4"           : 0,
     "level_5"           : 0,
     "level_6"           : 0,
@@ -131,8 +131,8 @@ combined_shop_rarities_probabilities = {
     "rare_potion"       : 0,
     "very_rare_potion"  : 0,
     "legendary_potion"  : 0,
-    "beneficial_potion" : 0.05,
-    "detrimental_potion": 0.05
+    "beneficial_potion" : 0,
+    "detrimental_potion": 0
 }
 
 price_ranges = {
