@@ -3200,3 +3200,26 @@ Magen Handbell	https://www.dndbeyond.com/magic-items/10828744-magen-handbell
 Mask of Changed Appearance	https://www.dndbeyond.com/magic-items/10828745-mask-of-changed-appearance
 Mythallar Bracelet	https://www.dndbeyond.com/magic-items/10828746-mythallar-bracelet
 Mythallar Cloak	https://www.dndbeyond.com/magic-items/10828747-mythallar-cloak
+Boots of the Winding Path	https://www.dndbeyond.com/magic-items/10886002-boots-of-the-winding-path
+Dazzling Weapon	https://www.dndbeyond.com/magic-items/10886041-dazzling-weapon
+Helm of Awareness	https://www.dndbeyond.com/magic-items/10886043-helm-of-awareness
+Manifold Tool	https://www.dndbeyond.com/magic-items/10886044-manifold-tool
+Mind Sharpener	https://www.dndbeyond.com/magic-items/10886045-mind-sharpener
+Repeating Shot	https://www.dndbeyond.com/magic-items/10886055-repeating-shot
+Repulsion Shield	https://www.dndbeyond.com/magic-items/10886056-repulsion-shield
+Returning Weapon	https://www.dndbeyond.com/magic-items/10886064-returning-weapon
+Spell-Refueling Ring	https://www.dndbeyond.com/magic-items/10886065-spell-refueling-ring
+Reliquary of Dawn	https://www.dndbeyond.com/magic-items/10857065-reliquary-of-dawn
+Reliquary of Twilight	https://www.dndbeyond.com/magic-items/10857066-reliquary-of-twilight
+Babble Pipes	https://www.dndbeyond.com/magic-items/10914775-babble-pipes
+Boots of Soft Landing	https://www.dndbeyond.com/magic-items/10914776-boots-of-soft-landing
+Calling Quills	https://www.dndbeyond.com/magic-items/10914777-calling-quills
+Gold Rings of Might	https://www.dndbeyond.com/magic-items/10914778-gold-rings-of-might
+Goose Egg Healing Grenade	https://www.dndbeyond.com/magic-items/10914779-goose-egg-healing-grenade
+Metronome Drum	https://www.dndbeyond.com/magic-items/10914780-metronome-drum
+Partridge Armor	https://www.dndbeyond.com/magic-items/10914784-partridge-armor
+Phial of Stoutmilk	https://www.dndbeyond.com/magic-items/10914785-phial-of-stoutmilk
+Swansong Staff	https://www.dndbeyond.com/magic-items/10914786-swansong-staff
+Trident of Henchantment	https://www.dndbeyond.com/magic-items/10914787-trident-of-henchantment
+Turtle Dove Dagger	https://www.dndbeyond.com/magic-items/10914788-turtle-dove-dagger
+Wand of Dancing	https://www.dndbeyond.com/magic-items/10914789-wand-of-dancing

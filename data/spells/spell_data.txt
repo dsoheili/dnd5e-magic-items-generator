@@ -987,3 +987,23 @@ Perfection	https://www.dndbeyond.com/spells/3014274-perfection
 Phoenix Flames	https://www.dndbeyond.com/spells/3014275-phoenix-flames
 Steal Immortality	https://www.dndbeyond.com/spells/3014293-steal-immortality
 Wipe Face	https://www.dndbeyond.com/spells/3014295-wipe-face
+Homunculus Servant	https://www.dndbeyond.com/spells/3107729-homunculus-servant
+Spellfire Flare	https://www.dndbeyond.com/spells/3078521-spellfire-flare
+Wardaway	https://www.dndbeyond.com/spells/3078518-wardaway
+Death Armor	https://www.dndbeyond.com/spells/3078531-death-armor
+Deryan's Helpful Homunculi	https://www.dndbeyond.com/spells/3078530-deryans-helpful-homunculi
+Elminster's Elusion	https://www.dndbeyond.com/spells/3078526-elminsters-elusion
+Cacophonic Shield	https://www.dndbeyond.com/spells/3078514-cacophonic-shield
+Conjure Constructs	https://www.dndbeyond.com/spells/3078513-conjure-constructs
+Laeral's Silver Lance	https://www.dndbeyond.com/spells/3078524-laerals-silver-lance
+Syluné's Viper	https://www.dndbeyond.com/spells/3078519-sylunes-viper
+Backlash	https://www.dndbeyond.com/spells/3078517-backlash
+Doomtide	https://www.dndbeyond.com/spells/3078528-doomtide
+Spellfire Storm	https://www.dndbeyond.com/spells/3078520-spellfire-storm
+Alustriel's Mooncloak	https://www.dndbeyond.com/spells/3078516-alustriels-mooncloak
+Songal's Elemental Suffusion	https://www.dndbeyond.com/spells/3078522-songals-elemental-suffusion
+Dirge	https://www.dndbeyond.com/spells/3078529-dirge
+Elminster's Effulgent Spheres	https://www.dndbeyond.com/spells/3078527-elminsters-effulgent-spheres
+Simbul's Synostodweomer	https://www.dndbeyond.com/spells/3078523-simbuls-synostodweomer
+Holy Star of Mystra	https://www.dndbeyond.com/spells/3078525-holy-star-of-mystra
+Blade of Disaster	https://www.dndbeyond.com/spells/3078515-blade-of-disaster
